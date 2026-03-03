@@ -7,12 +7,12 @@
         body { font-family: sans-serif; max-width: 800px; margin: 40px auto; padding: 20px; line-height: 1.6; background-color: #f9fafb; }
         .card { border: 1px solid #ddd; border-radius: 8px; padding: 20px; margin-bottom: 20px; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
         .tag { display: inline-block; background: #e0f2fe; color: #0369a1; padding: 2px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; margin-bottom: 10px; }
+        .btn-copy { background: #f3f4f6; border: 1px solid #d1d5db; padding: 4px 12px; border-radius: 6px; cursor: pointer; font-size: 13px; margin-left: 10px; transition: 0.2s; }
+        .btn-copy:hover { background: #e5e7eb; }
         a { color: #2563eb; text-decoration: none; font-weight: bold; }
         a:hover { text-decoration: underline; }
         h1 { color: #111827; }
         h2 { margin-top: 0; color: #1f2937; }
-        ul { padding-left: 20px; }
-        li { margin-bottom: 8px; }
     </style>
 </head>
 <body>
@@ -24,10 +24,22 @@
         <h2>🏠 空き家問題：公費解体と跡地利用の対立</h2>
         <p>所有権の尊重か、近隣住民の安全か。複雑に絡み合う価値観をAREが紐解きます。</p>
         <ul>
-            <li><a href="themes/empty-house/graph.html">📊 インタラクティブ・グラフを見る</a></li>
+            <li>
+                <a href="themes/empty-house/graph.html" id="graph-link">📊 インタラクティブ・グラフを見る</a>
+                <button class="btn-copy" onclick="copyLink()">URLをコピー</button>
+            </li>
             <li><a href="https://github.com/ogaogamirai/ARE-Public-Gallery/blob/main/themes/empty-house/report.md">📝 分析レポートを詳しく読む (Markdown)</a></li>
         </ul>
     </div>
 
-    </body>
+    <script>
+        function copyLink() {
+            // グラフのフルURLを作成
+            const link = window.location.origin + window.location.pathname + "themes/empty-house/graph.html";
+            navigator.clipboard.writeText(link).then(() => {
+                alert("グラフのURLをコピーしました！noteやSNSでシェアしてください。");
+            });
+        }
+    </script>
+</body>
 </html>
