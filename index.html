@@ -1,53 +1,94 @@
 <!DOCTYPE html>
 <html lang="ja">
+
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ARE Public Gallery</title>
+    <!-- Tailwind CSS for modern design -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <style>
-        body { font-family: sans-serif; max-width: 800px; margin: 40px auto; padding: 20px; line-height: 1.6; background-color: #f9fafb; }
-        .card { border: 1px solid #ddd; border-radius: 8px; padding: 20px; margin-bottom: 20px; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
-        .tag { display: inline-block; background: #e0f2fe; color: #0369a1; padding: 2px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; margin-bottom: 10px; }
-        .btn-action { background: #f3f4f6; border: 1px solid #d1d5db; padding: 4px 12px; border-radius: 6px; cursor: pointer; font-size: 13px; margin-left: 10px; transition: 0.2s; color: #374151; }
-        .btn-action:hover { background: #e5e7eb; }
-        a { color: #2563eb; text-decoration: none; font-weight: bold; }
-        a:hover { text-decoration: underline; }
-        h1 { color: #111827; }
-        h2 { margin-top: 0; color: #1f2937; }
-        ul { padding-left: 20px; list-style-type: none; }
-        li { margin-bottom: 12px; }
-        .data-meta { font-size: 11px; color: #6b7280; font-weight: normal; margin-left: 10px; }
+        body {
+            font-family: 'Inter', sans-serif;
+        }
     </style>
 </head>
-<body>
-    <h1>ARE Public Gallery</h1>
-    <p>Agora Resolution Engine (ARE) によって構造化・分析された論理グラフとレポートを公開しています。</p>
 
-    <div class="card">
-        <span class="tag">地方自治・社会課題</span>
-        <h2>🏠 空き家問題：公費解体と跡地利用の対立</h2>
-        <p>所有権の尊重か、近隣住民の安全か。複雑に絡み合う価値観をAREが紐解きます。</p>
-        <ul>
-            <li>
-                <a href="themes/empty-house/graph.html" id="graph-link">📊 インタラクティブ・グラフを見る</a>
-                <button class="btn-action" onclick="copyLink('themes/empty-house/graph.html')">URLをコピー</button>
-            </li>
-            <li>
-                <a href="themes/empty-house/data.json" download="ARE_Data_EmptyHouse.json">💾 RAWデータ(JSON)を保存</a>
-                <span class="data-meta">※ARE本体にロードして再分析可能です</span>
-            </li>
-            <li>
-                <a href="https://github.com/ogaogamirai/ARE-Public-Gallery/blob/main/themes/empty-house/report.md">📝 分析レポートを詳しく読む (Markdown)</a>
-            </li>
-        </ul>
+<body class="bg-gray-50 min-h-screen text-gray-900">
+    <div class="max-w-6xl mx-auto px-6 py-12">
+        <header class="mb-12">
+            <h1 class="text-4xl font-extrabold text-gray-900 mb-4 tracking-tight">ARE Public Gallery</h1>
+            <p class="text-lg text-gray-600 max-w-2xl">
+                Agora Resolution Engine (ARE) によって構造化・分析された論理グラフと解析データです。
+            </p>
+        </header>
+
+        <div id="gallery-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            <!-- GALLERY_START -->
+
+        <div class="bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm hover:shadow-md transition-all group">
+            <div class="p-6">
+                <div class="flex justify-between items-start mb-3">
+                    <span class="px-2 py-1 bg-blue-50 text-blue-600 text-[10px] font-bold rounded uppercase tracking-wider">未分類</span>
+                    <span class="text-[10px] text-gray-400 font-mono">/themes/basic-income</span>
+                </div>
+                <h3 class="text-lg font-bold text-gray-800 mb-2 group-hover:text-blue-600 transition-colors">Basic Income</h3>
+                <p class="text-sm text-gray-500 leading-relaxed mb-6 line-clamp-2">AREによって抽出された論理トポロジーと解析データです。</p>
+                
+                <div class="flex gap-2">
+                    
+                    <a href="themes/basic-income/graph.html" target="_blank" class="flex-1 bg-slate-800 hover:bg-slate-900 text-white text-center py-2 rounded-xl text-xs font-bold transition-all flex items-center justify-center gap-2">
+                        <i class="fas fa-project-diagram"></i> View Graph
+                    </a>
+                    
+                    <a href="themes/basic-income/report.md" target="_blank" class="px-4 border border-gray-200 hover:bg-gray-50 text-gray-600 py-2 rounded-xl text-xs font-bold transition-all flex items-center justify-center" title="Download Report">
+                        <i class="fas fa-file-alt"></i>
+                    </a>
+                    
+                    <a href="themes/basic-income/data.json" target="_blank" class="px-4 border border-gray-200 hover:bg-gray-50 text-gray-600 py-2 rounded-xl text-xs font-bold transition-all flex items-center justify-center" title="Download Data">
+                        <i class="fas fa-database"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    
+
+        <div class="bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm hover:shadow-md transition-all group">
+            <div class="p-6">
+                <div class="flex justify-between items-start mb-3">
+                    <span class="px-2 py-1 bg-blue-50 text-blue-600 text-[10px] font-bold rounded uppercase tracking-wider">未分類</span>
+                    <span class="text-[10px] text-gray-400 font-mono">/themes/empty-house</span>
+                </div>
+                <h3 class="text-lg font-bold text-gray-800 mb-2 group-hover:text-blue-600 transition-colors">Empty House</h3>
+                <p class="text-sm text-gray-500 leading-relaxed mb-6 line-clamp-2">AREによって抽出された論理トポロジーと解析データです。</p>
+                
+                <div class="flex gap-2">
+                    
+                    <a href="themes/empty-house/graph.html" target="_blank" class="flex-1 bg-slate-800 hover:bg-slate-900 text-white text-center py-2 rounded-xl text-xs font-bold transition-all flex items-center justify-center gap-2">
+                        <i class="fas fa-project-diagram"></i> View Graph
+                    </a>
+                    
+                    <a href="themes/empty-house/report.md" target="_blank" class="px-4 border border-gray-200 hover:bg-gray-50 text-gray-600 py-2 rounded-xl text-xs font-bold transition-all flex items-center justify-center" title="Download Report">
+                        <i class="fas fa-file-alt"></i>
+                    </a>
+                    
+                    <a href="themes/empty-house/data.json" target="_blank" class="px-4 border border-gray-200 hover:bg-gray-50 text-gray-600 py-2 rounded-xl text-xs font-bold transition-all flex items-center justify-center" title="Download Data">
+                        <i class="fas fa-database"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    
+<!-- GALLERY_END -->
+        </div>
+
+        <footer class="mt-20 pt-8 border-t border-gray-200 text-center text-gray-400 text-sm">
+            <p>&copy; 2026 Agora Resolution Engine. Created with Antigravity.</p>
+        </footer>
     </div>
-
-    <script>
-        function copyLink(path) {
-            const link = window.location.origin + window.location.pathname + path;
-            navigator.clipboard.writeText(link).then(() => {
-                alert("グラフのURLをコピーしました！");
-            });
-        }
-    </script>
 </body>
+
 </html>
