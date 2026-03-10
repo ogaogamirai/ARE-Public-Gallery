@@ -1,0 +1,4461 @@
+{
+  "sources": [
+    {
+      "id": "SRC_1",
+      "text": "地方自治体での原発再稼働",
+      "status": "Processed",
+      "type": "User",
+      "enrichedText": "地方自治体での原発再稼働\n\n【自動取得された最新の背景知識】\nDomain (対象領域):\n*   地方自治\n*   エネルギー政策\n*   原子力政策\n*   地域経済\n*   環境政策\n\nFact List (前提事実リスト):\n*   日本の原子力発電所の多くは、東日本大震災以降停止している。\n*   原子力規制委員会による新規制基準適合性審査に合格した原発から再稼働が進められている。\n*   原発の再稼働には、立地自治体や周辺自治体の理解・同意が事実上必要とされている場合が多い。\n*   再稼働した原発は、電力供給の安定化や燃料費削減に寄与するとされる。\n*   原発立地自治体には、電源立地地域対策交付金などの財政的支援がある。\n*   使用済み核燃料の最終処分地は未定である。\n*   再生可能エネルギーの導入が進められているが、安定供給やコストの課題も存在する。\n\nWarrant List (想定される論拠リスト):\n*   エネルギーの安定供給は、国民生活と経済活動の基盤である。\n*   地球温暖化対策として、CO2排出量の少ない原子力発電は有効な選択肢である。\n*   原発の安全性は、最新の科学的知見と厳格な規制基準に基づいて確保されるべきである。\n*   地域経済の活性化は、地方自治体の重要な責務である。\n*   住民の安全と安心は、何よりも優先されるべきである。\n*   地方自治体の意思決定は、住民の意向を最大限に尊重すべきである。\n*   電力コストの抑制は、産業競争力維持と家計負担軽減のために重要である。\n*   原子力災害のリスクは、社会全体で許容できる水準に抑えるべきである。",
+      "bgContextFetched": true
+    },
+    {
+      "id": "SRC_AI_1",
+      "text": "\"確かに、AI技術が社会にもたらす潜在的な恩恵、すなわち生産性の向上、医療の進歩、新たな産業の創出といった側面は否定できません。しかし、「AIの導入を加速すべきである」という現状の議論は、その前提となる「脆弱性」を看過し、極めて危険な楽観論に基づいています。\\n\\nまず、AIによる「雇用の喪失」は、単なる短期的な課題として片付けられる問題ではありません。これは社会構造そのものを揺るがしかねない根源的な変革であり、その影響を軽視することは、社会の安定を著しく損なうリスクを孕みます。既存の職が失われる一方で、新たな職が十分に創出される保証はなく、大規模な失業と社会不安を招く可能性を真剣に考慮すべきです。\\n\\nさらに、「倫理的問題（差別、プライバシー侵害）」や「AIの誤作動によるリスク」は、技術の進歩に伴う避けられない副作用などではありません。これらは、人間の尊厳、公正な社会、そして安全保障といった、社会の基盤を脅かす深刻な脅威です。特に、AIの判断が人命や財産に直接影響を及ぼす場面において、その「誤作動」を「解決可能」な短期的な課題と見なすのは、無責任極まりない態度です。一度発生した倫理的侵害や大規模な誤作動は、取り返しのつかない結果をもたらす可能性があります。\\n\\nまた、「技術格差の拡大」は、デジタルデバイドを一層深刻化させ、社会の分断を助長します。AIの恩恵が一部の層に集中し、多くの人々がその恩恵から取り残される事態は、社会全体の不平等を加速させるでしょう。そして何よりも、「AI開発における透明性の欠如」は、その技術がどのように意思決定を行い、どのような影響を及ぼすのかを検証する術を奪い、我々が制御不能なブラックボックスを社会に導入しようとしていることを意味します。説明責任が果たされない技術の導入は、民主主義の原則にも反します。\\n\\nこれらの「脆弱性」は、決して「長期的には解決可能」な些細な問題ではありません。むしろ、これらはAI技術の「恩恵」を享受する前提として、徹底的に議論され、解決策が講じられなければならない、喫緊かつ根源的な課題です。現状の議論がこれらの深刻な懸念を「短期的な課題」として矮小化し、AIの「導入を加速すべき」と主張することは、未来の社会に対する無責任な賭けであり、その恩恵を享受するどころか、計り知れない混乱と損害をもたらす可能性を看過しています。真に持続可能で恩恵をもたらすAI社会を築くためには、まずこれらの脆弱性に対する明確な回答と具体的な対策が不可欠であり、その議論なくして「導入の加速」を語ることは許されません。AIの導入は、そのリスクを十分に理解し、制御可能な範囲で、慎重に進められるべきです。\"",
+      "status": "Processed",
+      "type": "AI",
+      "enrichedText": "\"確かに、AI技術が社会にもたらす潜在的な恩恵、すなわち生産性の向上、医療の進歩、新たな産業の創出といった側面は否定できません。しかし、「AIの導入を加速すべきである」という現状の議論は、その前提となる「脆弱性」を看過し、極めて危険な楽観論に基づいています。\\n\\nまず、AIによる「雇用の喪失」は、単なる短期的な課題として片付けられる問題ではありません。これは社会構造そのものを揺るがしかねない根源的な変革であり、その影響を軽視することは、社会の安定を著しく損なうリスクを孕みます。既存の職が失われる一方で、新たな職が十分に創出される保証はなく、大規模な失業と社会不安を招く可能性を真剣に考慮すべきです。\\n\\nさらに、「倫理的問題（差別、プライバシー侵害）」や「AIの誤作動によるリスク」は、技術の進歩に伴う避けられない副作用などではありません。これらは、人間の尊厳、公正な社会、そして安全保障といった、社会の基盤を脅かす深刻な脅威です。特に、AIの判断が人命や財産に直接影響を及ぼす場面において、その「誤作動」を「解決可能」な短期的な課題と見なすのは、無責任極まりない態度です。一度発生した倫理的侵害や大規模な誤作動は、取り返しのつかない結果をもたらす可能性があります。\\n\\nまた、「技術格差の拡大」は、デジタルデバイドを一層深刻化させ、社会の分断を助長します。AIの恩恵が一部の層に集中し、多くの人々がその恩恵から取り残される事態は、社会全体の不平等を加速させるでしょう。そして何よりも、「AI開発における透明性の欠如」は、その技術がどのように意思決定を行い、どのような影響を及ぼすのかを検証する術を奪い、我々が制御不能なブラックボックスを社会に導入しようとしていることを意味します。説明責任が果たされない技術の導入は、民主主義の原則にも反します。\\n\\nこれらの「脆弱性」は、決して「長期的には解決可能」な些細な問題ではありません。むしろ、これらはAI技術の「恩恵」を享受する前提として、徹底的に議論され、解決策が講じられなければならない、喫緊かつ根源的な課題です。現状の議論がこれらの深刻な懸念を「短期的な課題」として矮小化し、AIの「導入を加速すべき」と主張することは、未来の社会に対する無責任な賭けであり、その恩恵を享受するどころか、計り知れない混乱と損害をもたらす可能性を看過しています。真に持続可能で恩恵をもたらすAI社会を築くためには、まずこれらの脆弱性に対する明確な回答と具体的な対策が不可欠であり、その議論なくして「導入の加速」を語ることは許されません。AIの導入は、そのリスクを十分に理解し、制御可能な範囲で、慎重に進められるべきです。\"\n\n【自動取得された最新の背景知識】\n1.  **Domain (対象領域)**:\n    AI技術の社会実装とガバナンス\n\n2.  **Fact List (前提事実リスト)**:\n    *   AI技術は生産性の向上、医療の進歩、新たな産業の創出といった潜在的な恩恵をもたらす可能性がある。\n    *   AIによる雇用の喪失は、社会構造そのものを揺るがしかねない根源的な変革である。\n    *   AIの導入により、既存の職が失われる一方で、新たな職が十分に創出されない可能性がある。\n    *   AI技術には倫理的問題（差別、プライバシー侵害）や誤作動によるリスクが存在する。\n    *   AIの判断が人命や財産に直接影響を及ぼす場面がある。\n    *   技術格差の拡大はデジタルデバイドを一層深刻化させ、社会の分断を助長する。\n    *   AIの恩恵が一部の層に集中し、社会全体の不平等を加速させる可能性がある。\n    *   AI開発において透明性が欠如している。\n    *   透明性の欠如は、技術の意思決定プロセスや影響を検証する術を奪う。\n\n3.  **Warrant List (想定される論拠リスト)**:\n    *   社会の安定は維持されるべきである。\n    *   人間の尊厳、公正な社会、安全保障は社会の基盤として守られるべきである。\n    *   人命や財産に影響を及ぼす技術の誤作動は許容できない。\n    *   社会全体の不平等を加速させることは避けるべきである。\n    *   技術は説明責任が果たされ、制御可能であるべきである。\n    *   民主主義の原則は尊重されるべきである。\n    *   持続可能で恩恵をもたらす社会を築くべきである。\n    *   技術導入は、そのリスクを十分に理解し、制御可能な範囲で慎重に進められるべきである。",
+      "bgContextFetched": true
+    }
+  ],
+  "nodes": [
+    {
+      "id": "N_1",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "日本の原子力発電所の多くは、東日本大震災以降停止している。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_2",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "原子力規制委員会による新規制基準適合性審査に合格した原発から再稼働が進められている。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_3",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "原発の再稼働には、立地自治体や周辺自治体の理解・同意が事実上必要とされている場合が多い。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "isCriticalSingularity": false,
+      "singularity_score": 35
+    },
+    {
+      "id": "N_4",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "再稼働した原発は、電力供給の安定化に寄与するとされる。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_5",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "再稼働した原発は、燃料費削減に寄与するとされる。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_6",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "原発立地自治体には、電源立地地域対策交付金などの財政的支援がある。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_7",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "使用済み核燃料の最終処分地は未定である。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_8",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "再生可能エネルギーの導入が進められている。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_9",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "再生可能エネルギーの安定供給には課題が存在する。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_10",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "再生可能エネルギーのコストには課題が存在する。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_11",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "エネルギーの安定供給は、国民生活の基盤である。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "isCriticalSingularity": false,
+      "singularity_score": 35
+    },
+    {
+      "id": "N_12",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "エネルギーの安定供給は、経済活動の基盤である。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "isCriticalSingularity": false,
+      "singularity_score": 35
+    },
+    {
+      "id": "N_13",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "地球温暖化対策として、CO2排出量の少ない原子力発電は有効な選択肢である。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "isCriticalSingularity": false,
+      "singularity_score": 35
+    },
+    {
+      "id": "N_14",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "原発の安全性は、最新の科学的知見に基づいて確保されるべきである。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_15",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "原発の安全性は、厳格な規制基準に基づいて確保されるべきである。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_16",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "地域経済の活性化は、地方自治体の重要な責務である。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_17",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "住民の安全と安心は、何よりも優先されるべきである。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "isCriticalSingularity": false,
+      "singularity_score": 35
+    },
+    {
+      "id": "N_18",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "地方自治体の意思決定は、住民の意向を最大限に尊重すべきである。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_19",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "電力コストの抑制は、産業競争力維持のために重要である。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_20",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "電力コストの抑制は、家計負担軽減のために重要である。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_21",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "原子力災害のリスクは、社会全体で許容できる水準に抑えるべきである。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_22",
+      "type": "C",
+      "label": "原発安全確保",
+      "content": "日本において、原子力発電所の再稼働を検討するにあたり、政府および原子力規制委員会は、住民の安全と安心を何よりも優先し、原子力災害のリスクを社会全体で許容できる水準に抑えるために、最新の科学的知見と厳格な規制基準に基づいた安全対策を徹底すべきである。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_14",
+        "N_15",
+        "N_17",
+        "N_21"
+      ],
+      "weight": 1,
+      "depth": 1
+    },
+    {
+      "id": "N_23",
+      "type": "C",
+      "label": "原発再稼働推進",
+      "content": "エネルギーの安定供給、電力コスト抑制、地球温暖化対策が喫緊の課題である日本において、政府は、国民生活と経済活動の基盤であるエネルギーの安定供給を確保し、電力コストを抑制し、地球温暖化対策に貢献するために、安全性が確保され、立地自治体や周辺自治体の理解・同意が得られた原子力発電所の再稼働を推進すべきである。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_3",
+        "N_4",
+        "N_5",
+        "N_11",
+        "N_12",
+        "N_13",
+        "N_19",
+        "N_20"
+      ],
+      "weight": 1,
+      "depth": 1
+    },
+    {
+      "id": "N_24",
+      "type": "C",
+      "label": "住民意向尊重",
+      "content": "原子力発電所の再稼働を巡る地方自治体の意思決定において、地方自治体は、地域社会の持続可能性と住民の信頼を確保するために、住民の安全と安心を何よりも優先し、その意向を最大限に尊重すべきである。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_3",
+        "N_17",
+        "N_18"
+      ],
+      "weight": 1,
+      "depth": 1
+    },
+    {
+      "id": "N_25",
+      "type": "C",
+      "label": "再エネ導入推進",
+      "content": "地球温暖化対策とエネルギーの安定供給が求められる日本において、政府は、国民生活と経済活動の基盤であるエネルギーの安定供給を確保し、地球温暖化対策を推進するために、再生可能エネルギーの安定供給とコストに関する課題を克服しつつ、その導入を一層推進すべきである。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_8",
+        "N_9",
+        "N_10",
+        "N_11",
+        "N_12",
+        "N_13"
+      ],
+      "weight": 1,
+      "depth": 1
+    },
+    {
+      "id": "N_26",
+      "type": "F",
+      "label": "新規制基準適合性審査に合格した...",
+      "content": "新規制基準適合性審査に合格した原発の再稼働が進むという事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_22",
+        "N_23"
+      ],
+      "weight": 3,
+      "depth": 2,
+      "atomicChecks": 99,
+      "subType": "DATA",
+      "impactScore": 75,
+      "verifyScore": 95,
+      "factReason": "【外部検証済】客観的なエビデンスにより事実として支持されました。（元の判定: 原発再稼働はエネルギー政策、経済、安全保障に広範な影響を与えるため、客観的な事実として検証可能であり、影響度が高い。）",
+      "searchQuery": "日本の原子力発電所 再稼働 規制基準 合格",
+      "isCritical": true,
+      "isCriticalSingularity": false,
+      "singularity_score": 47,
+      "validationState": "completed",
+      "externalCheck": "checked",
+      "reliability": "high"
+    },
+    {
+      "id": "N_27",
+      "type": "V",
+      "label": "住民の安全と安心の重視、および...",
+      "content": "住民の安全と安心の重視、および原子力災害リスクの低減の重視。",
+      "status": "Split",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_22"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 0
+    },
+    {
+      "id": "N_28",
+      "type": "E",
+      "label": "原子力災害への懸念と、安全確保...",
+      "content": "原子力災害への懸念と、安全確保への強い要求という感情。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_22"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 0
+    },
+    {
+      "id": "N_29",
+      "type": "F",
+      "label": "再生可能エネルギーの導入が進め...",
+      "content": "再生可能エネルギーの導入が進められているが、安定供給やコストの課題も存在するという事実。",
+      "status": "Split",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_25"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 0
+    },
+    {
+      "id": "N_30",
+      "type": "V",
+      "label": "エネルギー安定供給と環境持続可...",
+      "content": "エネルギー安定供給と環境持続可能性の重視。",
+      "status": "Split",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_25"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 0
+    },
+    {
+      "id": "N_31",
+      "type": "E",
+      "label": "現状への懸念と、課題克服への決...",
+      "content": "現状への懸念と、課題克服への決意という感情。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_25"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 0
+    },
+    {
+      "id": "N_32",
+      "type": "F",
+      "label": "原発再稼働には立地・周辺自治体...",
+      "content": "原発再稼働には立地・周辺自治体の理解同意が事実上求められるという事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_24",
+        "N_23"
+      ],
+      "weight": 3,
+      "depth": 2,
+      "atomicChecks": 99,
+      "subType": "DATA",
+      "impactScore": 85,
+      "verifyScore": 95,
+      "factReason": "【外部検証済】客観的なエビデンスにより事実として支持されました。（元の判定: 原発再稼働における立地・周辺自治体の理解同意の必要性は、政策決定や地域社会との関係において極めて重要であり、その影響度は高い。この事実は広く認識されており、多くの報道や議論で裏付けられているため、検証可能性も高い。）",
+      "searchQuery": "原発再稼働 自治体 同意 必要性",
+      "isCritical": true,
+      "isCriticalSingularity": false,
+      "singularity_score": 52,
+      "validationState": "completed",
+      "externalCheck": "checked",
+      "reliability": "high"
+    },
+    {
+      "id": "N_33",
+      "type": "V",
+      "label": "住民の安全・安心と意向の尊重",
+      "content": "住民の安全・安心と意向の尊重の重視。",
+      "status": "Split",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_24"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 0
+    },
+    {
+      "id": "N_34",
+      "type": "E",
+      "label": "安全への希求という感情という感...",
+      "content": "安全への希求という感情。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_24"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 0
+    },
+    {
+      "id": "N_35",
+      "type": "F",
+      "label": "再稼働した原発は、電力供給の安...",
+      "content": "再稼働した原発は、電力供給の安定化や燃料費削減に寄与するとされるという事実。",
+      "status": "Split",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_23"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 0
+    },
+    {
+      "id": "N_36",
+      "type": "V",
+      "label": "国民生活と経済の安定・発展",
+      "content": "国民生活と経済の安定・発展の重視。",
+      "status": "Split",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_23"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 0
+    },
+    {
+      "id": "N_37",
+      "type": "E",
+      "label": "エネルギーの安定供給、電力コス...",
+      "content": "エネルギーの安定供給、電力コスト抑制、地球温暖化対策が喫緊の課題であるという現状への危機感という感情。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_23"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 0
+    },
+    {
+      "id": "N_38",
+      "type": "V",
+      "label": "エネルギー安定供給",
+      "content": "エネルギー安定供給の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_25",
+        "N_30"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_39",
+      "type": "V",
+      "label": "環境持続可能性",
+      "content": "環境持続可能性の重視。 / 社会の持続可能性の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_25",
+        "N_30",
+        "SRC_AI_1",
+        "N_102",
+        "N_108",
+        "N_110",
+        "N_114"
+      ],
+      "weight": 8,
+      "depth": 3,
+      "isCeiling": true,
+      "atomicChecks": 99,
+      "isCriticalSingularity": false,
+      "singularity_score": 35
+    },
+    {
+      "id": "N_40",
+      "type": "V",
+      "label": "国民生活の安定",
+      "content": "国民生活の安定の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_23",
+        "N_36"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_41",
+      "type": "V",
+      "label": "国民生活の発展",
+      "content": "国民生活の発展の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_23",
+        "N_36"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_42",
+      "type": "V",
+      "label": "経済の安定",
+      "content": "経済の安定の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_23",
+        "N_36"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "isCeiling": true,
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_43",
+      "type": "V",
+      "label": "経済の発展",
+      "content": "経済の発展の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_23",
+        "N_36"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "isCeiling": true,
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_44",
+      "type": "V",
+      "label": "住民の安全",
+      "content": "住民の安全の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_24",
+        "N_33",
+        "N_22",
+        "N_27"
+      ],
+      "weight": 5,
+      "depth": 2,
+      "isCeiling": true,
+      "atomicChecks": 99,
+      "isCriticalSingularity": false,
+      "singularity_score": 35
+    },
+    {
+      "id": "N_45",
+      "type": "V",
+      "label": "住民の安心",
+      "content": "住民の安心の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_24",
+        "N_33",
+        "N_22",
+        "N_27"
+      ],
+      "weight": 5,
+      "depth": 2,
+      "isCeiling": true,
+      "atomicChecks": 99,
+      "isCriticalSingularity": false,
+      "singularity_score": 35
+    },
+    {
+      "id": "N_46",
+      "type": "V",
+      "label": "住民の意向尊重",
+      "content": "住民の意向尊重の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_24",
+        "N_33"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_47",
+      "type": "V",
+      "label": "住民の安全",
+      "content": "住民の安全の重視。",
+      "status": "Merged",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_22",
+        "N_27"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "isCeiling": true,
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_48",
+      "type": "V",
+      "label": "住民の安心",
+      "content": "住民の安心の重視。",
+      "status": "Merged",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_22",
+        "N_27"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "isCeiling": true,
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_49",
+      "type": "V",
+      "label": "原子力災害リスクの低減",
+      "content": "原子力災害リスクの低減の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_22",
+        "N_27"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "isCeiling": true,
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_50",
+      "type": "F",
+      "label": "再生可能エネルギーの導入が進む...",
+      "content": "再生可能エネルギーの導入が進むという事実。/再生可能エネルギーには安定供給やコストの課題があるという事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_25",
+        "N_29"
+      ],
+      "weight": 3,
+      "depth": 2,
+      "atomicChecks": 99,
+      "subType": "DATA",
+      "impactScore": 85,
+      "verifyScore": 95,
+      "factReason": "【外部検証済】客観的なエビデンスにより事実として支持されました。（元の判定: 再生可能エネルギーの導入は地球温暖化対策とエネルギー安定供給という日本の重要課題に直結するため影響度が高い。導入が進む事実と課題の両方が提示されており、客観的な評価が可能。）",
+      "searchQuery": "日本の再生可能エネルギー導入状況 課題 安定供給 コスト",
+      "isCritical": true,
+      "validationState": "completed",
+      "externalCheck": "checked",
+      "reliability": "high"
+    },
+    {
+      "id": "N_51",
+      "type": "F",
+      "label": "再生可能エネルギーには安定供給...",
+      "content": "再生可能エネルギーには安定供給やコストの課題があるという事実。",
+      "status": "Merged",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_25",
+        "N_29"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_52",
+      "type": "F",
+      "label": "再稼働原発は電力供給を安定化さ...",
+      "content": "再稼働原発は電力供給を安定化させるという事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_23",
+        "N_35"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 99,
+      "subType": "DATA",
+      "impactScore": 75,
+      "verifyScore": 95,
+      "factReason": "【外部検証済】客観的なエビデンスにより事実として支持されました。（元の判定: 原発再稼働は電力安定化に寄与する可能性があるが、安全性やコスト、国民の合意形成など、他の要因も考慮する必要があるため、影響度は中程度。検証には多角的な情報が必要。）",
+      "searchQuery": "原発再稼働 電力供給安定化 メリット デメリット",
+      "validationState": "completed",
+      "externalCheck": "checked",
+      "reliability": "high"
+    },
+    {
+      "id": "N_53",
+      "type": "F",
+      "label": "再稼働原発は燃料費を削減する",
+      "content": "再稼働原発は燃料費を削減するという事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_23",
+        "N_35"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 99,
+      "subType": "DATA",
+      "impactScore": 75,
+      "verifyScore": 95,
+      "factReason": "【外部検証済】客観的なエビデンスにより事実として支持されました。（元の判定: 原発再稼働による燃料費削減効果は存在するが、その程度や他のコスト（安全対策費、廃炉費用など）との比較、およびエネルギーミックス全体への影響は複雑であり、単純な事実として断定するにはさらなる検証が必要。）",
+      "searchQuery": "原発再稼働 燃料費 削減効果 コスト比較",
+      "validationState": "completed",
+      "externalCheck": "checked",
+      "reliability": "high"
+    },
+    {
+      "id": "N_54",
+      "type": "V",
+      "label": "社会全体の幸福と利益",
+      "content": "社会全体の幸福と利益の重視。",
+      "status": "Split",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_41"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "atomicChecks": 0
+    },
+    {
+      "id": "N_55",
+      "type": "F",
+      "label": "国民生活の発展は公共の福祉を増...",
+      "content": "国民生活の発展は公共の福祉を増進するという事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_41"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "atomicChecks": 99,
+      "subType": "LOGIC",
+      "impactScore": 90,
+      "verifyScore": 70,
+      "factReason": "国民生活の発展が公共の福祉を増進するという事実は、多くの社会科学や政治哲学の根幹をなす考え方であり、その影響力は大きい。しかし、その因果関係の直接的な証明や、例外的な状況の考慮が必要なため、検証スコアは中程度とした。",
+      "searchQuery": "国民生活の発展 公共の福祉 関係性",
+      "isCritical": true
+    },
+    {
+      "id": "N_56",
+      "type": "V",
+      "label": "豊かさ/経済",
+      "content": "豊かさ/経済の重視。",
+      "status": "Split",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_38"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "atomicChecks": 0
+    },
+    {
+      "id": "N_57",
+      "type": "F",
+      "label": "エネルギー安定供給が経済活動の...",
+      "content": "エネルギー安定供給が経済活動の基盤をもたらすという事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_38"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "atomicChecks": 99,
+      "subType": "DATA",
+      "impactScore": 95,
+      "verifyScore": 90,
+      "factReason": "エネルギー安定供給は経済活動の基盤であり、その重要性は非常に高い。この事実は広く認識されており、多くの経済モデルや政策立案で前提とされているため、客観性も高い。",
+      "searchQuery": "エネルギー安定供給 経済活動 基盤",
+      "isCritical": true
+    },
+    {
+      "id": "N_58",
+      "type": "V",
+      "label": "国民が心身ともに健康で、文化的...",
+      "content": "国民が心身ともに健康で、文化的な生活を送れる状態の実現の重視。",
+      "status": "Split",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_40"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "atomicChecks": 0
+    },
+    {
+      "id": "N_59",
+      "type": "F",
+      "label": "生活基盤の安定が、個人の活動と...",
+      "content": "生活基盤の安定が、個人の活動と社会の発展、国民の厚生を実現するという事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_40"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "atomicChecks": 99,
+      "subType": "LOGIC",
+      "impactScore": 90,
+      "verifyScore": 85,
+      "factReason": "生活基盤の安定が個人の活動や社会発展、国民厚生に不可欠であることは、経済学、社会学、政治学の分野で広く認められている基本的な考え方であり、多くの研究や政策立案の根拠となっているため。",
+      "searchQuery": "生活基盤の安定 国民厚生 関係",
+      "isCritical": true
+    },
+    {
+      "id": "N_60",
+      "type": "V",
+      "label": "住民の地域意思決定",
+      "content": "住民の地域意思決定の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_46"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "atomicChecks": 99,
+      "isCeiling": true
+    },
+    {
+      "id": "N_61",
+      "type": "F",
+      "label": "住民の意向尊重が、住民の地域意...",
+      "content": "住民の意向尊重が、住民の地域意思決定を可能にするという事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_46"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "atomicChecks": 99,
+      "subType": "LOGIC",
+      "impactScore": 85,
+      "verifyScore": 70,
+      "factReason": "住民の意向尊重は、地域社会の意思決定における住民参加の根幹であり、その影響力は大きい。しかし、その「力学」という表現の具体性や、文脈が限定的であるため、検証スコアは中程度とした。",
+      "searchQuery": "住民の意向尊重 地域意思決定 力学",
+      "isCritical": true
+    },
+    {
+      "id": "N_62",
+      "type": "V",
+      "label": "豊かさ",
+      "content": "豊かさの重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_38",
+        "N_56"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "isCeiling": true,
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_63",
+      "type": "V",
+      "label": "経済",
+      "content": "経済の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_38",
+        "N_56"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "isCeiling": true,
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_64",
+      "type": "V",
+      "label": "心身の健康",
+      "content": "心身の健康の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_40",
+        "N_58"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "isCeiling": true,
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_65",
+      "type": "V",
+      "label": "文化的生活",
+      "content": "文化的生活の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_40",
+        "N_58"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_66",
+      "type": "V",
+      "label": "幸福",
+      "content": "幸福の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_41",
+        "N_54"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_67",
+      "type": "V",
+      "label": "利益",
+      "content": "利益の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_41",
+        "N_54"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "isCeiling": true,
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_68",
+      "type": "V",
+      "label": "生活の質",
+      "content": "生活の質の重視。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_65"
+      ],
+      "weight": 1,
+      "depth": 4,
+      "atomicChecks": 99,
+      "isCeiling": true
+    },
+    {
+      "id": "N_69",
+      "type": "F",
+      "label": "文化的生活は生活の質を向上させ...",
+      "content": "文化的生活は生活の質を向上させるという事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_65"
+      ],
+      "weight": 1,
+      "depth": 4,
+      "atomicChecks": 99,
+      "isCeiling": true,
+      "subType": "DATA",
+      "impactScore": 75,
+      "verifyScore": 80,
+      "factReason": "文化的生活が生活の質を向上させることは、多くの研究や社会的な認識によって裏付けられているが、その程度や具体的な影響は個人や文化によって異なるため、完全に客観的とは言えない。",
+      "searchQuery": "cultural activities quality of life research",
+      "isCritical": true
+    },
+    {
+      "id": "N_70",
+      "type": "V",
+      "label": "公共の福祉",
+      "content": "公共の福祉の重視。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_66"
+      ],
+      "weight": 1,
+      "depth": 4,
+      "atomicChecks": 99,
+      "isCeiling": true
+    },
+    {
+      "id": "N_71",
+      "type": "F",
+      "label": "公共の福祉は社会全体の幸福を実...",
+      "content": "公共の福祉は社会全体の幸福を実現するという事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_66"
+      ],
+      "weight": 1,
+      "depth": 4,
+      "atomicChecks": 99,
+      "isCeiling": true,
+      "subType": "VIEW",
+      "impactScore": 85,
+      "verifyScore": 70,
+      "factReason": "公共の福祉が社会全体の幸福を実現するという考え方は、多くの社会哲学や政治理論の根幹をなす普遍的な概念であり、その影響力は大きい。しかし、幸福の定義や測定方法には多様な見解があり、客観的な検証には限界があるため、検証スコアは中程度とした。",
+      "searchQuery": "公共の福祉 社会幸福 関係 哲学",
+      "isCritical": true
+    },
+    {
+      "id": "V_LIFE",
+      "type": "UV",
+      "label": "生命/生存",
+      "content": "生命/生存の追求",
+      "status": "Active",
+      "checkCount": 99,
+      "depth": 5
+    },
+    {
+      "id": "V_SAFE",
+      "type": "UV",
+      "label": "安全/防衛",
+      "content": "安全/防衛の追求",
+      "status": "Active",
+      "checkCount": 99,
+      "depth": 5,
+      "isCriticalSingularity": true,
+      "singularity_score": 60
+    },
+    {
+      "id": "V_SUST",
+      "type": "UV",
+      "label": "持続可能性",
+      "content": "持続可能性の追求",
+      "status": "Active",
+      "checkCount": 99,
+      "depth": 5,
+      "isCriticalSingularity": false,
+      "singularity_score": 35
+    },
+    {
+      "id": "V_WLTH",
+      "type": "UV",
+      "label": "富/資産",
+      "content": "富/資産の追求",
+      "status": "Active",
+      "checkCount": 99,
+      "depth": 5,
+      "isCriticalSingularity": true,
+      "singularity_score": 60
+    },
+    {
+      "id": "V_JUST",
+      "type": "UV",
+      "label": "正義/規範",
+      "content": "正義/規範の追求",
+      "status": "Active",
+      "checkCount": 99,
+      "depth": 5,
+      "isCriticalSingularity": true,
+      "singularity_score": 60
+    },
+    {
+      "id": "V_HOPE",
+      "type": "UV",
+      "label": "希望/可能性",
+      "content": "希望/可能性の追求",
+      "status": "Active",
+      "checkCount": 99,
+      "depth": 5,
+      "isCriticalSingularity": false,
+      "singularity_score": 35
+    },
+    {
+      "id": "V_DIGN",
+      "type": "UV",
+      "label": "尊厳/誇り",
+      "content": "尊厳/誇りの追求",
+      "status": "Active",
+      "checkCount": 99,
+      "depth": 5
+    },
+    {
+      "id": "N_72",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "AI技術は社会にもたらす潜在的な恩恵がある。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_73",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "AI技術は生産性の向上をもたらす可能性がある。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_74",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "AI技術は医療の進歩をもたらす可能性がある。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_75",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "AI技術は新たな産業の創出をもたらす可能性がある。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_76",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "しかし、「AIの導入を加速すべきである」という現状の議論は、その前提となる「脆弱性」を看過している。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "isCriticalSingularity": false,
+      "singularity_score": 35
+    },
+    {
+      "id": "N_77",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "現状の議論は極めて危険な楽観論に基づいている。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_78",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "AIによる「雇用の喪失」は、単なる短期的な課題として片付けられる問題ではない。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_79",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "これは社会構造そのものを揺るがしかねない根源的な変革である。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_80",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "その影響を軽視することは、社会の安定を著しく損なうリスクを孕む。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_81",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "既存の職が失われる一方で、新たな職が十分に創出される保証はない。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_82",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "大規模な失業と社会不安を招く可能性を真剣に考慮すべきである。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_83",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "さらに、「倫理的問題（差別、プライバシー侵害）」や「AIの誤作動によるリスク」は、技術の進歩に伴う避けられない副作用などではない。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_84",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "これらは、人間の尊厳、公正な社会、そして安全保障といった、社会の基盤を脅かす深刻な脅威である。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_85",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "特に、AIの判断が人命や財産に直接影響を及ぼす場面において、その「誤作動」を「解決可能」な短期的な課題と見なすのは、無責任極まりない態度である。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_86",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "一度発生した倫理的侵害や大規模な誤作動は、取り返しのつかない結果をもたらす可能性がある。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_87",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "また、「技術格差の拡大」は、デジタルデバイドを一層深刻化させる。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_88",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "技術格差の拡大は、社会の分断を助長する。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_89",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "AIの恩恵が一部の層に集中し、多くの人々がその恩恵から取り残される事態は、社会全体の不平等を加速させるだろう。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_90",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "そして何よりも、「AI開発における透明性の欠如」は、その技術がどのように意思決定を行い、どのような影響を及ぼすのかを検証する術を奪う。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_91",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "AI開発における透明性の欠如は、我々が制御不能なブラックボックスを社会に導入しようとしていることを意味する。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_92",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "説明責任が果たされない技術の導入は、民主主義の原則にも反する。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_93",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "これらの「脆弱性」は、決して「長期的には解決可能」な些細な問題ではない。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_94",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "むしろ、これらはAI技術の「恩恵」を享受する前提として、徹底的に議論され、解決策が講じられなければならない、喫緊かつ根源的な課題である。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_95",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "現状の議論がこれらの深刻な懸念を「短期的な課題」として矮小化している。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_96",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "現状の議論はAIの「導入を加速すべき」と主張している。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_97",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "これは未来の社会に対する無責任な賭けである。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_98",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "この賭けは、その恩恵を享受するどころか、計り知れない混乱と損害をもたらす可能性を看過している。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "isCriticalSingularity": false,
+      "singularity_score": 35
+    },
+    {
+      "id": "N_99",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "真に持続可能で恩恵をもたらすAI社会を築くためには、まずこれらの脆弱性に対する明確な回答と具体的な対策が不可欠である。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_100",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "その議論なくして「導入の加速」を語ることは許されない。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "isCriticalSingularity": false,
+      "singularity_score": 35
+    },
+    {
+      "id": "N_101",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "AIの導入は、そのリスクを十分に理解し、制御可能な範囲で、慎重に進められるべきである。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_102",
+      "type": "C",
+      "label": "脆弱性対策優先",
+      "content": "AI技術の恩恵を享受し、真に持続可能で恩恵をもたらすAI社会を築くためには、我々（社会全体）は、計り知れない混乱と損害を回避し、社会の安定と持続可能性を確保するために、AI技術が抱える雇用の喪失、倫理的問題、誤作動リスク、技術格差、透明性の欠如といった根源的な脆弱性に対する明確な回答と具体的な対策を徹底的に議論し、講じるべきである。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_AI_1",
+        "N_76",
+        "N_77",
+        "N_78",
+        "N_79",
+        "N_80",
+        "N_81",
+        "N_82",
+        "N_83",
+        "N_84",
+        "N_85",
+        "N_86",
+        "N_87",
+        "N_88",
+        "N_89",
+        "N_90",
+        "N_91",
+        "N_92",
+        "N_93",
+        "N_94",
+        "N_95",
+        "N_98",
+        "N_99",
+        "N_100"
+      ],
+      "weight": 1,
+      "depth": 1
+    },
+    {
+      "id": "N_103",
+      "type": "C",
+      "label": "慎重なAI導入",
+      "content": "AI技術を社会に導入する際には、我々（社会全体）は、未来の社会に対する無責任な賭けを避け、計り知れない混乱と損害を回避するために、そのリスクを十分に理解し、制御可能な範囲で、慎重に進めるべきであり、脆弱性への議論なく導入の加速を語るべきではない。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_AI_1",
+        "N_76",
+        "N_96",
+        "N_97",
+        "N_98",
+        "N_100",
+        "N_101"
+      ],
+      "weight": 1,
+      "depth": 1
+    },
+    {
+      "id": "N_104",
+      "type": "F",
+      "label": "使用済み核燃料の最終処分地は未...",
+      "content": "使用済み核燃料の最終処分地は未定という事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1",
+        "N_103"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 99,
+      "subType": "DATA",
+      "impactScore": 85,
+      "verifyScore": 95,
+      "factReason": "【外部検証済】客観的なエビデンスにより事実として支持されました。（元の判定: 使用済み核燃料の最終処分地が未定であることは、原子力発電の持続可能性、環境保護、将来世代への影響という点で非常に大きな影響を持つ事実です。この事実は広く認識されており、公的機関や報道機関によって頻繁に言及されているため、検証は容易です。）",
+      "searchQuery": "使用済み核燃料 最終処分地 未定 日本",
+      "isCritical": true,
+      "validationState": "completed",
+      "externalCheck": "checked",
+      "reliability": "high"
+    },
+    {
+      "id": "N_105",
+      "type": "V",
+      "label": "社会の安定と安全",
+      "content": "社会の安定と安全の重視。",
+      "status": "Split",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1",
+        "N_103"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 0
+    },
+    {
+      "id": "N_106",
+      "type": "E",
+      "label": "将来への懸念という感情",
+      "content": "将来への懸念という感情。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1",
+        "N_103"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 0
+    },
+    {
+      "id": "N_107",
+      "type": "F",
+      "label": "AIによる雇用喪失は社会構造を...",
+      "content": "AIによる雇用喪失は社会構造を揺るがす変革という事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1",
+        "N_102"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 99,
+      "subType": "DATA",
+      "impactScore": 90,
+      "verifyScore": 95,
+      "factReason": "【外部検証済】客観的なエビデンスにより事実として支持されました。（元の判定: AIによる雇用喪失は、経済、社会、政治に広範な影響を与える可能性があり、その変革性は高い。多くの研究や議論が存在するため、検証可能性も比較的高い。）",
+      "searchQuery": "AI employment loss societal impact",
+      "isCritical": true,
+      "validationState": "completed",
+      "externalCheck": "checked",
+      "reliability": "high"
+    },
+    {
+      "id": "N_108",
+      "type": "V",
+      "label": "社会の安定と持続可能性",
+      "content": "社会の安定と持続可能性の重視。",
+      "status": "Split",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1",
+        "N_102"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 0
+    },
+    {
+      "id": "N_109",
+      "type": "E",
+      "label": "計り知れない混乱と損害への危機...",
+      "content": "計り知れない混乱と損害への危機感という感情。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1",
+        "N_102"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 0
+    },
+    {
+      "id": "N_110",
+      "type": "V",
+      "label": "社会の安定",
+      "content": "社会の安定の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_AI_1",
+        "N_103",
+        "N_105",
+        "N_102",
+        "N_108"
+      ],
+      "weight": 5,
+      "depth": 2,
+      "atomicChecks": 99,
+      "isCriticalSingularity": false,
+      "singularity_score": 35
+    },
+    {
+      "id": "N_111",
+      "type": "V",
+      "label": "社会の安全",
+      "content": "社会の安全の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_AI_1",
+        "N_103",
+        "N_105"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "isCeiling": true,
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_112",
+      "type": "V",
+      "label": "社会の安定",
+      "content": "社会の安定の重視。",
+      "status": "Merged",
+      "checkCount": 1,
+      "derive": [
+        "SRC_AI_1",
+        "N_102",
+        "N_108"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "isCeiling": true,
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_113",
+      "type": "V",
+      "label": "社会の持続可能性",
+      "content": "社会の持続可能性の重視。",
+      "status": "Merged",
+      "checkCount": 1,
+      "derive": [
+        "SRC_AI_1",
+        "N_102",
+        "N_108"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "isCeiling": true,
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_114",
+      "type": "V",
+      "label": "社会が長期にわたり健全に存続し...",
+      "content": "社会が長期にわたり健全に存続し、発展していくことの重視。",
+      "status": "Split",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1",
+        "N_110"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "atomicChecks": 0
+    },
+    {
+      "id": "N_115",
+      "type": "F",
+      "label": "社会の安定が、社会の機能維持と...",
+      "content": "社会の安定が、社会の機能維持と長期的な存続を可能にする力学という事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1",
+        "N_110"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "atomicChecks": 0,
+      "subType": "LOGIC",
+      "impactScore": 95,
+      "verifyScore": 80,
+      "factReason": "社会の安定は、社会システム全体の機能維持と存続に不可欠であり、その影響は極めて大きい。この概念は広く受け入れられているが、具体的な安定の定義や測定方法には議論の余地があるため、検証スコアはやや低め。",
+      "searchQuery": "社会の安定 機能維持 長期存続 関係性",
+      "isCritical": true
+    },
+    {
+      "id": "N_116",
+      "type": "V",
+      "label": "社会の持続可能性",
+      "content": "社会の持続可能性の重視。",
+      "status": "Merged",
+      "checkCount": 1,
+      "derive": [
+        "SRC_AI_1",
+        "N_110",
+        "N_114"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "isCeiling": true,
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_117",
+      "type": "V",
+      "label": "社会の発展",
+      "content": "社会の発展の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_AI_1",
+        "N_110",
+        "N_114"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_118",
+      "type": "V",
+      "label": "社会全体の幸福と安寧",
+      "content": "社会全体の幸福と安寧の重視。",
+      "status": "Split",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1",
+        "N_117"
+      ],
+      "weight": 1,
+      "depth": 4,
+      "atomicChecks": 0,
+      "isCeiling": true
+    },
+    {
+      "id": "N_119",
+      "type": "F",
+      "label": "社会全体の幸福と安寧を目指すこ...",
+      "content": "社会全体の幸福と安寧を目指すことが、社会の多角的な進歩と向上を促すという事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1",
+        "N_117"
+      ],
+      "weight": 1,
+      "depth": 4,
+      "atomicChecks": 0,
+      "isCeiling": true,
+      "subType": "LOGIC",
+      "impactScore": 85,
+      "verifyScore": 70,
+      "factReason": "社会全体の幸福と安寧が多角的な進歩を促すという考えは、多くの社会科学や哲学で支持されているが、その因果関係の直接的な証明は難しく、幸福度の測定方法にも多様性があるため。",
+      "searchQuery": "social well-being and societal progress relationship",
+      "isCritical": true
+    },
+    {
+      "id": "N_120",
+      "type": "V",
+      "label": "社会全体の幸福",
+      "content": "社会全体の幸福の重視。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1",
+        "N_117",
+        "N_118"
+      ],
+      "weight": 1,
+      "depth": 4,
+      "isCeiling": true,
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_121",
+      "type": "V",
+      "label": "社会全体の安寧",
+      "content": "社会全体の安寧の重視。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_AI_1",
+        "N_117",
+        "N_118"
+      ],
+      "weight": 1,
+      "depth": 4,
+      "isCeiling": true,
+      "atomicChecks": 99
+    },
+    {
+      "id": "V_TRST",
+      "type": "UV",
+      "label": "信頼/信用",
+      "content": "信頼/信用の追求",
+      "status": "Active",
+      "checkCount": 99,
+      "depth": 5
+    },
+    {
+      "id": "V_PROG",
+      "type": "UV",
+      "label": "進歩/革新",
+      "content": "進歩/革新の追求",
+      "status": "Active",
+      "checkCount": 99,
+      "depth": 5
+    },
+    {
+      "id": "V_LOVE",
+      "type": "UV",
+      "label": "連帯/絆",
+      "content": "連帯/絆の追求",
+      "status": "Active",
+      "checkCount": 99,
+      "depth": 5
+    },
+    {
+      "id": "N_FC_1",
+      "type": "F",
+      "subType": "EVIDENCE",
+      "label": "原発再稼働による燃料費削減効果",
+      "content": "2025年11月27日の報道によると、北海道電力は泊原子力発電所の再稼働により家庭用電気料金を約11%値下げできると発表しています。また、東京電力は柏崎刈羽原子力発電所の再稼働により年間約1,000億円の燃料費削減効果を見込んでおり、2023年の料金改定では再稼働を前提に値上げ幅を圧縮しています。2023年に新設・運転した場合の発電コスト試算では、原子力発電が12.6円/kWhであるのに対し、LNG火力は19.1円/kWh、石炭火力は24.8円/kWhと、原子力発電が安価であることが示されています。さらに、2024年12月25日のキヤノングローバル戦略研究所の分析では、2040年の既存原子力発電の燃料費は1.9円/kWhと、既存の石炭火力（4.2円/kWh）やLNG火力（6.0円/kWh）と比較して大幅に低いとされています。原子力発電の停止後、火力発電への依存が増加したことで、2010年度比で15.5兆円の燃料費が増加し、国民一人当たり約12万円の負担増になったとのデータもあります。",
+      "dataSource": "### 🔍 Data Sources (Web Search Reference)\n**Queries:** 原発再稼働 燃料費削減 日本, 原子力発電 燃料費 比較, 電力会社 燃料費 原子力発電\n\n- [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMhBt203PhhdFQnBul-MSyPailwLBSRhbVfzYkOK_FPcpGG_i8di5K3jDu2mRKtBaZY7H0vGP_Y-rMpawAOMeP-OrPtCthe4w37J6_nqZcWIkWVLSWeg1DioU7mYxZklh33sTQ8g==)\n- [cas.go.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvRqkHDWVB6fwese4O3jzNToeF3bZD2WrtsjKHlM3AO1LvY3_qlWxjdqPgt9U4VskJYCg_xpkIdnzCU1SLzcjuzuQAAJCrxLhlDY-yRywcV60N2YuTwTBTu0v63J_JexdSk8lKOFvguOaO2CylB9lRo5xOWIOcWZjUsLklRYZeOFpgMir6HA==)\n- [cigs.canon](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEalhFQKSI9OgcK_4OIQfVYUD_moI2LMl0IdCTp25lCqmJJlcUaJg8Qvm7uTFR2RhBQGoN0PLaYRD2V-yxSs294e363kUXCixsrePLMMWgkJ2HdtRpeuFs_7SxU1VncRkoh28kqF_oW)\n- [chuden.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELcVWB5Na7rlR8rUxf-lBkPBj9gcM0oKdOyYnvpOg7s_WQ4Bk2FRqsgl_nlxP_bP7dcPTJgxKLLxuTH0Oe_HvB7uytIFbNZjPeyTx_Hor51C1_ccv4jL2MkxAL87ihV1lx7leSYx5FMjxnEjxrcAQxrcEOCkg=)\n",
+      "status": "Active",
+      "derive": [
+        "N_53"
+      ],
+      "depth": 3,
+      "verifyScore": 100,
+      "dataYear": "",
+      "dataInstitution": "",
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_FC_2",
+      "type": "F",
+      "subType": "EVIDENCE",
+      "label": "新規制基準適合性審査合格原発の再稼働状況",
+      "content": "2025年8月5日時点の電気事業連合会および自然エネルギー財団のデータによると、日本において新規制基準適合性審査に合格した原子力発電所のうち、14基が再稼働している。これは、新規制基準適合性審査を通過した原発の再稼働が進んでいることを示している。再稼働には原子力規制委員会による審査合格に加え、地元自治体の理解・同意も必要とされている。複数の原発が現在も審査中であり、一部では安全対策工事の遅延やデータ不正操作（例：浜岡原発）により再稼働が遅れるケースも確認されている。",
+      "dataSource": "### 🔍 Data Sources (Web Search Reference)\n**Queries:** 日本の原子力発電所 再稼働状況 新規制基準, 新規制基準適合性審査 合格 原発 再稼働数, 原子力規制委員会 審査状況 再稼働\n\n- [fepc.or.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbUhBkhc467UCWWeknVWfHl-EuahXz3z23_Szn5Ja6jVxAyTJeyaX2iAi0TR0gUDxaEqOYMChHxHPiT7xC3kT8m4S1Y9Cf_1uXUmPkjIeyrTCZdL7NSGbV3wg6Tlz-SW3ITA==)\n- [meti.go.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7ipB2whHJ8VUGx59XPd8NBwwbGLc2znJjQkhhEFzCjbAy-srdYCLgDwNqj2NaItQx_jaj1BJOh1Vq7Czc1RDXXVD9Kr2i9o7KZxoLqcfw-QEvz7N9mQ9C1-BHACRB4b7cK8kdyP1jNLNN9G3LaRAVFlj_zXeeM-Zf_JjKfWntsBCRYAEUHIfbsX8=)\n- [renewable-ei.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKOcJph5OdSei8qrmS4JOhZriatU5mod3ddN9En61eCqnQjrgwJmSExrJF_eqPR6E4JjZOQSWrFMFRj_NpjIntxCKXgr5rEtzFms6ktzhJPmJW11VuZuCbsV5uiIFFVkycbTK52WO9T0wQgRplCLmS-2QWEaHz8JOYx_7uWZt-)\n- [ndl.go.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEThROsK6hrf_-cRSR9kOWknqHeuY9q07YQo4CqE0hKkRuINXa4UBz12YmLbVr9akRJDl8ZNfDauou3459GaZB9GfMWpAMfu-lRc6_OTXWPEdNi6xN88r4FCtVKyOTTXtJd_vg6jEkTrPec3gQZRd2lxWZhb0hE1YYip4EbPCcGBE75e4Mx0w==)\n- [nra.go.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTa77oes4IN5bNXIXAd-IMTGu2GIF_Eb7iYXESvjG6Gy_ihFZ4CjAZpqHRxFvSt8ZyI3YrnY1Bzd0-z_L2J2nq1-CxliQGaj8qEIpSmtyiWHuC2TMvjWiJDAjs7c7g_J2hUPsQzH-GDLMtoeyFdYgrS2GCEuTZJu0ebDTGXcI3C6Rq3HxMTpTcy0BaOQ8dTA==)\n- [nra.go.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi5kiqDOvfHEM259rUpu0RN0pIoHftGKlimG6JidluQl6Q99p6yo0LjextZIT0TdiTjiON8csDDKAz0wDGbcJ-Kvs8O4AQEe9OViJ3Sok-_FgCUSqMjrgqTkdqujyHCc4jwI1V2s63NwGdsp6JCMD8iEhBqiK9Mgm37RTjlyIyeVqO53yGHZM=)\n- [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF5mp88jqyqkbx24olNW-5a4XCVWV_QsxI0tTRdFtKsLM80JQOgQDhQ61i8AY7N4Gx75RKUs4wRK6adD3Qrpm0MY5rxE809zGHAvMx0HsBW8-LvOLWCaAGFX7fhghB2WpZ4nMajSM=)\n- [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqRR6OWoLjj4RkKe-lfL1sZlLoQNpYFdF7EqfLOdhWNvQeYfj4JBaNS3zpCqx88SmZ1n_l3bhIns0hJXCeXLr3O8bU0-4oC9d3apccjizNagBb5nYIlhb3YrdgoinruoANtolmrYU=)\n",
+      "status": "Active",
+      "derive": [
+        "N_26"
+      ],
+      "depth": 3,
+      "verifyScore": 100,
+      "dataYear": "",
+      "dataInstitution": "",
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_FC_3",
+      "type": "F",
+      "subType": "EVIDENCE",
+      "label": "原子力発電所の再稼働は電力の安定供給に貢献するベースロード電源",
+      "content": "2025年2月に閣議決定された第7次エネルギー基本計画によると、原子力発電は「優れた安定供給性、技術自給率を有し、他電源とそん色ないコスト水準で変動も少なく、一定の出力で安定的に発電可能」であり、エネルギー需給構造の安定性に寄与する重要なベースロード電源として位置づけられています。2023年度の日本の電源構成は火力発電が約68.6%を占めており、海外からの化石燃料依存度が高い日本のエネルギー安全保障を強化し、電力需給ひっ迫のリスクを低減するために、安全性が確認された原子力発電所の再稼働が推進されています。特に、データセンターや半導体工場の新増設により2020年代後半にかけて電力需要が増加する見通しの中で、原子力発電は天候に左右されずに安定した電力を供給できる特性を持つとされています。",
+      "dataSource": "### 🔍 Data Sources (Web Search Reference)\n**Queries:** 原発再稼働 電力供給 安定化 日本, 原子力発電所 再稼働 供給力 影響, 日本の電力構成 原子力発電 安定供給, 原発再稼働 メリット デメリット 電力安定, エネルギー基本計画 原子力 安定供給, 電力需給ひっ迫 原子力発電 貢献\n\n- [jaif.or.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzAEvgreGTlWNN_UC96SIxWiVrsb6w6GQzcH6xJdwlbOIh9NYCHiRmK_cJ1Z5PmagYutaawAA_pUCqKXXyUUW-6juWQx4-AIKYO7yI4klbCGRKVoCY_jg19fv56I7ko7B-fEBnJ00j9Y-M)\n- [aec.go.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd7DFcM_4TRY3LgfOphaobGtXv7Pgv4cZ4uk9gzVPqSbf-e-KSdNKWbODCENlZQTdas7SsRyqD2Dz5dn4TvdehVz0ox5vFtjH0E92npnwLEcxUveGdj2XYy2Tj340_L-rFeByupyz67KeFTyNfpVkWWCiPVWOPxKk=)\n- [hitachi-hri.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdRVNn_0K8JODpSYq-LwCVvKGDzodN57Q2oMQgSi-dlKXWFqqTO2giXaDofrxJxpkTAUIowMOswvxSIc86l685KA17xI-mK1rBwSiUpbaiKJtdFgQp6pzfAfeX7BWqvBgth2OkMDylpmcdVWD6tXYxNDBGCQvVW6jVCsB17AF7yJo=)\n- [rikuden.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgRFnyk97reawLY5wgXZ20AS1cax3dLHcLOklrcPARSH5lMq6boSgMxSYyvgiFBjlqQY9IjGNP_BRRY1yEyOVnG04zK_9sBTYylBYpD4kPe2z7m4B4yGWIVJgRcF6IrqAmp439kXS9xOmHDYfwZ7H4ZWs=)\n- [fepc.or.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-fOBIrdDvbC4UfGH3lS9ywPibos5Xi2rVgFrSYH-3WzSzk7fORcvAimZYOVR-I4FymUa06qt__2aOO-jm02Wph1FSz-X6rlr2_LeHdk2O11xCSnezhn0DxlqS7I65PXHeW0u1ISrUVDOQHLK_MaqfDje6RweaxL8=)\n- [meti.go.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpbcW_J2OcCsrjUwH4dEWv4rWFryL3AACsZg9SUr2yjjNhgAaFaVI0qLZpyAVrdfDCVUBsbDcITYPfJ4qfjy5_QjfthCCynW7c_VKbGvKETjqI0ZLYC1EUXZbqOTQmXdNKBFQR1wU9gbtBqI97f4WYp-P7Bq5eMZKYY5bfuRo7GeSsqm741ItBKaw=)\n- [cas.go.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwSEzwn5X8o74TQoor8nH8X-xFzuM8aCQlwxXNX6EreSbdpdU-es5A3kWGI3lpKVqw7yicJyQjiJfEjEMcsLkSfqXAuuj3jHI5vgKMFuWkpIvSnmhvksbarg0zPOxYgdb5W_Bv05MSOqiHLIdJqrptuRoYja6ZOmR-EQkdX5mTmYTfsxLb42s=)\n- [chuden.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIf3LAWtJ56SvRAmriTRQQo5fpw0yG119Sp1te6Z_MGYaaJon_hxAmK9O7HfZKzQYbmIeIcr_hed1oFJUVUeFoWhj5Y6745fZ1uJJpOlGj5BbZiObOWi4dvmIHAJqI4eZjHvQ2qO34vEe5bJpjBUmNaShL)\n- [eneres.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElHXW4kZHFHunGV88v6QXcwgX9F5Dib_Wwy1k18Woql_5yW7_1_mA2hgqRQZvKroMvNhxGndVcF7TeE5Gyt0eYCZCYD2kv0e659X9A6d_H2IbLwe5vpqeRgafx_b55Xgur-og4FX3TE7UPsa0QZJSM)\n- [jaero.or.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFjt7lNUtztpfXnHE4Jqk9VWk4JX41GXqu5e8tSDBRRL4gJj8PXVM1MlT_jF-F3SHmbAbhb7scABggQyj_cbldwB-KEk9k0_RuJBVlqWRcD4Esy_h1000Jo3dsufvW3U-JtYJ2azZuYZQIuAtB)\n- [igrid.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8gQGqLX25RfWs5QKFDbsH0yWM39reUnTASKkemd3og_GnsTIXbzB6DxWYC6OYkrUNYNd6JjG_UYLkSnhwq5V3mLgwYAqSUeCYlhOMPcljF72BU4cdz7kWebXdEysK6ObtsSgKhg==)\n- [keidanren.or.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyHWI8nKXTiy-FX3WeCEuBsi0UK-sw9Rt0_e_5DM2gggZeM6a0Z9C4S3VABa-081uq9ty7uxl4rS4MunfRQaITWQMv9RF_grQj7QS_si-LeJ3auuTjuh8PKkvAP7JZQuQvlH-t3IUJT8pIHZFEmu3EuK0=)\n- [jaero.or.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhVAuPwgnPghs9uoGdtpiplN-sdwsgAy9uk2KX4_amqPewHlEjOCVji9P9JNqkizT3Hb9-8lZyvhYyPMhufbBPuVA3ix01-9_YBttTE-fmMx53XNIYHtc4tRhu8GY1aNx5ktyFA_m0fM_oFYCN)\n- [spf.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECSTuczlvXOAOWc0vWshWKXBOVKOdTR53fnCugqjy9edAEIZd2Cn9-di02YQ6fv0FAONjISxp-astFYElroLMk8Zzdeus5KE8JYfd48T2I9ZPA4ixtmdY5do3FFoFAoXuZQhC3GlFLU7WoKiJFRb1_27o8)\n",
+      "status": "Active",
+      "derive": [
+        "N_52"
+      ],
+      "depth": 3,
+      "verifyScore": 100,
+      "dataYear": "",
+      "dataInstitution": "",
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_FC_4",
+      "type": "F",
+      "subType": "EVIDENCE",
+      "label": "日本の再生可能エネルギー導入進展と安定供給・コスト課題",
+      "content": "2024年（暦年）の環境エネルギー政策研究所の速報値によると、日本国内の全発電電力量に占める自然エネルギーの割合は26.7%に達し、2016年の約15%から増加傾向にある。特に太陽光発電は2023年度に9.8%を占め、2013年度の1.2%から大幅に増加した。政府は2030年度までに再生可能エネルギーの比率を36～38%とする目標を掲げている。",
+      "dataSource": "### 🔍 Data Sources (Web Search Reference)\n**Queries:** 日本の再生可能エネルギー導入状況 最新, 日本の再生可能エネルギー 発電量 推移 2023 2024, 再生可能エネルギー 安定供給 課題 日本 最新, 再生可能エネルギー コスト 課題 日本 最新, 日本のエネルギーミックス 再生可能エネルギー 目標 2030\n\n- [isep.or.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZPlvzj8npQCTUY8gHpuoW-sJJ0oh7ek_XfPvFTlLIPnPJBe6mnlmgUAq0O5SikuFDhsJfCqybiDv7jG_wWi97iDQM0P6GbUitSNX1nN1xoJmS1JMOps7qsLUiJ_LYUidzF2QkRzL6_g==)\n- [eneres.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbjxTH4ctG4Vqr6i-XeDrzzCgVKmBN6pN6ps9IYwaF1ur_HcQ43Z6xWpuEEhONu9NB1Ec9DPIZP3l4Y3bvUd2D_NfsHsMjbDSs7x2JXu4jaebN3oOlvZ6GWkovJWlr8RPZj7qns64YGdDpjeKoHCrc)\n- [green-transformation.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHj-OQ979hRoz_4FDfdyRKjdA-qNyORoDYlbOnbk2911A7KlRDDAit2pnNE7OWDyWs_fuiD6oFfVWet8KgZ9bmBXzR75Sy2eSfJev0SXd0eAsesbbMVgwnqWqkgt4l0URqUztatq_twVOebC-q6BP44UevP61s=)\n- [ecodenchi.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3wH6njUP-5Y4cIh-1JF0KgZiGq104qERmZnu5JSXt1588FxiPz2IL9U-SmdPxmYszQHWVNf8YRE3xaKXbtFOeRWliRR-Nb1WK7ZGfqymws3mcWkdA7EIh6YL7cA==)\n- [asuene.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4DsIZvhiuhe9lp0sw_tYlz7UKCQO9ClhNLvmbxYydN9JCxW-9z3fEufCAIlqlPSLODqx7cE3hAiwCBSlYfOZMeJN0BjmM64qiZBhaSzhb4wn483CWpPa0CQ==)\n- [asuene.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjlujllvTk-Pu90s1rSVXzsesKO6TFg2fAevxKbGsuGAT6sST7tzyQyZaawwskK9ztm5fI9KTZlhfYBJUpk218dsZF3MalEXBsEK-RSFOSDgyogFJPMho=)\n- [isep.or.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9a2qW0E2Z5pE74Suq7UrSTNbZVeUIC5R-QwCbxSySH9WazQ_L53RugpOn5KCZZACSg7Tkd8iu9PVjO5jZKbShAvsKfeN0Jc7PtQw_1d1UtJuPaD73f76Iub77oIeP21O4SIW5AepLVA==)\n- [tansomiru.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8fV9ux8jdvMevDUiFOQ7m1gpsNZFfYQSW70k9r0etGokJVjiAAEGpJh9FwHN5fO50O3OJp1cvsK-woYGDvJGlbXUaGiEKu5wactkvq4XAn6f4_4fmZXRivGRUa6uRmQuvBpjjgw_Jexk=)\n",
+      "status": "Active",
+      "derive": [
+        "N_50"
+      ],
+      "depth": 3,
+      "verifyScore": 100,
+      "dataYear": "",
+      "dataInstitution": "",
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_FC_5",
+      "type": "F",
+      "subType": "EVIDENCE",
+      "label": "原発再稼働における立地・周辺自治体の事実上の同意要件と安全協定の役割",
+      "content": "2024年および2025年の報道によると、原子力発電所の再稼働には、法的拘束力はないものの、立地自治体および周辺自治体の理解と同意が事実上不可欠とされている。これは、電力会社と自治体間で締結される原子力安全協定に基づく事前協議や了解条項によるものであり、政府も「立地自治体や住民等関係者の理解と協力が必要」との方針を示している。例えば、2025年12月には新潟県の花角英世知事が柏崎刈羽原発6号機の再稼働に同意を正式に伝達し、北海道の鈴木直道知事も泊原発3号機の再稼働に同意を表明している。これらの同意判断は、安全性確認に加え、避難計画の整備、住民説明、経済効果などを総合的に考慮して行われている。また、福島第一原発事故以降、原子力災害対策重点区域（UPZ）が半径30km圏に拡大されたことで、周辺自治体の同意の重要性も増している。",
+      "dataSource": "### 🔍 Data Sources (Web Search Reference)\n**Queries:** 原発 再稼働 立地自治体 同意 法律, 原発 再稼働 周辺自治体 同意 義務, 原子力発電所 再稼働 手続き 自治体, 原発 再稼働 同意 閣議決定, 原子力規制委員会 再稼働 同意, 原子力発電所の再稼働における地元同意の法的根拠\n\n- [kotobank.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEH0Ze23kZIlby6dT9T-f4mP5YjjoB99UFAnlDlD7AqlQQc6rVgiIvXbf6dHe-FxtbbIU7TUsAws2dtxfVRANezn-U3qO-9MgEh5RhzV5YOaL-V0MfXfwnxMlkr8Al4wkSAzjTTq4McnR8PfIeWkgs5pwRKzKGE5FP1y0b0vGWSHyK8kb1AOONJJlbhnH-bZ89IHW3NBIvGv-JUxQsLMpD4eLVyQ==)\n- [coocan.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOBg190mrLOvoFlE2QNR5MOoxb98lS0op5r4U3d3fOopF_jBfN-qTFFTK7yzuMfUUIoRMfN_7DG2O8-pByadgXDY0Iqyd5-A3PlvGJWyNluxL5W-DS67oi5_-m0IW8-GIIuCRIe9Wt)\n- [ndl.go.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhp4fVEREEdIm0FJvBW9mVIXB-ymayWJ8cziXkVXlJjPxX5NhlP7Cx3EW6r7KuYbBO-V_HlztkBe2hz8akdxmzaYp8Pc_ZpRkVItgKUhDAFI2xN8oIAcZRvQSbQ0ZR6bUzr14ZJyJgeT-T9tH9egvnFVen5LLU5Z8jnyVZNJenPG8SKk8ZFw==)\n- [pref.miyagi.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZIpNf0g7dW0MwK_qjd0aZfvDtpzIV2Y_p0JT7B2WAbO5LD-C78vtoCVlnyYf3bullmBTOTZ2EQdO84O5JkVzbvcMm-2MCoOS_HQVbZCVbV0Hx5ha2I6WHfP5iBBpbpZ8sdJmlfutYMWEWw_xUUBI-)\n- [jeli.gr.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhthFEUMuVjOALezXCzg8BURP4eLJePMZJidAvpSvQgE8t2uelCdjfgO8jjt3dYdfebeP6fj7E78z0QviHWDrHL14deVcdEYxKr5fcn6G4BmiyKdUA6fSBSC9GXoXwI54=)\n- [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0LTlAriC4lhPghb7mHzcMl8K3IHzmOFC6kpODTpS1drZ35uRQPAz3SZQ-d9ENUIZhsEXnf3637imAItzPsxkDqGeqLCQYg3v-55DbUrDnxcqQXCc4szflQWr5AJeCdn3Ln0RvJ80=)\n- [hokkaido.lg.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH54UCLYG2z0xKOztzOnmUKYQz_jneXOR_ozkGgtfCwIWk657mP2Ne84q3DTIRbY9_fIBaupIqsOTZ5DQpNgsh-SNJw3eqg4uhAHWpIiegqLCIvxXraaaHlVHhps7GBRIjY4EnSILeN1fJPZgGtRAFTx0c4)\n- [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFT4YtGm8eVV4CxIXlaf-BQGRuC2on2JD1u6en-IXq1-u118MKuPSevccFdBPB5lqTkWK-XJJ_fKGaHX_I1gHrkbt-TeKX6-Kk0FTjQnMIAd9YNhj8Ivct1AFa_57mwZhCzrpBdUHM=)\n",
+      "status": "Active",
+      "derive": [
+        "N_32"
+      ],
+      "depth": 3,
+      "verifyScore": 100,
+      "dataYear": "",
+      "dataInstitution": "",
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_FC_6",
+      "type": "F",
+      "subType": "EVIDENCE",
+      "label": "使用済み核燃料最終処分地の選定状況",
+      "content": "2025年の資源エネルギー庁および原子力発電環境整備機構（NUMO）の発表によると、日本では高レベル放射性廃棄物（使用済み核燃料）の最終処分方法として地層処分が採用されているものの、最終処分地はまだ決定されていません。処分地選定プロセスは「文献調査」「概要調査」「精密調査」の3段階で構成されており、現在、最初のステップである文献調査が北海道の寿都町と神恵内村、佐賀県の玄海町の3つの自治体で実施されています。",
+      "dataSource": "### 🔍 Data Sources (Web Search Reference)\n**Queries:** 使用済み核燃料 最終処分地 日本 現状, 使用済み核燃料 最終処分地 決定状況, 日本 最終処分地 選定プロセス, 原子力発電環境整備機構 最終処分地\n\n- [meti.go.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-S0XMS8nmOX5B0aDjrd3ocFt-BTlsHRobuIZUay31755ww_NkQqe1RAE0kw2kiVKig4j4E6mRlLg1R4lHAwYBhF82UA-KNwmZMlEuAYcKits_Swk3nrWmWjuGY07VDwv5QyD4d5SMr5U2dcbO58ADOXRN2eon8qeIQfLzYnx8UbZvzPDtXbs8xX1Fuvw=)\n- [meti.go.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFJzvsN7qpuQ6tPGG5cfQOAGKQdBCbwB2RSPzqF-i3SgjE4NztITx2fqP3SvIPeq_OjSaTH1bQs4m8Ho5jyII4hIcgFcDEbSzUi0QdDzjzQjlnm0afTOYweaOZGqsOPkNpB0McfgxtfoXIK3ZUnZOpl-pcPEYlTmqzKpmSRh8G1YKWjflwmSLoig0fznZmfq1Dn7o=)\n- [numo.or.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1El8v5kV3ZSAuO1Ax9aArtR8TJYiCtDPPJG4hbXGwunGsUCj7f_x2hMeFlq2VsyESiqSDPJkvP4HEfOkmw2L4m1JsBIWG7ZK4vj-X6aEpk2hAoBYdXGED2eu6713ojN59C3KaKw==)\n- [chuden.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVxkkBGzldYLVyFUst1-PLaYSG1KHCi38gmM0cceRXstjN22Lybiwkb29HNsisb3afloTYbQchFgrjoFN_lEuTeamGiHvohqjbnZMKXqtAEBKTiv2xfEscwXDq6fDyxuCs0Z0GbPwpvuxKp8FRgCm1gg==)\n- [meti.go.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTDSvAjqWT84QpU_-ugBV99iE_LPbwi_YQhK_sbbmXiX3xL1Pb5M6mGFEtHIZ4sBrd-HqtglymjzrV_zy1mUkttZct_vnjW8Ta9E2rVf2DCAT_iQT1bdfH4coh3Chm-Q-KkSGiUIaziNzBelkrKfPFUN1snqKz3epWLqHqSOqtrI-wN2xjh7h52BytmIw=)\n- [fepc.or.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDAdkC8nyiCX-yJ-Io7Z5FCY3DR4eEPYAFCfgdW7alYPgXFFzqIE81q0YvevPlDPM9RYcddGeUYmq05mchqI0Ii432WeU0uSpC4vphzjipqSOMP6wmE8sae9mrX3FBEiEluBpCwo4=)\n",
+      "status": "Active",
+      "derive": [
+        "N_104"
+      ],
+      "depth": 3,
+      "verifyScore": 100,
+      "dataYear": "",
+      "dataInstitution": "",
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_FC_7",
+      "type": "F",
+      "subType": "EVIDENCE",
+      "label": "AIによる世界的な雇用への影響と社会構造の変化",
+      "content": "2024年1月の国際通貨基金（IMF）の報告によると、AIは世界の雇用の約40%に影響を与え、先進国では約60%の雇用が影響を受けると予測されている。このうち先進国の雇用の約半分はAIの統合によって生産性が向上する可能性があるが、残りの半分は労働需要の減少、賃金の低下、雇用機会の喪失といった負の影響を受ける可能性がある。また、AIが仕事を奪うリスクは高賃金の労働者にも及ぶと指摘されている。",
+      "dataSource": "### 🔍 Data Sources (Web Search Reference)\n**Queries:** AI 雇用喪失 社会構造 影響 報告書, 世界経済フォーラム AI 雇用予測, OECD AI 労働市場 影響, IMF AI 雇用 報告, AIによる仕事の自動化 予測 データ\n\n- [ledge.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfnHl-xnL3pOvRzRMgLhjGp5WIYmiZjdNgmBVpBa0GesIMPHqg75ey6ngmRoGFIxuqM3MtizJWi0rG13iWBEZGfzcjLdjJu4SK-qBIsTlyRDqjbVaTeCw9LZeBTFRKfFl9XefXRdSR-kyFi6HrrWp_jaV4-2XsN0oCUwohxwaX6tWeQOE=)\n- [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlQciqoK7P6v3x2I64CCWrNHYcuGPO9ALQCJ6lVQxp1ubSXFmFre5q_HRw2T4F2AXW1yeob58XgMVBYOAvKQOTeCCGuleWJkCTZi59KJhRyBpmTSyuQ3x8PoJ2R2s432ujRo1rHTE=)\n- [sustainablejapan.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJi9IructHhDCFIv72X2tEpUJu10OwsQDYjFbGsQEXh-pgdc34IdPCoPyt8JHuXOTisx_kohLzxV7W6Hja_9u4q2AYcwY-G4ZDnimWpqSOvU6m0LLVREAfCdiVFuiO9XvWppDUTCl1fg6eXtGmHBnarC7vZkVd-h_GT-MDH5GzxQc=)\n- [gigazine.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoZZRcbeqrmdW3bnvHkHHRzPe9BnktLSSddveihwoppGs_L2DJa3zRwpoDyn9INl9jzRLM9SXwg6-xDKMKWckQ_Xytx_Avi60HKPKy0kkFcYGO8ZsE6B6iy8YAGjXQw1RqQBJ4AMeoqjv4YEtWK-AKjg==)\n- [vonxai.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8C23-5oC1yjvyyq6W_1n9v-t8gkUdt7sjGw5xCBITpEJqHDL_xPVeKY8B9v8lw7jmPMYF_obo8dyPQpS4SDrPJI7XwTuIHlxEO3Ne-m_5DOcPE83C5UlZqvoyD6sgfER-BIx3VjA0qvzigvQdrWr-TyyDKeNm2GPcto3ns8LD4FdCAO7WDsPR6w==)\n- [gizmodo.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXjz-icyiWZiPM9w7lT8jDt9hdt6sWehlTrxTj7T01LuXNwuLxQR5siw_J719qz8-fq-uDQBLwPD18bNRkCBOTKSfRXDnf_g7rLmPFjNtfHPDiDIDZ7kZHWi6u-_Eu_J_xH_wdTQWX4UnAU9PTdg==)\n- [tenbin.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA5hOO1BQer3vjNyNmD7062yh7N0IVEfazUvJOIZZNZo9_OZTAMUMzInqfRiFRZbUghrKRgtahdjVvPL_Y7IMDTNEzABXRZhMAl4OQWm0GrtPl61T0U03h_bgYbuAfLY0dchA-UZiGqMq0vTt_GyZofRFvnE0bhzkkawrj6NOOOiM=)\n- [forbesjapan.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgYQ_U6NO4Pc9Fju7Kptdi9QNlHbdDDPwHDb2nrp0-1RBZu2CiSdD8mJ7HedKZjaZ_ihwd8LPHQNSWSQG0vZ1OUE5tnyUrJr0up71M_korLRS-wvmpzNPA4p3y5P5fMacBae-R3EAp3g==)\n- [cao.go.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYCRRBJlTmjedF3eZ24uHhbTF3_lUUpCQhQBRqnlTy6A5OPyA4AzDTLtcB-wgoHz8a4gEZdZ3ZcNvjgFQmPoHRCIVMBuLdVjcXqh943X1tSmAw6AnNldkDhcgvB4CGlEFSS2X-6YE04GBiRjAAmC4wzAl5xPj1FcZJT8s=)\n- [mhlw.go.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEbsaMf8zeZeZu_kOfQPk94m6Ntj1800LW3sFvUolEbfvPqhqivNzk_FuSzXAgYS0207XYezN99Om95HzI5g4lNTeCKvk-qcQwrsjNO70Cn88aXl_JyLS47aas9FQOFBDa0gf1rHNW54xNve_IPScUCBDXpSmcYBDTRWx7l4VAWvLWq5JxWtgz6uMwsjt1DxOLKQ8jUfsTNvYaMlASsR-Ckjw=)\n",
+      "status": "Active",
+      "derive": [
+        "N_107"
+      ],
+      "depth": 3,
+      "verifyScore": 100,
+      "dataYear": "",
+      "dataInstitution": "",
+      "atomicChecks": 99
+    }
+  ],
+  "mesh": [
+    {
+      "from": "N_14",
+      "to": "N_22",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_15",
+      "to": "N_22",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_17",
+      "to": "N_22",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_21",
+      "to": "N_22",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_3",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_4",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_5",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_11",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_12",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_13",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_19",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_20",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_3",
+      "to": "N_24",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_17",
+      "to": "N_24",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_18",
+      "to": "N_24",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_8",
+      "to": "N_25",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_9",
+      "to": "N_25",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_10",
+      "to": "N_25",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_11",
+      "to": "N_25",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_12",
+      "to": "N_25",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_13",
+      "to": "N_25",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_26",
+      "to": "N_22",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_27",
+      "to": "N_22",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_28",
+      "to": "N_22",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_29",
+      "to": "N_25",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_30",
+      "to": "N_25",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_31",
+      "to": "N_25",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_32",
+      "to": "N_24",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_33",
+      "to": "N_24",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_34",
+      "to": "N_24",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_35",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_26",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_32",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_36",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_37",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_38",
+      "to": "N_25",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_39",
+      "to": "N_25",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_40",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_41",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_42",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_43",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_44",
+      "to": "N_24",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_45",
+      "to": "N_24",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_46",
+      "to": "N_24",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_47",
+      "to": "N_22",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_48",
+      "to": "N_22",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_49",
+      "to": "N_22",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_50",
+      "to": "N_25",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_51",
+      "to": "N_25",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_52",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_53",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_54",
+      "to": "N_41",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_55",
+      "to": "N_41",
+      "type": "Support",
+      "logic": "Structure"
+    },
+    {
+      "from": "N_56",
+      "to": "N_38",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_57",
+      "to": "N_38",
+      "type": "Support",
+      "logic": "Structure"
+    },
+    {
+      "from": "N_58",
+      "to": "N_40",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_59",
+      "to": "N_40",
+      "type": "Support",
+      "logic": "Structure"
+    },
+    {
+      "from": "N_60",
+      "to": "N_46",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_61",
+      "to": "N_46",
+      "type": "Support",
+      "logic": "Structure"
+    },
+    {
+      "from": "N_44",
+      "to": "N_22",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_45",
+      "to": "N_22",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_62",
+      "to": "N_38",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_63",
+      "to": "N_38",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_64",
+      "to": "N_40",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_65",
+      "to": "N_40",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_66",
+      "to": "N_41",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_67",
+      "to": "N_41",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_68",
+      "to": "N_65",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_69",
+      "to": "N_65",
+      "type": "Support",
+      "logic": "Structure"
+    },
+    {
+      "from": "N_70",
+      "to": "N_66",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_71",
+      "to": "N_66",
+      "type": "Support",
+      "logic": "Structure"
+    },
+    {
+      "from": "V_SAFE",
+      "to": "N_44",
+      "type": "Grounding",
+      "logic": "Keyword"
+    },
+    {
+      "from": "V_SUST",
+      "to": "N_39",
+      "type": "Grounding",
+      "logic": "Keyword"
+    },
+    {
+      "from": "V_HOPE",
+      "to": "N_39",
+      "type": "Grounding",
+      "logic": "Keyword"
+    },
+    {
+      "from": "V_SAFE",
+      "to": "N_45",
+      "type": "Support",
+      "logic": "Grounding"
+    },
+    {
+      "from": "V_WLTH",
+      "to": "N_43",
+      "type": "Support",
+      "logic": "Grounding"
+    },
+    {
+      "from": "V_SAFE",
+      "to": "N_42",
+      "type": "Support",
+      "logic": "Grounding"
+    },
+    {
+      "from": "V_WLTH",
+      "to": "N_62",
+      "type": "Support",
+      "logic": "Grounding"
+    },
+    {
+      "from": "V_LIFE",
+      "to": "N_64",
+      "type": "Support",
+      "logic": "Grounding"
+    },
+    {
+      "from": "V_SAFE",
+      "to": "N_49",
+      "type": "Support",
+      "logic": "Grounding"
+    },
+    {
+      "from": "V_WLTH",
+      "to": "N_63",
+      "type": "Support",
+      "logic": "Grounding"
+    },
+    {
+      "from": "V_JUST",
+      "to": "N_60",
+      "type": "Support",
+      "logic": "Grounding"
+    },
+    {
+      "from": "V_WLTH",
+      "to": "N_67",
+      "type": "Support",
+      "logic": "Grounding"
+    },
+    {
+      "from": "V_DIGN",
+      "to": "N_68",
+      "type": "Support",
+      "logic": "Grounding"
+    },
+    {
+      "from": "V_JUST",
+      "to": "N_70",
+      "type": "Support",
+      "logic": "Grounding"
+    },
+    {
+      "from": "V_LIFE",
+      "to": "V_SAFE",
+      "type": "Topology",
+      "logic": "Cosmology"
+    },
+    {
+      "from": "V_SUST",
+      "to": "V_WLTH",
+      "type": "Topology",
+      "logic": "Cosmology"
+    },
+    {
+      "from": "V_SAFE",
+      "to": "N_22",
+      "type": "Grounding",
+      "logic": "Semantic Grounding"
+    },
+    {
+      "from": "V_LIFE",
+      "to": "N_22",
+      "type": "Grounding",
+      "logic": "Semantic Grounding"
+    },
+    {
+      "from": "V_SUST",
+      "to": "N_23",
+      "type": "Grounding",
+      "logic": "Semantic Grounding"
+    },
+    {
+      "from": "V_WLTH",
+      "to": "N_23",
+      "type": "Grounding",
+      "logic": "Semantic Grounding"
+    },
+    {
+      "from": "V_TRST",
+      "to": "N_24",
+      "type": "Grounding",
+      "logic": "Semantic Grounding"
+    },
+    {
+      "from": "V_SUST",
+      "to": "N_24",
+      "type": "Grounding",
+      "logic": "Semantic Grounding"
+    },
+    {
+      "from": "V_SUST",
+      "to": "N_25",
+      "type": "Grounding",
+      "logic": "Semantic Grounding"
+    },
+    {
+      "from": "V_PROG",
+      "to": "N_25",
+      "type": "Grounding",
+      "logic": "Semantic Grounding"
+    },
+    {
+      "from": "N_76",
+      "to": "N_102",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_77",
+      "to": "N_102",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_78",
+      "to": "N_102",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_79",
+      "to": "N_102",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_80",
+      "to": "N_102",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_81",
+      "to": "N_102",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_82",
+      "to": "N_102",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_83",
+      "to": "N_102",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_84",
+      "to": "N_102",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_85",
+      "to": "N_102",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_86",
+      "to": "N_102",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_87",
+      "to": "N_102",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_88",
+      "to": "N_102",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_89",
+      "to": "N_102",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_90",
+      "to": "N_102",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_91",
+      "to": "N_102",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_92",
+      "to": "N_102",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_93",
+      "to": "N_102",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_94",
+      "to": "N_102",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_95",
+      "to": "N_102",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_98",
+      "to": "N_102",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_99",
+      "to": "N_102",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_100",
+      "to": "N_102",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_76",
+      "to": "N_103",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_96",
+      "to": "N_103",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_97",
+      "to": "N_103",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_98",
+      "to": "N_103",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_100",
+      "to": "N_103",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_101",
+      "to": "N_103",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_104",
+      "to": "N_103",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_105",
+      "to": "N_103",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_106",
+      "to": "N_103",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_107",
+      "to": "N_102",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_108",
+      "to": "N_102",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_109",
+      "to": "N_102",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_110",
+      "to": "N_103",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_111",
+      "to": "N_103",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_112",
+      "to": "N_102",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_113",
+      "to": "N_102",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_114",
+      "to": "N_110",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_115",
+      "to": "N_110",
+      "type": "Support",
+      "logic": "Structure"
+    },
+    {
+      "from": "N_39",
+      "to": "N_102",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_110",
+      "to": "N_102",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_116",
+      "to": "N_110",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_117",
+      "to": "N_110",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_118",
+      "to": "N_117",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_119",
+      "to": "N_117",
+      "type": "Support",
+      "logic": "Structure"
+    },
+    {
+      "from": "N_39",
+      "to": "N_110",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_120",
+      "to": "N_117",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_121",
+      "to": "N_117",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "V_SAFE",
+      "to": "N_111",
+      "type": "Grounding",
+      "logic": "Keyword"
+    },
+    {
+      "from": "V_LOVE",
+      "to": "N_120",
+      "type": "Support",
+      "logic": "Grounding"
+    },
+    {
+      "from": "V_SAFE",
+      "to": "N_121",
+      "type": "Support",
+      "logic": "Grounding"
+    },
+    {
+      "from": "V_LIFE",
+      "to": "V_LOVE",
+      "type": "Topology",
+      "logic": "Cosmology"
+    },
+    {
+      "from": "V_SAFE",
+      "to": "V_TRST",
+      "type": "Topology",
+      "logic": "Cosmology"
+    },
+    {
+      "from": "V_HOPE",
+      "to": "V_PROG",
+      "type": "Topology",
+      "logic": "Cosmology"
+    },
+    {
+      "from": "V_SAFE",
+      "to": "N_24",
+      "type": "Grounding",
+      "logic": "Semantic Grounding"
+    },
+    {
+      "from": "V_SUST",
+      "to": "N_102",
+      "type": "Grounding",
+      "logic": "Semantic Grounding"
+    },
+    {
+      "from": "V_SAFE",
+      "to": "N_102",
+      "type": "Grounding",
+      "logic": "Semantic Grounding"
+    },
+    {
+      "from": "V_SAFE",
+      "to": "N_103",
+      "type": "Grounding",
+      "logic": "Semantic Grounding"
+    },
+    {
+      "from": "V_LIFE",
+      "to": "N_103",
+      "type": "Grounding",
+      "logic": "Semantic Grounding"
+    },
+    {
+      "from": "N_FC_1",
+      "to": "N_53",
+      "type": "Support",
+      "logic": "Evidence"
+    },
+    {
+      "from": "N_FC_2",
+      "to": "N_26",
+      "type": "Support",
+      "logic": "Evidence"
+    },
+    {
+      "from": "N_FC_3",
+      "to": "N_52",
+      "type": "Support",
+      "logic": "Evidence"
+    },
+    {
+      "from": "N_FC_4",
+      "to": "N_50",
+      "type": "Support",
+      "logic": "Evidence"
+    },
+    {
+      "from": "N_FC_5",
+      "to": "N_32",
+      "type": "Support",
+      "logic": "Evidence"
+    },
+    {
+      "from": "N_FC_6",
+      "to": "N_104",
+      "type": "Support",
+      "logic": "Evidence"
+    },
+    {
+      "from": "N_FC_7",
+      "to": "N_107",
+      "type": "Support",
+      "logic": "Evidence"
+    }
+  ],
+  "topologyAnalysis": {
+    "comparisons": [
+      {
+        "claim1": {
+          "id": "N_22",
+          "label": "原発安全確保"
+        },
+        "claim2": {
+          "id": "N_23",
+          "label": "原発再稼働推進"
+        },
+        "commonStars": [
+          "V_SAFE",
+          "V_LIFE"
+        ],
+        "factualDivergences": [
+          "N_26",
+          "N_32",
+          "N_52",
+          "N_53"
+        ],
+        "divergencePoints": [
+          {
+            "nodeId": "N_26",
+            "nodeLabel": "新規制基準適合性審査に合格した...",
+            "nodeType": "F",
+            "interpretation1": {
+              "targetId": "N_22",
+              "label": "原発安全確保",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "N_23",
+              "label": "原発再稼働推進",
+              "relation": "Support"
+            },
+            "singularity_score": 47
+          },
+          {
+            "nodeId": "V_SAFE",
+            "nodeLabel": "安全/防衛",
+            "nodeType": "UV",
+            "interpretation1": {
+              "targetId": "N_45",
+              "label": "住民の安心",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "N_42",
+              "label": "経済の安定",
+              "relation": "Support"
+            },
+            "singularity_score": 60
+          }
+        ]
+      },
+      {
+        "claim1": {
+          "id": "N_22",
+          "label": "原発安全確保"
+        },
+        "claim2": {
+          "id": "N_24",
+          "label": "住民意向尊重"
+        },
+        "commonStars": [
+          "N_44",
+          "N_45",
+          "V_SAFE",
+          "V_LIFE"
+        ],
+        "factualDivergences": [
+          "N_26",
+          "N_32"
+        ],
+        "divergencePoints": [
+          {
+            "nodeId": "N_17",
+            "nodeLabel": "Raw",
+            "nodeType": "RAW",
+            "interpretation1": {
+              "targetId": "N_22",
+              "label": "原発安全確保",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "N_24",
+              "label": "住民意向尊重",
+              "relation": "Support"
+            },
+            "singularity_score": 35
+          },
+          {
+            "nodeId": "N_44",
+            "nodeLabel": "住民の安全",
+            "nodeType": "V",
+            "interpretation1": {
+              "targetId": "N_22",
+              "label": "原発安全確保",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "N_24",
+              "label": "住民意向尊重",
+              "relation": "Support"
+            },
+            "singularity_score": 35
+          },
+          {
+            "nodeId": "N_45",
+            "nodeLabel": "住民の安心",
+            "nodeType": "V",
+            "interpretation1": {
+              "targetId": "N_22",
+              "label": "原発安全確保",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "N_24",
+              "label": "住民意向尊重",
+              "relation": "Support"
+            },
+            "singularity_score": 35
+          },
+          {
+            "nodeId": "V_SAFE",
+            "nodeLabel": "安全/防衛",
+            "nodeType": "UV",
+            "interpretation1": {
+              "targetId": "N_45",
+              "label": "住民の安心",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "V_TRST",
+              "label": "信頼/信用",
+              "relation": "Topology"
+            },
+            "singularity_score": 35
+          }
+        ]
+      },
+      {
+        "claim1": {
+          "id": "N_22",
+          "label": "原発安全確保"
+        },
+        "claim2": {
+          "id": "N_25",
+          "label": "再エネ導入推進"
+        },
+        "commonStars": [],
+        "factualDivergences": [
+          "N_26",
+          "N_50"
+        ],
+        "divergencePoints": []
+      },
+      {
+        "claim1": {
+          "id": "N_22",
+          "label": "原発安全確保"
+        },
+        "claim2": {
+          "id": "N_102",
+          "label": "脆弱性対策優先"
+        },
+        "commonStars": [
+          "V_SAFE",
+          "V_LIFE"
+        ],
+        "factualDivergences": [
+          "N_26",
+          "N_107"
+        ],
+        "divergencePoints": [
+          {
+            "nodeId": "V_SAFE",
+            "nodeLabel": "安全/防衛",
+            "nodeType": "UV",
+            "interpretation1": {
+              "targetId": "N_45",
+              "label": "住民の安心",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "N_102",
+              "label": "脆弱性対策優先",
+              "relation": "Grounding"
+            },
+            "singularity_score": 35
+          }
+        ]
+      },
+      {
+        "claim1": {
+          "id": "N_22",
+          "label": "原発安全確保"
+        },
+        "claim2": {
+          "id": "N_103",
+          "label": "慎重なAI導入"
+        },
+        "commonStars": [
+          "V_SAFE",
+          "V_LIFE"
+        ],
+        "factualDivergences": [
+          "N_26",
+          "N_104"
+        ],
+        "divergencePoints": [
+          {
+            "nodeId": "V_SAFE",
+            "nodeLabel": "安全/防衛",
+            "nodeType": "UV",
+            "interpretation1": {
+              "targetId": "N_45",
+              "label": "住民の安心",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "N_111",
+              "label": "社会の安全",
+              "relation": "Grounding"
+            },
+            "singularity_score": 60
+          }
+        ]
+      },
+      {
+        "claim1": {
+          "id": "N_23",
+          "label": "原発再稼働推進"
+        },
+        "claim2": {
+          "id": "N_24",
+          "label": "住民意向尊重"
+        },
+        "commonStars": [
+          "V_SUST",
+          "V_SAFE",
+          "V_LIFE",
+          "V_JUST"
+        ],
+        "factualDivergences": [
+          "N_26",
+          "N_32",
+          "N_52",
+          "N_53"
+        ],
+        "divergencePoints": [
+          {
+            "nodeId": "N_3",
+            "nodeLabel": "Raw",
+            "nodeType": "RAW",
+            "interpretation1": {
+              "targetId": "N_23",
+              "label": "原発再稼働推進",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "N_24",
+              "label": "住民意向尊重",
+              "relation": "Support"
+            },
+            "singularity_score": 35
+          },
+          {
+            "nodeId": "N_32",
+            "nodeLabel": "原発再稼働には立地・周辺自治体...",
+            "nodeType": "F",
+            "interpretation1": {
+              "targetId": "N_23",
+              "label": "原発再稼働推進",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "N_24",
+              "label": "住民意向尊重",
+              "relation": "Support"
+            },
+            "singularity_score": 52
+          },
+          {
+            "nodeId": "V_SUST",
+            "nodeLabel": "持続可能性",
+            "nodeType": "UV",
+            "interpretation1": {
+              "targetId": "N_23",
+              "label": "原発再稼働推進",
+              "relation": "Grounding"
+            },
+            "interpretation2": {
+              "targetId": "N_24",
+              "label": "住民意向尊重",
+              "relation": "Grounding"
+            },
+            "singularity_score": 35
+          },
+          {
+            "nodeId": "V_SAFE",
+            "nodeLabel": "安全/防衛",
+            "nodeType": "UV",
+            "interpretation1": {
+              "targetId": "N_42",
+              "label": "経済の安定",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "V_TRST",
+              "label": "信頼/信用",
+              "relation": "Topology"
+            },
+            "singularity_score": 35
+          },
+          {
+            "nodeId": "V_JUST",
+            "nodeLabel": "正義/規範",
+            "nodeType": "UV",
+            "interpretation1": {
+              "targetId": "N_70",
+              "label": "公共の福祉",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "N_60",
+              "label": "住民の地域意思決定",
+              "relation": "Support"
+            },
+            "singularity_score": 60
+          }
+        ]
+      },
+      {
+        "claim1": {
+          "id": "N_23",
+          "label": "原発再稼働推進"
+        },
+        "claim2": {
+          "id": "N_25",
+          "label": "再エネ導入推進"
+        },
+        "commonStars": [
+          "V_SUST",
+          "V_WLTH"
+        ],
+        "factualDivergences": [
+          "N_26",
+          "N_32",
+          "N_52",
+          "N_53",
+          "N_50"
+        ],
+        "divergencePoints": [
+          {
+            "nodeId": "N_11",
+            "nodeLabel": "Raw",
+            "nodeType": "RAW",
+            "interpretation1": {
+              "targetId": "N_23",
+              "label": "原発再稼働推進",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "N_25",
+              "label": "再エネ導入推進",
+              "relation": "Support"
+            },
+            "singularity_score": 35
+          },
+          {
+            "nodeId": "N_12",
+            "nodeLabel": "Raw",
+            "nodeType": "RAW",
+            "interpretation1": {
+              "targetId": "N_23",
+              "label": "原発再稼働推進",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "N_25",
+              "label": "再エネ導入推進",
+              "relation": "Support"
+            },
+            "singularity_score": 35
+          },
+          {
+            "nodeId": "N_13",
+            "nodeLabel": "Raw",
+            "nodeType": "RAW",
+            "interpretation1": {
+              "targetId": "N_23",
+              "label": "原発再稼働推進",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "N_25",
+              "label": "再エネ導入推進",
+              "relation": "Support"
+            },
+            "singularity_score": 35
+          },
+          {
+            "nodeId": "V_SUST",
+            "nodeLabel": "持続可能性",
+            "nodeType": "UV",
+            "interpretation1": {
+              "targetId": "N_23",
+              "label": "原発再稼働推進",
+              "relation": "Grounding"
+            },
+            "interpretation2": {
+              "targetId": "N_39",
+              "label": "環境持続可能性",
+              "relation": "Grounding"
+            },
+            "singularity_score": 35
+          },
+          {
+            "nodeId": "V_WLTH",
+            "nodeLabel": "富/資産",
+            "nodeType": "UV",
+            "interpretation1": {
+              "targetId": "N_43",
+              "label": "経済の発展",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "N_63",
+              "label": "経済",
+              "relation": "Support"
+            },
+            "singularity_score": 60
+          }
+        ]
+      },
+      {
+        "claim1": {
+          "id": "N_23",
+          "label": "原発再稼働推進"
+        },
+        "claim2": {
+          "id": "N_102",
+          "label": "脆弱性対策優先"
+        },
+        "commonStars": [
+          "V_SUST",
+          "V_SAFE",
+          "V_LIFE"
+        ],
+        "factualDivergences": [
+          "N_26",
+          "N_32",
+          "N_52",
+          "N_53",
+          "N_107"
+        ],
+        "divergencePoints": [
+          {
+            "nodeId": "V_SUST",
+            "nodeLabel": "持続可能性",
+            "nodeType": "UV",
+            "interpretation1": {
+              "targetId": "N_23",
+              "label": "原発再稼働推進",
+              "relation": "Grounding"
+            },
+            "interpretation2": {
+              "targetId": "N_39",
+              "label": "環境持続可能性",
+              "relation": "Grounding"
+            },
+            "singularity_score": 35
+          },
+          {
+            "nodeId": "V_SAFE",
+            "nodeLabel": "安全/防衛",
+            "nodeType": "UV",
+            "interpretation1": {
+              "targetId": "N_42",
+              "label": "経済の安定",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "N_102",
+              "label": "脆弱性対策優先",
+              "relation": "Grounding"
+            },
+            "singularity_score": 35
+          }
+        ]
+      },
+      {
+        "claim1": {
+          "id": "N_23",
+          "label": "原発再稼働推進"
+        },
+        "claim2": {
+          "id": "N_103",
+          "label": "慎重なAI導入"
+        },
+        "commonStars": [
+          "V_SUST",
+          "V_SAFE",
+          "V_LIFE"
+        ],
+        "factualDivergences": [
+          "N_26",
+          "N_32",
+          "N_52",
+          "N_53",
+          "N_104"
+        ],
+        "divergencePoints": [
+          {
+            "nodeId": "V_SUST",
+            "nodeLabel": "持続可能性",
+            "nodeType": "UV",
+            "interpretation1": {
+              "targetId": "N_23",
+              "label": "原発再稼働推進",
+              "relation": "Grounding"
+            },
+            "interpretation2": {
+              "targetId": "N_39",
+              "label": "環境持続可能性",
+              "relation": "Grounding"
+            },
+            "singularity_score": 35
+          },
+          {
+            "nodeId": "V_SAFE",
+            "nodeLabel": "安全/防衛",
+            "nodeType": "UV",
+            "interpretation1": {
+              "targetId": "N_42",
+              "label": "経済の安定",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "N_111",
+              "label": "社会の安全",
+              "relation": "Grounding"
+            },
+            "singularity_score": 60
+          }
+        ]
+      },
+      {
+        "claim1": {
+          "id": "N_24",
+          "label": "住民意向尊重"
+        },
+        "claim2": {
+          "id": "N_25",
+          "label": "再エネ導入推進"
+        },
+        "commonStars": [
+          "V_SUST"
+        ],
+        "factualDivergences": [
+          "N_32",
+          "N_50"
+        ],
+        "divergencePoints": [
+          {
+            "nodeId": "V_SUST",
+            "nodeLabel": "持続可能性",
+            "nodeType": "UV",
+            "interpretation1": {
+              "targetId": "N_24",
+              "label": "住民意向尊重",
+              "relation": "Grounding"
+            },
+            "interpretation2": {
+              "targetId": "N_39",
+              "label": "環境持続可能性",
+              "relation": "Grounding"
+            },
+            "singularity_score": 35
+          }
+        ]
+      },
+      {
+        "claim1": {
+          "id": "N_24",
+          "label": "住民意向尊重"
+        },
+        "claim2": {
+          "id": "N_102",
+          "label": "脆弱性対策優先"
+        },
+        "commonStars": [
+          "V_SUST",
+          "V_SAFE",
+          "V_LIFE"
+        ],
+        "factualDivergences": [
+          "N_32",
+          "N_107"
+        ],
+        "divergencePoints": [
+          {
+            "nodeId": "V_SUST",
+            "nodeLabel": "持続可能性",
+            "nodeType": "UV",
+            "interpretation1": {
+              "targetId": "N_24",
+              "label": "住民意向尊重",
+              "relation": "Grounding"
+            },
+            "interpretation2": {
+              "targetId": "N_39",
+              "label": "環境持続可能性",
+              "relation": "Grounding"
+            },
+            "singularity_score": 35
+          },
+          {
+            "nodeId": "V_SAFE",
+            "nodeLabel": "安全/防衛",
+            "nodeType": "UV",
+            "interpretation1": {
+              "targetId": "V_TRST",
+              "label": "信頼/信用",
+              "relation": "Topology"
+            },
+            "interpretation2": {
+              "targetId": "N_102",
+              "label": "脆弱性対策優先",
+              "relation": "Grounding"
+            },
+            "singularity_score": 35
+          }
+        ]
+      },
+      {
+        "claim1": {
+          "id": "N_24",
+          "label": "住民意向尊重"
+        },
+        "claim2": {
+          "id": "N_103",
+          "label": "慎重なAI導入"
+        },
+        "commonStars": [
+          "V_SUST",
+          "V_SAFE",
+          "V_LIFE"
+        ],
+        "factualDivergences": [
+          "N_32",
+          "N_104"
+        ],
+        "divergencePoints": [
+          {
+            "nodeId": "V_SUST",
+            "nodeLabel": "持続可能性",
+            "nodeType": "UV",
+            "interpretation1": {
+              "targetId": "N_24",
+              "label": "住民意向尊重",
+              "relation": "Grounding"
+            },
+            "interpretation2": {
+              "targetId": "N_39",
+              "label": "環境持続可能性",
+              "relation": "Grounding"
+            },
+            "singularity_score": 35
+          },
+          {
+            "nodeId": "V_SAFE",
+            "nodeLabel": "安全/防衛",
+            "nodeType": "UV",
+            "interpretation1": {
+              "targetId": "V_TRST",
+              "label": "信頼/信用",
+              "relation": "Topology"
+            },
+            "interpretation2": {
+              "targetId": "N_111",
+              "label": "社会の安全",
+              "relation": "Grounding"
+            },
+            "singularity_score": 35
+          }
+        ]
+      },
+      {
+        "claim1": {
+          "id": "N_25",
+          "label": "再エネ導入推進"
+        },
+        "claim2": {
+          "id": "N_102",
+          "label": "脆弱性対策優先"
+        },
+        "commonStars": [
+          "N_39",
+          "V_SUST",
+          "V_HOPE"
+        ],
+        "factualDivergences": [
+          "N_50",
+          "N_107"
+        ],
+        "divergencePoints": [
+          {
+            "nodeId": "N_39",
+            "nodeLabel": "環境持続可能性",
+            "nodeType": "V",
+            "interpretation1": {
+              "targetId": "N_25",
+              "label": "再エネ導入推進",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "N_102",
+              "label": "脆弱性対策優先",
+              "relation": "Support"
+            },
+            "singularity_score": 35
+          },
+          {
+            "nodeId": "V_HOPE",
+            "nodeLabel": "希望/可能性",
+            "nodeType": "UV",
+            "interpretation1": {
+              "targetId": "V_PROG",
+              "label": "進歩/革新",
+              "relation": "Topology"
+            },
+            "interpretation2": {
+              "targetId": "N_39",
+              "label": "環境持続可能性",
+              "relation": "Grounding"
+            },
+            "singularity_score": 35
+          }
+        ]
+      },
+      {
+        "claim1": {
+          "id": "N_25",
+          "label": "再エネ導入推進"
+        },
+        "claim2": {
+          "id": "N_103",
+          "label": "慎重なAI導入"
+        },
+        "commonStars": [
+          "N_39",
+          "V_SUST",
+          "V_HOPE"
+        ],
+        "factualDivergences": [
+          "N_50",
+          "N_104"
+        ],
+        "divergencePoints": [
+          {
+            "nodeId": "N_39",
+            "nodeLabel": "環境持続可能性",
+            "nodeType": "V",
+            "interpretation1": {
+              "targetId": "N_25",
+              "label": "再エネ導入推進",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "N_110",
+              "label": "社会の安定",
+              "relation": "Support"
+            },
+            "singularity_score": 35
+          },
+          {
+            "nodeId": "V_HOPE",
+            "nodeLabel": "希望/可能性",
+            "nodeType": "UV",
+            "interpretation1": {
+              "targetId": "V_PROG",
+              "label": "進歩/革新",
+              "relation": "Topology"
+            },
+            "interpretation2": {
+              "targetId": "N_39",
+              "label": "環境持続可能性",
+              "relation": "Grounding"
+            },
+            "singularity_score": 35
+          }
+        ]
+      },
+      {
+        "claim1": {
+          "id": "N_102",
+          "label": "脆弱性対策優先"
+        },
+        "claim2": {
+          "id": "N_103",
+          "label": "慎重なAI導入"
+        },
+        "commonStars": [
+          "N_39",
+          "N_110",
+          "V_SUST",
+          "V_SAFE",
+          "V_HOPE",
+          "N_114",
+          "N_116",
+          "N_117",
+          "V_LIFE",
+          "N_118",
+          "N_120",
+          "N_121",
+          "V_LOVE"
+        ],
+        "factualDivergences": [
+          "N_107",
+          "N_104"
+        ],
+        "divergencePoints": [
+          {
+            "nodeId": "N_76",
+            "nodeLabel": "Raw",
+            "nodeType": "RAW",
+            "interpretation1": {
+              "targetId": "N_102",
+              "label": "脆弱性対策優先",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "N_103",
+              "label": "慎重なAI導入",
+              "relation": "Support"
+            },
+            "singularity_score": 35
+          },
+          {
+            "nodeId": "N_98",
+            "nodeLabel": "Raw",
+            "nodeType": "RAW",
+            "interpretation1": {
+              "targetId": "N_102",
+              "label": "脆弱性対策優先",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "N_103",
+              "label": "慎重なAI導入",
+              "relation": "Support"
+            },
+            "singularity_score": 35
+          },
+          {
+            "nodeId": "N_100",
+            "nodeLabel": "Raw",
+            "nodeType": "RAW",
+            "interpretation1": {
+              "targetId": "N_102",
+              "label": "脆弱性対策優先",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "N_103",
+              "label": "慎重なAI導入",
+              "relation": "Support"
+            },
+            "singularity_score": 35
+          },
+          {
+            "nodeId": "N_39",
+            "nodeLabel": "環境持続可能性",
+            "nodeType": "V",
+            "interpretation1": {
+              "targetId": "N_102",
+              "label": "脆弱性対策優先",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "N_110",
+              "label": "社会の安定",
+              "relation": "Support"
+            },
+            "singularity_score": 35
+          },
+          {
+            "nodeId": "N_110",
+            "nodeLabel": "社会の安定",
+            "nodeType": "V",
+            "interpretation1": {
+              "targetId": "N_102",
+              "label": "脆弱性対策優先",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "N_103",
+              "label": "慎重なAI導入",
+              "relation": "Support"
+            },
+            "singularity_score": 35
+          },
+          {
+            "nodeId": "V_SAFE",
+            "nodeLabel": "安全/防衛",
+            "nodeType": "UV",
+            "interpretation1": {
+              "targetId": "N_102",
+              "label": "脆弱性対策優先",
+              "relation": "Grounding"
+            },
+            "interpretation2": {
+              "targetId": "N_111",
+              "label": "社会の安全",
+              "relation": "Grounding"
+            },
+            "singularity_score": 35
+          }
+        ]
+      }
+    ],
+    "commonGrounds": [
+      {
+        "id": "V_SAFE",
+        "label": "安全/防衛",
+        "type": "UV",
+        "content": "安全/防衛の追求"
+      },
+      {
+        "id": "V_LIFE",
+        "label": "生命/生存",
+        "type": "UV",
+        "content": "生命/生存の追求"
+      },
+      {
+        "id": "N_44",
+        "label": "住民の安全",
+        "type": "V",
+        "content": "住民の安全の重視。"
+      },
+      {
+        "id": "N_45",
+        "label": "住民の安心",
+        "type": "V",
+        "content": "住民の安心の重視。"
+      },
+      {
+        "id": "V_SUST",
+        "label": "持続可能性",
+        "type": "UV",
+        "content": "持続可能性の追求"
+      },
+      {
+        "id": "V_JUST",
+        "label": "正義/規範",
+        "type": "UV",
+        "content": "正義/規範の追求"
+      },
+      {
+        "id": "V_WLTH",
+        "label": "富/資産",
+        "type": "UV",
+        "content": "富/資産の追求"
+      },
+      {
+        "id": "N_39",
+        "label": "環境持続可能性",
+        "type": "V",
+        "content": "環境持続可能性の重視。 / 社会の持続可能性の重視。"
+      },
+      {
+        "id": "V_HOPE",
+        "label": "希望/可能性",
+        "type": "UV",
+        "content": "希望/可能性の追求"
+      },
+      {
+        "id": "N_110",
+        "label": "社会の安定",
+        "type": "V",
+        "content": "社会の安定の重視。"
+      },
+      {
+        "id": "N_114",
+        "label": "社会が長期にわたり健全に存続し...",
+        "type": "V",
+        "content": "社会が長期にわたり健全に存続し、発展していくことの重視。"
+      },
+      {
+        "id": "N_116",
+        "label": "社会の持続可能性",
+        "type": "V",
+        "content": "社会の持続可能性の重視。"
+      },
+      {
+        "id": "N_117",
+        "label": "社会の発展",
+        "type": "V",
+        "content": "社会の発展の重視。"
+      },
+      {
+        "id": "N_118",
+        "label": "社会全体の幸福と安寧",
+        "type": "V",
+        "content": "社会全体の幸福と安寧の重視。"
+      },
+      {
+        "id": "N_120",
+        "label": "社会全体の幸福",
+        "type": "V",
+        "content": "社会全体の幸福の重視。"
+      },
+      {
+        "id": "N_121",
+        "label": "社会全体の安寧",
+        "type": "V",
+        "content": "社会全体の安寧の重視。"
+      },
+      {
+        "id": "V_LOVE",
+        "label": "連帯/絆",
+        "type": "UV",
+        "content": "連帯/絆の追求"
+      }
+    ],
+    "divergencePoints": [
+      {
+        "id": "SING_2",
+        "nodeId": "V_SAFE",
+        "score": 60,
+        "context": "原発安全確保 と 原発再稼働推進 の対立点: 安全/防衛 の解釈の相違（住民の安心 vs 経済の安定）"
+      },
+      {
+        "id": "SING_8",
+        "nodeId": "V_SAFE",
+        "score": 60,
+        "context": "原発安全確保 と 慎重なAI導入 の対立点: 安全/防衛 の解釈の相違（住民の安心 vs 社会の安全）"
+      },
+      {
+        "id": "SING_13",
+        "nodeId": "V_JUST",
+        "score": 60,
+        "context": "原発再稼働推進 と 住民意向尊重 の対立点: 正義/規範 の解釈の相違（公共の福祉 vs 住民の地域意思決定）"
+      },
+      {
+        "id": "SING_18",
+        "nodeId": "V_WLTH",
+        "score": 60,
+        "context": "原発再稼働推進 と 再エネ導入推進 の対立点: 富/資産 の解釈の相違（経済の発展 vs 経済）"
+      },
+      {
+        "id": "SING_22",
+        "nodeId": "V_SAFE",
+        "score": 60,
+        "context": "原発再稼働推進 と 慎重なAI導入 の対立点: 安全/防衛 の解釈の相違（経済の安定 vs 社会の安全）"
+      },
+      {
+        "id": "SING_10",
+        "nodeId": "N_32",
+        "score": 52,
+        "context": "原発再稼働推進 と 住民意向尊重 の対立点: 原発再稼働には立地・周辺自治体... の解釈の相違（原発再稼働推進 vs 住民意向尊重）"
+      },
+      {
+        "id": "SING_1",
+        "nodeId": "N_26",
+        "score": 47,
+        "context": "原発安全確保 と 原発再稼働推進 の対立点: 新規制基準適合性審査に合格した... の解釈の相違（原発安全確保 vs 原発再稼働推進）"
+      },
+      {
+        "id": "SING_3",
+        "nodeId": "N_17",
+        "score": 35,
+        "context": "原発安全確保 と 住民意向尊重 の対立点: Raw の解釈の相違（原発安全確保 vs 住民意向尊重）"
+      },
+      {
+        "id": "SING_4",
+        "nodeId": "N_44",
+        "score": 35,
+        "context": "原発安全確保 と 住民意向尊重 の対立点: 住民の安全 の解釈の相違（原発安全確保 vs 住民意向尊重）"
+      },
+      {
+        "id": "SING_5",
+        "nodeId": "N_45",
+        "score": 35,
+        "context": "原発安全確保 と 住民意向尊重 の対立点: 住民の安心 の解釈の相違（原発安全確保 vs 住民意向尊重）"
+      },
+      {
+        "id": "SING_6",
+        "nodeId": "V_SAFE",
+        "score": 35,
+        "context": "原発安全確保 と 住民意向尊重 の対立点: 安全/防衛 の解釈の相違（住民の安心 vs 信頼/信用）"
+      },
+      {
+        "id": "SING_7",
+        "nodeId": "V_SAFE",
+        "score": 35,
+        "context": "原発安全確保 と 脆弱性対策優先 の対立点: 安全/防衛 の解釈の相違（住民の安心 vs 脆弱性対策優先）"
+      },
+      {
+        "id": "SING_9",
+        "nodeId": "N_3",
+        "score": 35,
+        "context": "原発再稼働推進 と 住民意向尊重 の対立点: Raw の解釈の相違（原発再稼働推進 vs 住民意向尊重）"
+      },
+      {
+        "id": "SING_11",
+        "nodeId": "V_SUST",
+        "score": 35,
+        "context": "原発再稼働推進 と 住民意向尊重 の対立点: 持続可能性 の解釈の相違（原発再稼働推進 vs 住民意向尊重）"
+      },
+      {
+        "id": "SING_12",
+        "nodeId": "V_SAFE",
+        "score": 35,
+        "context": "原発再稼働推進 と 住民意向尊重 の対立点: 安全/防衛 の解釈の相違（経済の安定 vs 信頼/信用）"
+      },
+      {
+        "id": "SING_14",
+        "nodeId": "N_11",
+        "score": 35,
+        "context": "原発再稼働推進 と 再エネ導入推進 の対立点: Raw の解釈の相違（原発再稼働推進 vs 再エネ導入推進）"
+      },
+      {
+        "id": "SING_15",
+        "nodeId": "N_12",
+        "score": 35,
+        "context": "原発再稼働推進 と 再エネ導入推進 の対立点: Raw の解釈の相違（原発再稼働推進 vs 再エネ導入推進）"
+      },
+      {
+        "id": "SING_16",
+        "nodeId": "N_13",
+        "score": 35,
+        "context": "原発再稼働推進 と 再エネ導入推進 の対立点: Raw の解釈の相違（原発再稼働推進 vs 再エネ導入推進）"
+      },
+      {
+        "id": "SING_17",
+        "nodeId": "V_SUST",
+        "score": 35,
+        "context": "原発再稼働推進 と 再エネ導入推進 の対立点: 持続可能性 の解釈の相違（原発再稼働推進 vs 環境持続可能性）"
+      },
+      {
+        "id": "SING_19",
+        "nodeId": "V_SUST",
+        "score": 35,
+        "context": "原発再稼働推進 と 脆弱性対策優先 の対立点: 持続可能性 の解釈の相違（原発再稼働推進 vs 環境持続可能性）"
+      },
+      {
+        "id": "SING_20",
+        "nodeId": "V_SAFE",
+        "score": 35,
+        "context": "原発再稼働推進 と 脆弱性対策優先 の対立点: 安全/防衛 の解釈の相違（経済の安定 vs 脆弱性対策優先）"
+      },
+      {
+        "id": "SING_21",
+        "nodeId": "V_SUST",
+        "score": 35,
+        "context": "原発再稼働推進 と 慎重なAI導入 の対立点: 持続可能性 の解釈の相違（原発再稼働推進 vs 環境持続可能性）"
+      },
+      {
+        "id": "SING_23",
+        "nodeId": "V_SUST",
+        "score": 35,
+        "context": "住民意向尊重 と 再エネ導入推進 の対立点: 持続可能性 の解釈の相違（住民意向尊重 vs 環境持続可能性）"
+      },
+      {
+        "id": "SING_24",
+        "nodeId": "V_SUST",
+        "score": 35,
+        "context": "住民意向尊重 と 脆弱性対策優先 の対立点: 持続可能性 の解釈の相違（住民意向尊重 vs 環境持続可能性）"
+      },
+      {
+        "id": "SING_25",
+        "nodeId": "V_SAFE",
+        "score": 35,
+        "context": "住民意向尊重 と 脆弱性対策優先 の対立点: 安全/防衛 の解釈の相違（信頼/信用 vs 脆弱性対策優先）"
+      },
+      {
+        "id": "SING_26",
+        "nodeId": "V_SUST",
+        "score": 35,
+        "context": "住民意向尊重 と 慎重なAI導入 の対立点: 持続可能性 の解釈の相違（住民意向尊重 vs 環境持続可能性）"
+      },
+      {
+        "id": "SING_27",
+        "nodeId": "V_SAFE",
+        "score": 35,
+        "context": "住民意向尊重 と 慎重なAI導入 の対立点: 安全/防衛 の解釈の相違（信頼/信用 vs 社会の安全）"
+      },
+      {
+        "id": "SING_28",
+        "nodeId": "N_39",
+        "score": 35,
+        "context": "再エネ導入推進 と 脆弱性対策優先 の対立点: 環境持続可能性 の解釈の相違（再エネ導入推進 vs 脆弱性対策優先）"
+      },
+      {
+        "id": "SING_29",
+        "nodeId": "V_HOPE",
+        "score": 35,
+        "context": "再エネ導入推進 と 脆弱性対策優先 の対立点: 希望/可能性 の解釈の相違（進歩/革新 vs 環境持続可能性）"
+      },
+      {
+        "id": "SING_30",
+        "nodeId": "N_39",
+        "score": 35,
+        "context": "再エネ導入推進 と 慎重なAI導入 の対立点: 環境持続可能性 の解釈の相違（再エネ導入推進 vs 社会の安定）"
+      },
+      {
+        "id": "SING_31",
+        "nodeId": "V_HOPE",
+        "score": 35,
+        "context": "再エネ導入推進 と 慎重なAI導入 の対立点: 希望/可能性 の解釈の相違（進歩/革新 vs 環境持続可能性）"
+      },
+      {
+        "id": "SING_32",
+        "nodeId": "N_76",
+        "score": 35,
+        "context": "脆弱性対策優先 と 慎重なAI導入 の対立点: Raw の解釈の相違（脆弱性対策優先 vs 慎重なAI導入）"
+      },
+      {
+        "id": "SING_33",
+        "nodeId": "N_98",
+        "score": 35,
+        "context": "脆弱性対策優先 と 慎重なAI導入 の対立点: Raw の解釈の相違（脆弱性対策優先 vs 慎重なAI導入）"
+      },
+      {
+        "id": "SING_34",
+        "nodeId": "N_100",
+        "score": 35,
+        "context": "脆弱性対策優先 と 慎重なAI導入 の対立点: Raw の解釈の相違（脆弱性対策優先 vs 慎重なAI導入）"
+      },
+      {
+        "id": "SING_35",
+        "nodeId": "N_39",
+        "score": 35,
+        "context": "脆弱性対策優先 と 慎重なAI導入 の対立点: 環境持続可能性 の解釈の相違（脆弱性対策優先 vs 社会の安定）"
+      },
+      {
+        "id": "SING_36",
+        "nodeId": "N_110",
+        "score": 35,
+        "context": "脆弱性対策優先 と 慎重なAI導入 の対立点: 社会の安定 の解釈の相違（脆弱性対策優先 vs 慎重なAI導入）"
+      },
+      {
+        "id": "SING_37",
+        "nodeId": "V_SAFE",
+        "score": 35,
+        "context": "脆弱性対策優先 と 慎重なAI導入 の対立点: 安全/防衛 の解釈の相違（脆弱性対策優先 vs 社会の安全）"
+      }
+    ],
+    "allCommonIds": [
+      "V_SAFE",
+      "V_LIFE",
+      "N_44",
+      "N_45",
+      "V_SUST",
+      "V_JUST",
+      "V_WLTH",
+      "N_39",
+      "V_HOPE",
+      "N_110",
+      "N_114",
+      "N_116",
+      "N_117",
+      "N_118",
+      "N_120",
+      "N_121",
+      "V_LOVE"
+    ],
+    "allSingularityIds": [
+      "N_26",
+      "N_32",
+      "N_52",
+      "N_53",
+      "N_50",
+      "N_107",
+      "N_104"
+    ],
+    "timestamp": "2026-03-10T21:32:06.876Z"
+  },
+  "briefingSheet": "# ブリーフィング・シート：原子力発電所の再稼働を巡る合意形成に向けた要件定義\n\n## 1. 現在の状況と前提ファクト\n\n日本は現在、エネルギー政策において複数の喫緊の課題に直面しています。\n\n*   **エネルギー供給の現状と課題:**\n    *   エネルギーの安定供給、電力コスト抑制、地球温暖化対策が国民生活と経済活動の基盤を支える上で不可欠な課題として認識されています。\n    *   エネルギー安定供給は経済活動の基盤であり、国民生活の安定と発展、ひいては社会全体の幸福と厚生に直結します。\n*   **原子力発電の現状と課題:**\n    *   新規制基準適合性審査に合格した原子力発電所の再稼働が進んでおり、再稼働原発は電力供給の安定化と燃料費削減に寄与するという事実があります。\n    *   しかし、原子力災害への根強い懸念と、住民の安全確保への強い要求が存在します。特に、使用済み核燃料の最終処分地が未定であることは、将来への大きな懸念材料となっています。\n    *   原子力発電所の再稼働には、立地自治体および周辺自治体の理解と同意が事実上不可欠であり、住民の意向尊重が地域意思決定において極めて重要な要素です。\n*   **再生可能エネルギーの現状と課題:**\n    *   再生可能エネルギーの導入は進展しているものの、安定供給やコストに関する課題を抱えており、これらを克服しつつ導入を一層推進する必要があります。\n\n## 2. 最大の価値対立\n\n本議論における最大の価値対立は、「**住民の安全・安心と原子力災害リスク低減**」と「**エネルギー安定供給・電力コスト抑制・地球温暖化対策**」の間に存在します。\n\n*   **「住民の安全・安心と原子力災害リスク低減」を重視する立場:**\n    *   住民の安全と安心を何よりも優先し、原子力災害のリスクを社会全体で許容できる水準に抑えるための最新科学的知見と厳格な規制基準に基づいた安全対策の徹底を求めます。また、地域社会の持続可能性と住民の信頼確保のため、住民の意向を最大限に尊重すべきだと主張します。\n    *   この立場は、[V]住民の安全、[V]住民の安心、[V]原子力災害リスクの低減、[V]住民の意向尊重、[V]社会の持続可能性といった価値観に根差し、[UV]生命/生存、[UV]安全/防衛といった普遍的価値観を強く追求しています。\n    *   主な感情として、原子力災害への懸念、安全確保への強い要求、将来への懸念（使用済み核燃料処分）が挙げられます。\n*   **「エネルギー安定供給・電力コスト抑制・地球温暖化対策」を重視する立場:**\n    *   エネルギーの安定供給、電力コスト抑制、地球温暖化対策が喫緊の課題であるとし、国民生活と経済活動の基盤を確保するために、安全性が確保され、立地・周辺自治体の理解・同意が得られた原子力発電所の再稼働を推進すべきだと主張します。\n    *   この立場は、[V]エネルギー安定供給、[V]国民生活の安定、[V]国民生活の発展、[V]経済の安定、[V]経済の発展、[V]環境持続可能性といった価値観に根差し、[UV]富/資産、[UV]希望/可能性といった普遍的価値観を追求しています。\n    *   主な感情として、現状への危機感（エネルギー・コスト・温暖化）、課題克服への決意が挙げられます。\n\n**共通基盤と事実認識の齟齬:**\n両陣営は、最終的に「**国民生活の安定と発展**」「**社会の持続可能性**」「**公共の福祉**」という上位の価値観を追求している点では一致しています。しかし、その実現手段として「原子力災害リスクの低減」を最優先するか、「エネルギー安定供給と経済性」を最優先するかの認識に大きな齟齬があります。特に、「**安全が確保された**」という状態の定義や、原子力災害リスクの「**社会全体で許容できる水準**」に関する事実認識とリスク許容度の乖離が、対立の核心をなしています。\n\n## 3. 必須要件\n\n共通基盤である「国民生活の安定と発展」および「社会の持続可能性」を達成するためのソリューション構築において、以下の要件を最低限クリアしなければなりません。\n\n1.  **安全性とリスク管理に関する共通認識の形成と透明性の確保:**\n    *   原子力災害リスクを「社会全体で許容できる水準」に抑えるための具体的な指標と、その判断基準を明確に定義し、専門家だけでなく住民を含むステークホルダー間で共通認識を形成するための対話プロセスを設計すること。\n    *   最新の科学的知見と厳格な規制基準に基づいた安全対策の具体的内容、その評価結果、およびリスク評価に関する情報を、透明性高く、かつ分かりやすい形で開示すること。\n    *   使用済み核燃料の最終処分に関する具体的なロードマップと、その実現可能性に関する客観的な情報を提供し、将来への懸念を払拭する方策を提示すること。\n2.  **住民意向を尊重した合意形成メカニズムの構築:**\n    *   原子力発電所の再稼働における立地・周辺自治体および住民の理解・同意を得るための、実効性のある対話と意思決定プロセスを構築すること。単なる情報提供に留まらず、住民の懸念や意見が政策決定に反映される仕組みを組み込むこと。\n    *   住民の安全と安心を最優先するという原則を具体的にどのように担保するか、そのコミットメントと保証を明確に示すこと。\n3.  **多角的なエネルギーミックスの検討と情報提供:**\n    *   原子力発電、再生可能エネルギー、その他のエネルギー源それぞれのメリット・デメリット（安定供給性、コスト、環境負荷、安全性、技術的成熟度など）を客観的に比較検討し、最適なエネルギーミックスに関する複数のシナリオと、それぞれの実現可能性、リスク、便益を提示すること。\n    *   再生可能エネルギーの安定供給やコストに関する課題克服に向けた具体的な戦略と進捗状況を明確に示し、その実現可能性と、原子力発電との補完関係を具体的に説明すること。\n4.  **トレードオフの境界線と意思決定基準の明確化:**\n    *   「住民の安全・安心」と「エネルギー安定供給・経済性」の間のトレードオフを明確にし、どの程度の安全リスクであれば社会として許容できるのか、また、どの程度のコスト増であれば国民が受容できるのか、その境界線を議論し、合意形成を図るための具体的な基準を提示すること。\n    *   特に、原子力災害リスクの「許容できる水準」とは何か、その具体的な指標と判断基準を明確にすることが、建設的な議論の出発点となる。",
+  "lastReportType": "LEARNING"
+}
