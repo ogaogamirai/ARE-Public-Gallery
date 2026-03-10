@@ -27,14 +27,15 @@ function processThemes() {
 
             let newName = null;
             // キーワード検知
-            if (file.includes('Graph') && file.endsWith('.html')) newName = 'graph.html';
-            else if (file.includes('Data') && file.endsWith('.json')) newName = 'data.json';
-            else if (file.includes('Agenda') && file.endsWith('.html')) newName = 'agenda.html';
-            else if (file.includes('Agenda') && file.endsWith('.md')) newName = 'agenda.md';
-            else if (file.includes('STANDARD') && file.endsWith('.html')) newName = 'standard.html';
-            else if (file.includes('STANDARD') && file.endsWith('.md')) newName = 'standard.md';
-            else if (file.includes('Learning') && file.endsWith('.html')) newName = 'learning.html';
-            else if (file.includes('Learning') && file.endsWith('.md')) newName = 'learning.md';
+            const lowerFile = file.toLowerCase();
+            if (lowerFile.includes('graph') && file.endsWith('.html')) newName = 'graph.html';
+            else if (lowerFile.includes('data') && file.endsWith('.json')) newName = 'data.json';
+            else if (lowerFile.includes('agenda') && file.endsWith('.html')) newName = 'agenda.html';
+            else if (lowerFile.includes('agenda') && file.endsWith('.md')) newName = 'agenda.md';
+            else if (lowerFile.includes('standard') && file.endsWith('.html')) newName = 'standard.html';
+            else if (lowerFile.includes('standard') && file.endsWith('.md')) newName = 'standard.md';
+            else if (lowerFile.includes('learning') && file.endsWith('.html')) newName = 'learning.html';
+            else if (lowerFile.includes('learning') && file.endsWith('.md')) newName = 'learning.md';
 
             // リネーム実行
             if (newName) {
