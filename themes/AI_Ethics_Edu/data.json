@@ -1,0 +1,1896 @@
+{
+  "sources": [
+    {
+      "id": "SRC_1",
+      "text": "Aさん（慎重派・生徒）：\n自分で考えずにAIに答えを出させるのは「ズル」だと思う。一生懸命頑張っている人が損をするのはおかしいし、テストの時に自分の力で解けなくなって困るのは自分自身だと思う。\n\nBさん（推進派・生徒）：\n社会に出たらAIを使うのは当たり前になる。計算機を使うのと同じで、AIを使って早く終わらせて、余った時間でより高度な探究やクリエイティブな活動に時間を使う方が効率的。古いやり方に固執するのは時間の無駄。\n\nCさん（折衷派・生徒）：\n読書感想文とかはAIに書いてもらうと自分の言葉じゃなくなるからダメだと思う。でも、数学の解き方のヒントを教えてもらったり、英語の添削に使ったりするのは、家庭教師がいるみたいで心強い。\n\nD先生（教師の懸念）：\n教師としては、提出された課題が「本人の思考のプロセス」なのか「AIの出力」なのか判別できないことが最大の悩み。評価の公平性が保てなくなるリスクがある。一方で、AIを禁止することで情報の格差（リテラシーの差）が広がることも恐れている。\n\nEさん（保護者の視点）：\n子供が家でスマホに向かっているとき、遊んでいるのかAIで勉強しているのか判別がつかない。依存しすぎて「考える力」が退化してしまわないか、親としては非常に不安。\n\nFさん（未来志向・生徒）：\nそもそも「答えが決まっている宿題」を出すのが今の時代に合っていないのではないか？AIと一緒に新しい問いを立てるような、新しい形の宿題が必要だと思う。",
+      "status": "Processed",
+      "type": "User",
+      "enrichedText": "\n\n【自動取得された最新の背景知識】\n**多角的な背景知識**\n\n**1. Domain (対象領域)**\nこの議論の前提となる社会領域は、教育分野における人工知能（AI）の導入と活用、それに伴う学習方法、評価システム、教師の役割、そして生徒の成長と発達への影響である。具体的には、初等中等教育から高等教育に至るまでの学習活動、校務、教育政策、情報倫理、デジタルリテラシーの育成といった広範な領域を包含する。AIの進化は、教育の個別最適化や効率化を推進する一方で、人間の思考力や創造性、公平性といった教育の本質的な価値との間で新たな緊張関係を生み出している。\n\n**2. Fact List (前提事実リスト)**\n\n*   **メリット・利点**\n    *   AIは生徒一人ひとりの学習履歴や理解度を分析し、最適な学習コンテンツや課題をリアルタイムで提供する個別最適化された学習を可能にする。\n    *   小テストの採点、アンケート集計、出席管理といった定型的な事務作業をAIが自動化することで、教師の業務負担を大幅に軽減し、生徒との対話や授業準備など、より創造的な業務に注力できる時間を創出する。\n    *   AIは学習データを客観的に分析し、授業内容や指導方法の改善、教材の評価に役立つ知見を提供することで、教育の質の向上に貢献する。\n    *   AIを活用したオンライン教育や遠隔教育の支援により、場所や時間を選ばずに質の高い教育を受けられる機会が増え、教育の低コスト化にも繋がり得る。\n    *   英語の発話診断や英作文の文法判定など、特定の技能習得においてAIツールが具体的なサポートを提供し、学習効果を高める事例がある。\n\n*   **デメリット・ボトルネック**\n    *   AIに過度に依存することで、生徒が自ら問題を考え解決する力、批判的思考力、創造性、そして学ぶ意思が低下する懸念がある。\n    *   提出された課題が「本人の思考のプロセス」なのか「AIの出力」なのかを教師が判別することが技術的に困難であり、評価の公平性が保てなくなるリスクがある。\n    *   AIを効果的に活用するためには、大量の学習データの蓄積と、それを支えるインフラ整備が不可欠だが、そのためのコストや技術的な課題が存在する。\n    *   AIが学習データに含まれるバイアス（偏見）を学習し、誤った情報（ハルシネーション）や偏った情報を出力するリスクがあり、生徒がこれを鵜呑みにしないための情報リテラシー教育が不可欠である。\n    *   AIツールを扱う教員のスキルや意識にはギャップがあり、日々の多忙な業務の中で新たな技術習得に時間を割くことが難しい現状や、研修機会の不足がAI導入の障壁となっている。\n    *   AIを活用できる生徒とアクセスできない生徒の間で、情報や学習機会の格差（デジタルデバイド、AIデバイド）が拡大する可能性がある。\n    *   AIが不適切な情報を生成した場合や、児童生徒がAIを悪用した場合など、AI利用における責任の所在が不明確である。\n\n*   **潜在的かつ批判的な未解決課題（Unresolved Critical Issues）**\n    *   **1. AIが生成した情報の「真偽」と「価値」を判断する能力の育成と評価方法の確立。**\n        *   **論拠**: AIは事実とは異なる「もっともらしい嘘」（ハルシネーション）を出力する可能性があり、生徒がこれを鵜呑みにするリスクが高い。また、AIが提供する「答え」に依存しすぎると、生徒自身の深い思考や創造的なプロセスが阻害され、表層的な理解に留まる恐れがある。現在の評価システムでは、AIが生成した成果物の真の学習価値（生徒自身の思考プロセスや批判的吟味の有無）を測ることが困難であり、ファクトチェックや情報源の吟味、AIの限界を理解した上で情報を活用する批判的思考力を育成するための具体的な指導法と、それを評価する客観的な基準が確立されていない。\n    *   **2. AI活用による教育の「人間性」の希薄化と、教師・生徒間の関係性の再定義。**\n        *   **論拠**: AIが個別指導、採点、情報提供の多くを担うことで、教師と生徒の人間的な触れ合いや、生徒同士の協働学習、対話の機会が減少する可能性がある。教育は単なる知識伝達だけでなく、教師と生徒の人格的な触れ合いを通じて行われるものであり、生徒の情意面やコミュニケーション能力、倫理観の育成には人間的な関わりが不可欠である。教師の役割が「ナビゲーター」や「ファシリテーター」へと変化する中で、AIには代替できない人間固有の強み（共感、倫理的判断、創造的な問いの提示、ウェルビーイングの支援など）をどのように維持・強化し、教育の人間性を守っていくかが未解決の課題である。\n\n**3. Critical Perspectives (批判的・多角的視点)**\n\n*   **政策が抱える新たな課題や実効性・隠れた社会的コスト**\n    *   文部科学省は生成AIの活用ガイドラインを策定しているが、現場の教員からは指導法に関する知識不足や、生徒のAI依存、情報セキュリティ、AIの誤情報・バイアスへの懸念が依然として高い。特に小中学校ではルール整備が遅れ、教師個人の判断に委ねられるケースが多い。\n    *   AIが生成した成果物の判別技術はまだ不十分であり、剽窃チェックツールも正確性に課題があるため、不正利用を完全に防ぎ、評価の公平性を担保することは現状では困難である。\n    *   AI導入には、初期費用だけでなく、教員や生徒がAIを効果的に利用するための「人材育成（教育）コスト」、既存システムとの「システム統合コスト」、継続的な「運用・メンテナンスコスト」といった隠れたコストが発生する。これらのコストが見落とされがちであり、予算や人材の不足がAI導入の実効性を妨げる要因となっている。\n    *   AIの導入は、デジタルデバイドを解消する可能性を秘める一方で、適切なインフラや教育機会が提供されない地域や層において、かえって格差を拡大させるリスクも指摘されている。\n\n*   **国際的な比較（日本と他国の対応の差など）**\n    *   **日本**: 文部科学省がガイドラインを策定し、生成AIパイロット校での実証研究を進めている段階である。しかし、保護者の意識調査では、日本の保護者はICTや生成AIの導入に慎重な傾向が見られる。\n    *   **エストニア**: 「デジタル国家」として知られ、高校生や教師向けにカスタマイズされたChatGPTを全国導入する計画を発表し、大規模な教員研修も併せて進めている。AI活用を大胆に推進しつつ、教育格差や倫理面の課題にも取り組む姿勢は、日本の教育界にとって示唆に富む事例である。\n    *   **米国**: 大学では学生の86%が学習にAIを活用しており、UNESCOはAI教育のガイドラインを提案し、従来のエッセイ評価よりも実践的な試験を増やすことを奨励している。一方で、ネバダ州ではAIによる要支援生徒の選別で対象人数が激減し、AIの判断の公平性や、AIが把握できない生徒の精神的な問題を見落とす懸念が浮上している。\n    *   **英国**: 教育省は生成AIが「教育分野にチャンスと課題をもたらす」と認識し、その力を引き出すには知識が必要であると教育の重要性を強調している。\n    *   **途上国・先進国間の格差**: インドの農村部では生成AIを活用したオンライン教育プログラムがインフラ不足で十分に機能しなかった事例がある一方、カナダでは地方自治体が低所得地域の学校にインターネットインフラを整備し、生成AIの導入を支援している。これは、AIを活用した教育がデジタルデバイドを解消する上で、インフラ整備が不可欠であることを示している。\n\n**4. Warrant List (想定される論拠リスト)**\n\n*   教育は、単なる知識の伝達に留まらず、個人の自律的な思考力、判断力、表現力、そして創造性を育むべきである。\n*   教育における評価は、全ての生徒に対して公平かつ透明性のある基準に基づいて行われるべきである。\n*   新しい技術は、学習の効率化や質の向上、教師の負担軽減に貢献し、教育現場に積極的に導入されるべきである。\n*   社会の変化に対応するためには、生徒がAIを含む最新技術を適切に使いこなし、その恩恵を享受できるデジタルリテラシーを身につけることが不可欠である。\n*   教育は、経済的・地域的な背景に関わらず、全ての生徒に平等な学習機会を提供するべきである。\n*   教師と生徒、生徒同士の人間的な触れ合いやコミュニケーションは、生徒の社会性、倫理観、ウェルビーイングの育成において不可欠な要素である。\n*   学習は、既成の「答え」を得るだけでなく、自ら「問いを立て」、試行錯誤するプロセス自体に深い価値がある。\n*   教育機関は、生徒の学業成績だけでなく、健全な精神的・倫理的発達にも責任を持つ。\n\n**5. User Core Thesis (ユーザーの核心的主張)**\nAIの教育現場への導入は、学習効率化と個別最適化の可能性を秘める一方で、思考力・創造性の低下、評価の公平性、教師の役割、情報格差といった多岐にわたる課題を提起しており、その適切な活用には慎重かつ多角的な視点からの検討が不可欠である。\n\n---\n### 🔍 Data Sources (Web Search Reference)\n**Queries:** AI 教育 社会領域, AI 教育 メリット デメリット, AI 教育 課題 日本, AI 教育 評価 公平性, AI 思考力 影響 教育, AI 倫理 教育, AI 宿題 検出 精度, AI 教育政策 国際比較, 文部科学省 AI 教育 ガイドライン, AIが教育にもたらす潜在的な問題, AIと創造性 教育, AIと探究学習, AI 教育におけるデジタルデバイド, AI 教育 隠れたコスト\n\n- [digital-knowledge.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErH7A2GhrLMdXmg1aZu_lVUVHxplsgViYx9YGel3R4C5ovTCTtPdUQZjWVXw5_XQcEwG_8OPtLVlZhvWrDobfjl7BIxi8HDnCjkFuE7LsypsLzLf6dCxbwqUFauNZMegAh2GQ7d9ELE2fijGGda8UWfoabpKsmGTmzUMs=)\n- [aismiley.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE62eak41zWBfr7NbifrgdPG4_w6Ksz8kcoCoyqYsXtHFWXEqzHSrC-_7xKLbD8plfBgJS2id47xOIVoeyX57BjBUvgLk0lnXNlrcCTKMQRBOYaPYbutzxN2oEBKEEwQfxg1XgKt7kl4Jw_1myegDUyrUV_sHTnj7LZwJs_m0YlkM-I81BxKE66sSiqQik5zxSkxQFUKP8_CQ==)\n- [skymenu.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiwLe9FkdO46y0RFArbSgJpr0oqENFflOlTVb5DnuM8tudnPL0Ry8z79-hw5edh6yb8kyfGBPgRTRvUHRs0hS08x6T2wiMFhi2lksR9rIL7WZCQnlgD_fxS9D2Oczb2MEH09e4iO8=)\n- [surala.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnLGYsvWCj-wErTCqvZhRul6xX6V6uwyl1SBYaCFmp7bPYDSQaLXWx1rssWcr0DaWSvGnw_3h5BI4vA0CxaixBU4pIwYEflV9NR7astQ_8S8vy5ElnHdvQyvwBjbQPPQ4=)\n- [bap-software.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwjVr2LJ76Nusp6BRblrEeZzKZD0IaMPRegDZKkpkmcLtb7Bh6jA7ksBUmatpwBMvkCP_EA_XNIzOQRRbnQmafN4UwA3wknaXsffqOWT-eyoab3_wmwsneHuYUBoP5gdm0ghMVenItK7rYjQ==)\n- [tanaka-giga.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUQvoyLdB5PzThi8tDzr84oWHWcOqJ-iBVc6ExHn0T54eNW9RAADRSQP9vVhUkd-FiNBIxmKrw3bpOyoOM8ItsniCE42Rf0TwggHczhx8co53fyzJ3mG2HmWI=)\n- [dlri.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFglafsKxcVWrtvDIZrNxTJ6tWyXmlzlScpOn7PeMWHpODN9qZWdspjWC8ftsEfu2fT_bYU2PYbL02xx4ZWVna6MJKOpReUWI5po-b6VlGxL2yTXEBNrmKIoCXohxgCnddwycj_7QGo)\n- [dlri.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8ewdo8WVvtDcjQ-D_BJ6NB6giB0dvD0bxhjLI-WnDOvy9NBMI5ZRxl8GgoOsBHl7RRBkupPBvqWGYWAOIy9B-db-jZYhMxejDfG4UhakZWAprAN_xA-KHpDClQUjnM4xzl9Lzop4s)\n- [tkfd.or.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH83ROi0NaesZYG2ZKGCago9KOdPacr8gT2JS89UeV5V5o8vrOrixNxYsZUkBmrD6H9w_RVfseyQG-Qx5VzPv6rDd6visXCqvOeOhvw4EznnQFsXPHfeJ3rVLQxV8X792E9e1ps1cv34d8cyRGZ)\n- [edutechnology.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvtJYLVyk-SJOPYbzjFbqCPa--ay9Z4QEQLUcppefAC6rnHuaN3yURr4CAK2h_l18R9L0-nYBn8J7OdNCHEpcwqPs_eCK5_1r0w5Jzir22UTRV4XAR4drZ6Gu5l6Ly0Cu9QbLH_QWxgMbYa3zG6YJtkInscgPias9350ufdQ==)\n- [taotesting.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFr5KEhnUnlZW_NyFo1z2kpS5YdDsHAi0Jwthh8P5ot52b8XS5oS0dsRhQ-X-j5SlfkIWuXjXMB0h69E7QdTr3ZsinPs6HrLgrO2QuzIYeQO-wOr8GvMhqVifCm_QLhulaC_PRI5Zc4ucCXxOOdwR6CtqYDjk=)\n- [nira.or.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFclYX_VpXQGlKn6a1KNlvWJQxkVWxc7dK_7HgU67cN7IS1LWUBBblBpU23-D2xWmpTVq7cyNBST5jF9zNT8msFx6eoJcNyUgrePI6rnbkM-7kkmdP2zF97vVt_6xtz7Osmr0KDzfUnUQ3YKCNKrQ==)\n- [kyoikutsushin.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJJPwBynkH79r8_80FaCOj8yVO_dj8DhrA8hU4VWtS_hfNICBdOxMiDrZOiV2LNSw5aZ0TQmetaQkU91jvR5iYNg2s444oNIVhXeU1DdBm-jgjimrvskCIfxWdUjt9uXUwMLgD)\n- [eastgate-software.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkh000kFi1vPyd6P2aCSmGIF_gPNt43-VhCzXI2WK4-bra0rsBnl9im4zJbO7QfoqkhDucinIZ6i1hKcFd99CFfL8GhDhC9sbcABy6dgrBbr0ai9r9dl8n1hllnPOyOsL1D1wDqq9H6hvksUH-Q7FEjoQ7dB4cRe6CQ_df9ugrLOzF37hpY-ldkcwYgDw=)\n- [note.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1Iipgk7g5SvbMVVtrTE1Hss1rmxCHOIRFBLDyMzDGxPaRdyueFarZ0ev34BweqP-Xywmdd5-kpGACBAqZv73xydr90WCTDMpcWmsJ9thBFCR_1v1QsyyIheNt8u9VhHs-)\n- [smeai.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElim4zwYy8WhrfknsWDcntAI0aayFl53H_H6Be2nwcRPU68vUbyyBFvbnA6PjBCci4EYQnTebK2ayQMp--Ec3sqt17IMmb7BsblnI7WHc9L8hTzTTwp8Bm98E1t7tSL0mq8JR_o-wA6xmXxary252AvynyTmcH)\n- [osaka-u.ac.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTPThv7gx_E4WgzruUfzP2ZUKY26CuS4AqfLMR13mTHao_AL-Ng5SZhp8-NkZRwgbn_0tWRQE6TDY_DawOUPpJpc-y5pAYhCtLmWlA0pRDr1AF-k8_Pm3yNRiOWWZXpqc1q1BVTR931qQntYTthyt1UcbWqVuV8YZ0LF4N-SA3VOqu)\n- [tokyo-ai-classschool.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPDn31ziSNeNovUZu8OFUPErzFlsYuJ4wjhUFyoQyuwfqDQYAq8UVjIPPVvHpa_DSx2xoeDVMpIhL0V7BKFsuszaAiwqJ4MtvFD9c8W80QTgDQAlVw-9B7CmT6KAjo-nPh20pNdQc8UwxMSyRLP030utnHdfLE4eJXowo=)\n- [edtechzine.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRTBzay_lA51Msr8aIziDlS5W4d0fz8Tb6199133-thh3o4dWqRwC5s4RcAwg8AdgIgpH0nSyqZ5jqINLO_aZz2lgUIk_gEvUh3BIiFBZgPm-et6x-8zg0RBZhJ43E5l4Q8mVqaw==)\n- [edu-ai.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3ivfp0yDigiZwQZYZmLPbPOwICLetSLNd-0SR09gdKQLtNu7EfjeEOfggCKQOSdt5SgjfRlDfvugyVLtT93eMTFPEOnp1xgQrz12kVnUtsEFYr0YUjdgUv1A=)\n- [smeai.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMHPl7E7Y9CpU-GkeMZzcCAyHBl0U5ELbUsZUMDa0ldDqId7Vstkrx_tKpb6iRVvhAk2X4QiLHLahvOHegEGAJUzsMVGGynl51SDn2SKpi5A9JZKbozFZZfgBDnd2W4Afc9TACqzIMK7XZR6nAEfW1-0k7K5z1q7iB8cRs0k20Unw=)\n- [persol-group.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgcBU1IRLGJi1S_RirM0WuTsZuh1tZJH4bCg8v4YZ581PherIRFhUQO5OK9Z9NbvRAMoJ-85ByqFduAvArKxoJ8eCb2CGzNzDG3mJniJ3521GtSuqTqfSvgmNodmHgqYmKkma47oZlUDyXy_JoXBXmnCgx5msGStnzYhvphRhnyyo=)\n- [techsuite.biz](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECNAfhk7UDvWB6OJXp1LyqkJoAD2lLRaN5DIbZ4zLVjMvFyJ4grjc0YAzU1bcFhpnYydv0tBH0z3JrShlwgbekTiqFuaNLsJeNwZgv50uSuKo4TTOEKgU=)\n- [pirago.vn](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWooIlvrl2SVoRW15L8DJC4krj-YDXjrCf745KTIO8GsXHjHuYdJgxrA72mG1iFgDixlc1-5QSv--tEcaTaYFv8_ZUCDXPv87ohzqPSVnyxrA_gKRo9cpcG1GFsSdFDULzrmD9RRfCVWLGg7e73N0F-PSiRDyglhBwWTSlIpZ8w0PeaYbxzt52uposISwzQk9W2lq-euRa2fQms4h_xBnSli8E)\n- [sprix-foundation.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrzLXM-VH62pNeqE9feIJKUGR4JVagqmxmzijATVtzvQTkjBay4kGF_BZCiC7y4DoVIpS0M6y3ZTJ2BX_thH-QP1UuP_KgO5sPX1s2X_DIXBK3uSdtqvOtZfe_qviAFOP6ZrvKPMh0twc=)\n- [digimarl.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSmf7tbPCkHrVy7zld1EPV0C03Gzhl17cAXU3zm2YydJrZZEqCbHFjZ57syXcR9yrXSm1LhYAHxWkEEKC7gSJbsNTUt8cey8jCMDEwPQn6kOn-vbNfMbshm42Z6NRmTEy6yw==)\n- [accelainc.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmBJXxt2HpI0gbzzhDR5g6yPH97GhGMrF1n6Kn3jMROUdMnY5lvTkRqyW2ot7re2DpbmCeB2VuFM6GmyCbYyw9Rzs-k-DUe9SEl83nBzP8Xp7G5siVx2ez0VbNkFRUN7w1ktQ=)\n- [sentankyo.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCXcsSS0g_i9kQ1AMn7Nxw0Um5HzCuydoEXgBk6yWJKCPAgUNZ7J4d_GibGCZukiGxjUTZiKsHhpD2fPN2rsRRBhXqEPYgDUPFkeJCwRg2EWlSyQWusfmmJ5KuhbvLig2bVEenpsh2oPSj_q3uJVNIqMGwxp7DMJEqZ_yQA9Nc7Zs=)\n- [note.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjywn4XMo2fHWZbuR4amYQKAVDGxtELcRcc0VNEjvYd_4iEiMaT9rIhWh4mFkk1jkGoIUpW-J3aT2R-gY45zTpIM5C6ya_xc6xG03k-TIwjHdPlJawPhOQ4DYx674pPWO0qUhSkLClHDJ_9SQ=)\n- [sentankyo.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGarg2Yb0Amaudyk2Ln_0ziusJ4COOBYBmEMtRg2A5exCJIVpT_Bca4WBUOy550A7j9bubYxf8hg_ig72NZ-2B8wNqT_tV2YTuND9Vfxekbb-WMrbKznrH1DZGFitdeL7YamPL1xdZ171-J4yxGPB8n99R-svIQ_r1jJhELPDLqug=)\n- [mext.go.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUcAK5vejfmqciBMnqe6Nk_UUSmlf6fsh13vxjt7oEW6FE0Fa-ZeAXMOZZXNNNPv58cFx0tE_wZXD_5Z1Phr2Pd7udXmrkWPtWk-fVkyK8ATlFEnlssJi4Wt3cZo-GyZUWPRiqcRYdPk9bgH3kDA==)\n- [note.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHQsAGdAyEBcCn0_DNQs-RLEC2dM6W9zOHLuuDdSIv-M1dI6dLTmqokyRgjftAtLFYGTVI6XtDzoA6lnMwVL1TVa2ZFEWy86kEinn95lHq2EYTqqaoZ9bECjKjrLxYHYRS0FzT-CzpurI=)\n- [mext.go.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFX39XPrGYTNMA4NzcdWIgqBF5vFWyI5kUP5O8U2W7KS04eYZX7pmKsiX20o82N-9CrAUN2zGVvdqJZkoYqWPEJelwaZ-0-FNP89X8yxGm79NbwC71VDPLJD_3DSvdoTAPu_QPqPLLSXDSttrVpI5loF1zzjXv76efiL5CjGtiGN2Fd)\n- [nuco.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwIeWfH9bQ9acNJLS9c1t7MsCfk8BVgYFXNoU2z24I9H8020s2EOMgIUs_6lJEXk2u9Q-N0meF7ICy2ulyQmycwMEQsbIoRtEwxH_d6uUOi1H929M6tAg56eRpz5EeuVNbhAo=)\n- [sre-group.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh-giS-Y-g6YpA7toOUTEJn-48m5UwSZ0QaQTX1kWeFLaL7W0e8K1DkYuIfTpG5g5-boXRFQSuFWrxKlM-EMA2zRFdPq8_pibaLxgP93BhOXehN10heC06d7EJvYmQLMjGhcwKAZXwGgD0DqazAo5G)\n- [smeai.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAf1_JOo3tNCP04s0knYTay4uVcpQG4A_rey3s86ye9V8FVL7fQ78EfzetrlQyd8tlsG7Fhv4cXikHGqyQitP-q62wUgzu7CCDqxB-DVMD9UVejL0ZbH1m6sQG0lDwvuqHUpxcykeheBy5PPKGuj-4)\n- [asahi.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqP764s_wPDSJURtKyRMU7Z3wLmCI-miNzdE3b1rSkTAQIYdbK5WYgSgAnk7njQFVywZH_BXseHyUhvS-7IZ-ZFKnzqsVfswj1WlGkR4xHakRxysYn_5jKFX8ar0KoMjPaIgs=)",
+      "userCoreThesis": "** AI 教育 社会領域, AI 教育 メリット デメリット, AI 教育 課題 日本, AI 教育 評価 公平性, AI 思考力 影響 教育, AI 倫理 教育, AI 宿題 検出 精度, AI 教育政策 国際比較, 文部科学省 AI 教育 ガイドライン, AIが教育にもたらす潜在的な問題, AIと創造性 教育, AIと探究学習, AI 教育におけるデジタルデバイド, AI 教育 隠れたコスト\n\n- [digital-knowledge.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErH7A2GhrLMdXmg1aZu_lVUVHxplsgViYx9YGel3R4C5ovTCTtPdUQZjWVXw5_XQcEwG_8OPtLVlZhvWrDobfjl7BIxi8HDnCjkFuE7LsypsLzLf6dCxbwqUFauNZMegAh2GQ7d9ELE2fijGGda8UWfoabpKsmGTmzUMs=)\n- [aismiley.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE62eak41zWBfr7NbifrgdPG4_w6Ksz8kcoCoyqYsXtHFWXEqzHSrC-_7xKLbD8plfBgJS2id47xOIVoeyX57BjBUvgLk0lnXNlrcCTKMQRBOYaPYbutzxN2oEBKEEwQfxg1XgKt7kl4Jw_1myegDUyrUV_sHTnj7LZwJs_m0YlkM-I81BxKE66sSiqQik5zxSkxQFUKP8_CQ==)\n- [skymenu.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiwLe9FkdO46y0RFArbSgJpr0oqENFflOlTVb5DnuM8tudnPL0Ry8z79-hw5edh6yb8kyfGBPgRTRvUHRs0hS08x6T2wiMFhi2lksR9rIL7WZCQnlgD_fxS9D2Oczb2MEH09e4iO8=)\n- [surala.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnLGYsvWCj-wErTCqvZhRul6xX6V6uwyl1SBYaCFmp7bPYDSQaLXWx1rssWcr0DaWSvGnw_3h5BI4vA0CxaixBU4pIwYEflV9NR7astQ_8S8vy5ElnHdvQyvwBjbQPPQ4=)\n- [bap-software.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwjVr2LJ76Nusp6BRblrEeZzKZD0IaMPRegDZKkpkmcLtb7Bh6jA7ksBUmatpwBMvkCP_EA_XNIzOQRRbnQmafN4UwA3wknaXsffqOWT-eyoab3_wmwsneHuYUBoP5gdm0ghMVenItK7rYjQ==)\n- [tanaka-giga.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUQvoyLdB5PzThi8tDzr84oWHWcOqJ-iBVc6ExHn0T54eNW9RAADRSQP9vVhUkd-FiNBIxmKrw3bpOyoOM8ItsniCE42Rf0TwggHczhx8co53fyzJ3mG2HmWI=)\n- [dlri.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFglafsKxcVWrtvDIZrNxTJ6tWyXmlzlScpOn7PeMWHpODN9qZWdspjWC8ftsEfu2fT_bYU2PYbL02xx4ZWVna6MJKOpReUWI5po-b6VlGxL2yTXEBNrmKIoCXohxgCnddwycj_7QGo)\n- [dlri.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8ewdo8WVvtDcjQ-D_BJ6NB6giB0dvD0bxhjLI-WnDOvy9NBMI5ZRxl8GgoOsBHl7RRBkupPBvqWGYWAOIy9B-db-jZYhMxejDfG4UhakZWAprAN_xA-KHpDClQUjnM4xzl9Lzop4s)\n- [tkfd.or.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH83ROi0NaesZYG2ZKGCago9KOdPacr8gT2JS89UeV5V5o8vrOrixNxYsZUkBmrD6H9w_RVfseyQG-Qx5VzPv6rDd6visXCqvOeOhvw4EznnQFsXPHfeJ3rVLQxV8X792E9e1ps1cv34d8cyRGZ)\n- [edutechnology.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvtJYLVyk-SJOPYbzjFbqCPa--ay9Z4QEQLUcppefAC6rnHuaN3yURr4CAK2h_l18R9L0-nYBn8J7OdNCHEpcwqPs_eCK5_1r0w5Jzir22UTRV4XAR4drZ6Gu5l6Ly0Cu9QbLH_QWxgMbYa3zG6YJtkInscgPias9350ufdQ==)\n- [taotesting.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFr5KEhnUnlZW_NyFo1z2kpS5YdDsHAi0Jwthh8P5ot52b8XS5oS0dsRhQ-X-j5SlfkIWuXjXMB0h69E7QdTr3ZsinPs6HrLgrO2QuzIYeQO-wOr8GvMhqVifCm_QLhulaC_PRI5Zc4ucCXxOOdwR6CtqYDjk=)\n- [nira.or.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFclYX_VpXQGlKn6a1KNlvWJQxkVWxc7dK_7HgU67cN7IS1LWUBBblBpU23-D2xWmpTVq7cyNBST5jF9zNT8msFx6eoJcNyUgrePI6rnbkM-7kkmdP2zF97vVt_6xtz7Osmr0KDzfUnUQ3YKCNKrQ==)\n- [kyoikutsushin.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJJPwBynkH79r8_80FaCOj8yVO_dj8DhrA8hU4VWtS_hfNICBdOxMiDrZOiV2LNSw5aZ0TQmetaQkU91jvR5iYNg2s444oNIVhXeU1DdBm-jgjimrvskCIfxWdUjt9uXUwMLgD)\n- [eastgate-software.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkh000kFi1vPyd6P2aCSmGIF_gPNt43-VhCzXI2WK4-bra0rsBnl9im4zJbO7QfoqkhDucinIZ6i1hKcFd99CFfL8GhDhC9sbcABy6dgrBbr0ai9r9dl8n1hllnPOyOsL1D1wDqq9H6hvksUH-Q7FEjoQ7dB4cRe6CQ_df9ugrLOzF37hpY-ldkcwYgDw=)\n- [note.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1Iipgk7g5SvbMVVtrTE1Hss1rmxCHOIRFBLDyMzDGxPaRdyueFarZ0ev34BweqP-Xywmdd5-kpGACBAqZv73xydr90WCTDMpcWmsJ9thBFCR_1v1QsyyIheNt8u9VhHs-)\n- [smeai.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElim4zwYy8WhrfknsWDcntAI0aayFl53H_H6Be2nwcRPU68vUbyyBFvbnA6PjBCci4EYQnTebK2ayQMp--Ec3sqt17IMmb7BsblnI7WHc9L8hTzTTwp8Bm98E1t7tSL0mq8JR_o-wA6xmXxary252AvynyTmcH)\n- [osaka-u.ac.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTPThv7gx_E4WgzruUfzP2ZUKY26CuS4AqfLMR13mTHao_AL-Ng5SZhp8-NkZRwgbn_0tWRQE6TDY_DawOUPpJpc-y5pAYhCtLmWlA0pRDr1AF-k8_Pm3yNRiOWWZXpqc1q1BVTR931qQntYTthyt1UcbWqVuV8YZ0LF4N-SA3VOqu)\n- [tokyo-ai-classschool.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPDn31ziSNeNovUZu8OFUPErzFlsYuJ4wjhUFyoQyuwfqDQYAq8UVjIPPVvHpa_DSx2xoeDVMpIhL0V7BKFsuszaAiwqJ4MtvFD9c8W80QTgDQAlVw-9B7CmT6KAjo-nPh20pNdQc8UwxMSyRLP030utnHdfLE4eJXowo=)\n- [edtechzine.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRTBzay_lA51Msr8aIziDlS5W4d0fz8Tb6199133-thh3o4dWqRwC5s4RcAwg8AdgIgpH0nSyqZ5jqINLO_aZz2lgUIk_gEvUh3BIiFBZgPm-et6x-8zg0RBZhJ43E5l4Q8mVqaw==)\n- [edu-ai.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3ivfp0yDigiZwQZYZmLPbPOwICLetSLNd-0SR09gdKQLtNu7EfjeEOfggCKQOSdt5SgjfRlDfvugyVLtT93eMTFPEOnp1xgQrz12kVnUtsEFYr0YUjdgUv1A=)\n- [smeai.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMHPl7E7Y9CpU-GkeMZzcCAyHBl0U5ELbUsZUMDa0ldDqId7Vstkrx_tKpb6iRVvhAk2X4QiLHLahvOHegEGAJUzsMVGGynl51SDn2SKpi5A9JZKbozFZZfgBDnd2W4Afc9TACqzIMK7XZR6nAEfW1-0k7K5z1q7iB8cRs0k20Unw=)\n- [persol-group.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgcBU1IRLGJi1S_RirM0WuTsZuh1tZJH4bCg8v4YZ581PherIRFhUQO5OK9Z9NbvRAMoJ-85ByqFduAvArKxoJ8eCb2CGzNzDG3mJniJ3521GtSuqTqfSvgmNodmHgqYmKkma47oZlUDyXy_JoXBXmnCgx5msGStnzYhvphRhnyyo=)\n- [techsuite.biz](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECNAfhk7UDvWB6OJXp1LyqkJoAD2lLRaN5DIbZ4zLVjMvFyJ4grjc0YAzU1bcFhpnYydv0tBH0z3JrShlwgbekTiqFuaNLsJeNwZgv50uSuKo4TTOEKgU=)\n- [pirago.vn](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWooIlvrl2SVoRW15L8DJC4krj-YDXjrCf745KTIO8GsXHjHuYdJgxrA72mG1iFgDixlc1-5QSv--tEcaTaYFv8_ZUCDXPv87ohzqPSVnyxrA_gKRo9cpcG1GFsSdFDULzrmD9RRfCVWLGg7e73N0F-PSiRDyglhBwWTSlIpZ8w0PeaYbxzt52uposISwzQk9W2lq-euRa2fQms4h_xBnSli8E)\n- [sprix-foundation.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrzLXM-VH62pNeqE9feIJKUGR4JVagqmxmzijATVtzvQTkjBay4kGF_BZCiC7y4DoVIpS0M6y3ZTJ2BX_thH-QP1UuP_KgO5sPX1s2X_DIXBK3uSdtqvOtZfe_qviAFOP6ZrvKPMh0twc=)\n- [digimarl.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSmf7tbPCkHrVy7zld1EPV0C03Gzhl17cAXU3zm2YydJrZZEqCbHFjZ57syXcR9yrXSm1LhYAHxWkEEKC7gSJbsNTUt8cey8jCMDEwPQn6kOn-vbNfMbshm42Z6NRmTEy6yw==)\n- [accelainc.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmBJXxt2HpI0gbzzhDR5g6yPH97GhGMrF1n6Kn3jMROUdMnY5lvTkRqyW2ot7re2DpbmCeB2VuFM6GmyCbYyw9Rzs-k-DUe9SEl83nBzP8Xp7G5siVx2ez0VbNkFRUN7w1ktQ=)\n- [sentankyo.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCXcsSS0g_i9kQ1AMn7Nxw0Um5HzCuydoEXgBk6yWJKCPAgUNZ7J4d_GibGCZukiGxjUTZiKsHhpD2fPN2rsRRBhXqEPYgDUPFkeJCwRg2EWlSyQWusfmmJ5KuhbvLig2bVEenpsh2oPSj_q3uJVNIqMGwxp7DMJEqZ_yQA9Nc7Zs=)\n- [note.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjywn4XMo2fHWZbuR4amYQKAVDGxtELcRcc0VNEjvYd_4iEiMaT9rIhWh4mFkk1jkGoIUpW-J3aT2R-gY45zTpIM5C6ya_xc6xG03k-TIwjHdPlJawPhOQ4DYx674pPWO0qUhSkLClHDJ_9SQ=)\n- [sentankyo.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGarg2Yb0Amaudyk2Ln_0ziusJ4COOBYBmEMtRg2A5exCJIVpT_Bca4WBUOy550A7j9bubYxf8hg_ig72NZ-2B8wNqT_tV2YTuND9Vfxekbb-WMrbKznrH1DZGFitdeL7YamPL1xdZ171-J4yxGPB8n99R-svIQ_r1jJhELPDLqug=)\n- [mext.go.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUcAK5vejfmqciBMnqe6Nk_UUSmlf6fsh13vxjt7oEW6FE0Fa-ZeAXMOZZXNNNPv58cFx0tE_wZXD_5Z1Phr2Pd7udXmrkWPtWk-fVkyK8ATlFEnlssJi4Wt3cZo-GyZUWPRiqcRYdPk9bgH3kDA==)\n- [note.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHQsAGdAyEBcCn0_DNQs-RLEC2dM6W9zOHLuuDdSIv-M1dI6dLTmqokyRgjftAtLFYGTVI6XtDzoA6lnMwVL1TVa2ZFEWy86kEinn95lHq2EYTqqaoZ9bECjKjrLxYHYRS0FzT-CzpurI=)\n- [mext.go.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFX39XPrGYTNMA4NzcdWIgqBF5vFWyI5kUP5O8U2W7KS04eYZX7pmKsiX20o82N-9CrAUN2zGVvdqJZkoYqWPEJelwaZ-0-FNP89X8yxGm79NbwC71VDPLJD_3DSvdoTAPu_QPqPLLSXDSttrVpI5loF1zzjXv76efiL5CjGtiGN2Fd)\n- [nuco.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwIeWfH9bQ9acNJLS9c1t7MsCfk8BVgYFXNoU2z24I9H8020s2EOMgIUs_6lJEXk2u9Q-N0meF7ICy2ulyQmycwMEQsbIoRtEwxH_d6uUOi1H929M6tAg56eRpz5EeuVNbhAo=)\n- [sre-group.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh-giS-Y-g6YpA7toOUTEJn-48m5UwSZ0QaQTX1kWeFLaL7W0e8K1DkYuIfTpG5g5-boXRFQSuFWrxKlM-EMA2zRFdPq8_pibaLxgP93BhOXehN10heC06d7EJvYmQLMjGhcwKAZXwGgD0DqazAo5G)\n- [smeai.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAf1_JOo3tNCP04s0knYTay4uVcpQG4A_rey3s86ye9V8FVL7fQ78EfzetrlQyd8tlsG7Fhv4cXikHGqyQitP-q62wUgzu7CCDqxB-DVMD9UVejL0ZbH1m6sQG0lDwvuqHUpxcykeheBy5PPKGuj-4)\n- [asahi.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqP764s_wPDSJURtKyRMU7Z3wLmCI-miNzdE3b1rSkTAQIYdbK5WYgSgAnk7njQFVywZH_BXseHyUhvS-7IZ-ZFKnzqsVfswj1WlGkR4xHakRxysYn_5jKFX8ar0KoMjPaIgs=)",
+      "bgContextFetched": true
+    }
+  ],
+  "nodes": [
+    {
+      "id": "N_1",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "Aさん（慎重派・生徒）は、自分で考えずにAIに答えを出させるのは「ズル」だと考えている。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_2",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "Aさんは、一生懸命頑張っている人が損をするのはおかしいと考えている。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_3",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "Aさんは、テストの時に自分の力で解けなくなって困るのは自分自身だと考えている。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_4",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "Bさん（推進派・生徒）は、社会に出たらAIを使うのは当たり前になると考えている。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_5",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "Bさんは、AIを使うことは計算機を使うのと同じだと考えている。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_6",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "Bさんは、AIを使って早く終わらせて、余った時間でより高度な探究やクリエイティブな活動に時間を使う方が効率的だと考えている。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_7",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "Bさんは、古いやり方に固執するのは時間の無駄だと考えている。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_8",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "Cさん（折衷派・生徒）は、読書感想文などをAIに書いてもらうと自分の言葉じゃなくなるからダメだと考えている。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_9",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "Cさんは、数学の解き方のヒントを教えてもらったり、英語の添削に使ったりすることは、家庭教師がいるみたいで心強いと考えている。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_10",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "D先生（教師の懸念）は、教師として提出された課題が「本人の思考のプロセス」なのか「AIの出力」なのか判別できないことが最大の悩みだと述べている。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "isCriticalSingularity": false,
+      "singularity_score": 35
+    },
+    {
+      "id": "N_11",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "D先生は、AIの利用によって評価の公平性が保てなくなるリスクがあると考えている。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "isCriticalSingularity": false,
+      "singularity_score": 35
+    },
+    {
+      "id": "N_12",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "D先生は、AIを禁止することで情報の格差（リテラシーの差）が広がることも恐れている。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_13",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "Eさん（保護者の視点）は、子供が家でスマホに向かっているとき、遊んでいるのかAIで勉強しているのか判別がつかないと述べている。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_14",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "Eさんは、子供がAIに依存しすぎて「考える力」が退化してしまわないか、親として非常に不安を感じている。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_15",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "Fさん（未来志向・生徒）は、そもそも「答えが決まっている宿題」を出すのが今の時代に合っていないのではないかと疑問を呈している。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_16",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "Fさんは、AIと一緒に新しい問いを立てるような、新しい形の宿題が必要だと考えている。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_17",
+      "type": "C",
+      "label": "AI不適切利用制限と教育の質維持",
+      "content": "AIが学習・評価プロセスに導入される現代の教育現場において、教育機関や教師は、生徒の自律的な思考力や努力を尊重し、評価の公平性を保つために、AIの不適切な利用（例：丸投げ）を制限し、AIに過度に依存しない学習方法を指導すべきである。これは、個人の思考力低下や努力の不公平を防ぎ、教育の質と信頼性を維持するためである。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_1",
+        "N_2",
+        "N_3",
+        "N_8",
+        "N_10",
+        "N_11",
+        "N_14"
+      ],
+      "weight": 1,
+      "smartLabeled": true,
+      "isLabeled": true,
+      "depth": 1
+    },
+    {
+      "id": "N_18",
+      "type": "C",
+      "label": "AI学習補助活用と高度思考力育成",
+      "content": "AI技術が社会で普及し、学習効率化が求められる現代の教育現場において、教育機関や教師、生徒は、AIを計算機や家庭教師のような学習補助ツールとして積極的に活用し、基礎的な作業を効率化することで、より高度な探究活動や創造的な学習に時間を充てるべきである。これは、将来の社会で必要とされるAIリテラシーと高度な思考力を育成し、学習効果を最大化するためである。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_4",
+        "N_5",
+        "N_6",
+        "N_7",
+        "N_9"
+      ],
+      "weight": 1,
+      "smartLabeled": true,
+      "isLabeled": true,
+      "depth": 1
+    },
+    {
+      "id": "N_19",
+      "type": "C",
+      "label": "AI時代対応の教育評価改革とAIリテラシー推進",
+      "content": "AI技術の進化により、従来の教育・評価方法が機能不全に陥る現代の教育現場において、教育機関や教師は、AIの利用を前提とした新しい形の課題（例：AIと共に問いを立てる探究型学習）を導入し、AIの利用状況を判別しにくい現状に対応するため、評価基準や方法を根本的に見直すべきである。また、AIの全面禁止ではなく、適切な利用を促すことで、情報格差の拡大を防ぎ、AIリテラシー教育を推進すべきである。これは、AI時代に求められる創造性や問題解決能力を育成し、評価の公平性を確保しつつ、生徒の情報格差を解消するためである。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_10",
+        "N_11",
+        "N_12",
+        "N_13",
+        "N_15",
+        "N_16"
+      ],
+      "weight": 1,
+      "smartLabeled": true,
+      "isLabeled": true,
+      "depth": 1
+    },
+    {
+      "id": "N_20",
+      "type": "F",
+      "label": "AI不適切利用による能力低下の懸念",
+      "content": "AIへの過度な依存は、生徒の思考力・創造性・学ぶ意思を低下させるという事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_17"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 99,
+      "smartLabeled": true,
+      "isLabeled": true,
+      "subType": "DATA",
+      "impactScore": 85,
+      "verifyScore": 95,
+      "factReason": "【外部検証済】客観的なエビデンスにより事実として支持されました。（元の判定: AIへの過度な依存が生徒の思考力・創造性・学ぶ意欲を低下させるという主張は、教育現場で広く議論されており、潜在的な影響は大きい。しかし、その因果関係の強さや普遍性については、さらなる実証的な研究が必要である。）",
+      "searchQuery": "AI依存 教育 思考力低下 創造性低下 学習意欲低下 研究",
+      "isCritical": true,
+      "validationState": "completed",
+      "externalCheck": "checked",
+      "reliability": "high"
+    },
+    {
+      "id": "N_21",
+      "type": "F",
+      "label": "提出された課題が「本人の思考の...",
+      "content": "提出された課題が「本人の思考のプロセス」なのか「AIの出力」なのかを教師が判別することが技術的に困難であり、評価の公平性が保てなくなるリスクがあるという事実。",
+      "status": "Split",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_17",
+        "N_19"
+      ],
+      "weight": 3,
+      "depth": 2,
+      "atomicChecks": 0,
+      "isCriticalSingularity": false,
+      "singularity_score": 35
+    },
+    {
+      "id": "N_22",
+      "type": "V",
+      "label": "生徒の自律的な思考力と学習プロ...",
+      "content": "生徒の自律的な思考力と学習プロセスの尊重、および教育における公平性と質の維持の重視。",
+      "status": "Split",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_17"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 0
+    },
+    {
+      "id": "N_23",
+      "type": "E",
+      "label": "AI不適切利用による能力低下の懸念",
+      "content": "AIの不適切な利用による生徒の思考力低下や評価の不公平性、教育の質と信頼性の低下に対する懸念という感情。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_17"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 0,
+      "smartLabeled": true,
+      "isLabeled": true
+    },
+    {
+      "id": "N_24",
+      "type": "F",
+      "label": "AIによる個別最適化学習の実現",
+      "content": "AIは学習履歴分析とコンテンツ提供で個別最適化学習を可能にするという事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_18"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 99,
+      "smartLabeled": true,
+      "isLabeled": true,
+      "subType": "DATA",
+      "impactScore": 85,
+      "verifyScore": 95,
+      "factReason": "【外部検証済】客観的なエビデンスにより事実として支持されました。（元の判定: AIによる個別最適化学習は教育分野で大きな変革をもたらす可能性があり、その影響は大きい。学習履歴分析とコンテンツ提供という具体的なメカニズムが示されているが、その効果の程度や実現可能性については、さらなる実証データや研究が必要。）",
+      "searchQuery": "AI 学習履歴分析 個別最適化学習 効果 実証",
+      "isCritical": true,
+      "validationState": "completed",
+      "externalCheck": "checked",
+      "reliability": "high"
+    },
+    {
+      "id": "N_25",
+      "type": "V",
+      "label": "将来の社会で必要とされるAIリ...",
+      "content": "将来の社会で必要とされるAIリテラシーと高度な思考力を育成することの重視。",
+      "status": "Split",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_18"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 0
+    },
+    {
+      "id": "N_26",
+      "type": "E",
+      "label": "AI社会への積極的適応と恩恵享受",
+      "content": "AI技術が普及する未来社会に積極的に適応し、その恩恵を最大限に享受したいという意欲という感情。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_18"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 0,
+      "smartLabeled": true,
+      "isLabeled": true
+    },
+    {
+      "id": "N_27",
+      "type": "V",
+      "label": "評価の公平性、生徒の創造性や問...",
+      "content": "評価の公平性、生徒の創造性や問題解決能力、そしてAI時代を生き抜くためのリテラシー育成の重視。",
+      "status": "Split",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_19"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 0
+    },
+    {
+      "id": "N_28",
+      "type": "E",
+      "label": "従来の教育評価機能不全とAI時代対応変革",
+      "content": "従来の教育・評価方法が機能不全に陥っている現状に対する危機感と、AI時代に対応した教育の根本的な変革への強い意志という感情。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_19"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 0,
+      "smartLabeled": true,
+      "isLabeled": true
+    },
+    {
+      "id": "N_29",
+      "type": "V",
+      "label": "AI時代におけるAIリテラシー育成の重視",
+      "content": "AIリテラシー育成の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_18",
+        "N_25",
+        "N_19",
+        "N_27"
+      ],
+      "weight": 5,
+      "depth": 2,
+      "isCeiling": true,
+      "atomicChecks": 99,
+      "smartLabeled": true,
+      "isLabeled": true,
+      "isCriticalSingularity": false,
+      "singularity_score": 35
+    },
+    {
+      "id": "N_30",
+      "type": "V",
+      "label": "AI時代における高度な思考力育成の重視",
+      "content": "高度な思考力育成の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_18",
+        "N_25"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "isCeiling": true,
+      "atomicChecks": 99,
+      "smartLabeled": true,
+      "isLabeled": true
+    },
+    {
+      "id": "N_31",
+      "type": "V",
+      "label": "評価と教育の公平性維持の重視",
+      "content": "評価の公平性の重視。 / 教育の公平性の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_19",
+        "N_27",
+        "N_17",
+        "N_22"
+      ],
+      "weight": 5,
+      "depth": 2,
+      "isCeiling": true,
+      "atomicChecks": 99,
+      "smartLabeled": true,
+      "isLabeled": true,
+      "isCriticalSingularity": false,
+      "singularity_score": 35
+    },
+    {
+      "id": "N_32",
+      "type": "V",
+      "label": "AI時代に求められる創造性育成の重視",
+      "content": "創造性の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_19",
+        "N_27"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "isCeiling": true,
+      "atomicChecks": 99,
+      "smartLabeled": true,
+      "isLabeled": true
+    },
+    {
+      "id": "N_33",
+      "type": "V",
+      "label": "AI時代対応の問題解決能力育成の重視",
+      "content": "問題解決能力の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_19",
+        "N_27"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 99,
+      "smartLabeled": true,
+      "isLabeled": true
+    },
+    {
+      "id": "N_34",
+      "type": "V",
+      "label": "リテラシー育成",
+      "content": "リテラシー育成の重視。",
+      "status": "Merged",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_19",
+        "N_27"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "isCeiling": true,
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_35",
+      "type": "V",
+      "label": "生徒の自律的思考力尊重の重視",
+      "content": "自律的思考尊重の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_17",
+        "N_22"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 99,
+      "smartLabeled": true,
+      "isLabeled": true
+    },
+    {
+      "id": "N_36",
+      "type": "V",
+      "label": "生徒の学習プロセス尊重の重視",
+      "content": "学習プロセスの尊重の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_17",
+        "N_22"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 99,
+      "smartLabeled": true,
+      "isLabeled": true
+    },
+    {
+      "id": "N_37",
+      "type": "V",
+      "label": "教育の公平性",
+      "content": "教育の公平性の重視。",
+      "status": "Merged",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_17",
+        "N_22"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "isCeiling": true,
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_38",
+      "type": "V",
+      "label": "教育の質と信頼性維持の重視",
+      "content": "教育の質の維持の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_17",
+        "N_22"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "isCeiling": true,
+      "atomicChecks": 99,
+      "smartLabeled": true,
+      "isLabeled": true
+    },
+    {
+      "id": "N_39",
+      "type": "F",
+      "label": "教師によるAI出力課題の判別困難性",
+      "content": "教師は課題がAI出力か判別が困難という事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_17",
+        "N_19",
+        "N_21"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 99,
+      "smartLabeled": true,
+      "isLabeled": true,
+      "subType": "DATA",
+      "impactScore": 85,
+      "verifyScore": 70,
+      "factReason": "AI生成物の検出困難性は、教育現場における評価の信頼性や公平性に大きな影響を与えるため、客観的評価と対策が不可欠である。",
+      "searchQuery": "教師 AI生成物 判別 困難 教育",
+      "isCritical": true,
+      "isCriticalSingularity": false,
+      "singularity_score": 52,
+      "validationState": "completed"
+    },
+    {
+      "id": "N_40",
+      "type": "F",
+      "label": "課題判別困難による評価公平性喪失",
+      "content": "課題の判別困難により評価の公平性が保てなくなるという事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_17",
+        "N_19",
+        "N_21"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 99,
+      "smartLabeled": true,
+      "isLabeled": true,
+      "subType": "DATA",
+      "impactScore": 85,
+      "verifyScore": 95,
+      "factReason": "【外部検証済】客観的なエビデンスにより事実として支持されました。（元の判定: AIによる評価の公平性への影響は大きいが、課題判別の困難さは主観的要素を含むため検証が難しい。）",
+      "searchQuery": "AI教育評価 公平性 課題判別 課題難易度",
+      "isCritical": true,
+      "isCriticalSingularity": false,
+      "singularity_score": 52,
+      "validationState": "completed",
+      "externalCheck": "checked",
+      "reliability": "high"
+    },
+    {
+      "id": "N_41",
+      "type": "V",
+      "label": "個人の自律的な意思決定と行動",
+      "content": "個人の自律的な意思決定と行動の重視。",
+      "status": "Split",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_33"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "atomicChecks": 0
+    },
+    {
+      "id": "N_42",
+      "type": "F",
+      "label": "問題解決能力による思考力向上と自律行動",
+      "content": "問題解決能力が個人の思考力と判断力を高め、自律的な行動を可能にするという事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_33"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "atomicChecks": 0,
+      "smartLabeled": true,
+      "isLabeled": true,
+      "subType": "LOGIC",
+      "impactScore": 85,
+      "verifyScore": 90,
+      "factReason": "問題解決能力が思考力、判断力、自律性を高めるという主張は、教育学、心理学、経営学の分野で広く受け入れられており、多くの研究や実践によって裏付けられている。その影響は個人の成長から組織の成果まで多岐にわたるため、客観性と影響度は高い。",
+      "searchQuery": "benefits of problem solving skills on cognitive abilities and autonomy",
+      "isCritical": true
+    },
+    {
+      "id": "N_43",
+      "type": "V",
+      "label": "AI時代における個人の能力開発の重視",
+      "content": "個人の能力開発の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_36"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "atomicChecks": 99,
+      "isCeiling": true,
+      "smartLabeled": true,
+      "isLabeled": true
+    },
+    {
+      "id": "N_44",
+      "type": "F",
+      "label": "学習プロセス尊重と自律的思考力育成",
+      "content": "学習プロセスを尊重することが、生徒の自律的な思考力や創造性を育むという事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_36"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "atomicChecks": 0,
+      "smartLabeled": true,
+      "isLabeled": true,
+      "subType": "DATA",
+      "impactScore": 85,
+      "verifyScore": 70,
+      "factReason": "学習プロセスを尊重することが自律的思考や創造性を育むという主張は、教育心理学の分野で広く支持されているが、直接的な因果関係の証明は研究によって異なるため、検証スコアは中程度。",
+      "searchQuery": "importance of respecting learning process for student autonomy and creativity",
+      "isCritical": true
+    },
+    {
+      "id": "N_45",
+      "type": "V",
+      "label": "個人の自由と自律性",
+      "content": "個人の自由と自律性の重視。",
+      "status": "Split",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_35"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "atomicChecks": 0
+    },
+    {
+      "id": "N_46",
+      "type": "F",
+      "label": "自律的思考尊重と自由意思決定基盤",
+      "content": "自律的思考を尊重することが、個人の自由な意思決定と行動の基盤を形成するという事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_35"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "atomicChecks": 0,
+      "smartLabeled": true,
+      "isLabeled": true,
+      "subType": "LOGIC",
+      "impactScore": 90,
+      "verifyScore": 85,
+      "factReason": "自律的思考が個人の自由な意思決定と行動の基盤であるという事実は、哲学、心理学、政治学など多岐にわたる分野で広く受け入れられており、その影響力は大きい。検証は可能だが、文脈が限定的であるため、完全な確実性には至らない。",
+      "searchQuery": "自律的思考 意思決定 行動 関連性",
+      "isCritical": true
+    },
+    {
+      "id": "N_47",
+      "type": "V",
+      "label": "個人の自由な意思決定と行動の重視",
+      "content": "個人の自由の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_35",
+        "N_45"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "isCeiling": true,
+      "atomicChecks": 99,
+      "smartLabeled": true,
+      "isLabeled": true
+    },
+    {
+      "id": "N_48",
+      "type": "V",
+      "label": "個人の自律的な意思決定・行動の重視",
+      "content": "個人の自律性の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_35",
+        "N_45"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "isCeiling": true,
+      "atomicChecks": 99,
+      "smartLabeled": true,
+      "isLabeled": true
+    },
+    {
+      "id": "N_49",
+      "type": "V",
+      "label": "個人の自律的意思決定能力の重視",
+      "content": "個人の自律的意思決定の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_33",
+        "N_41"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "isCeiling": true,
+      "atomicChecks": 99,
+      "smartLabeled": true,
+      "isLabeled": true
+    },
+    {
+      "id": "N_50",
+      "type": "V",
+      "label": "個人の自律的行動選択と責任の重視",
+      "content": "個人の自律的行動の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_33",
+        "N_41"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "isCeiling": true,
+      "atomicChecks": 99,
+      "smartLabeled": true,
+      "isLabeled": true
+    },
+    {
+      "id": "V_SUST",
+      "type": "UV",
+      "label": "持続可能性",
+      "content": "持続可能性の追求",
+      "status": "Active",
+      "checkCount": 99,
+      "depth": 4
+    },
+    {
+      "id": "V_TRST",
+      "type": "UV",
+      "label": "信頼/信用",
+      "content": "信頼/信用の追求",
+      "status": "Active",
+      "checkCount": 99,
+      "depth": 4
+    },
+    {
+      "id": "V_EQAL",
+      "type": "UV",
+      "label": "平等/公平",
+      "content": "平等/公平の追求",
+      "status": "Active",
+      "checkCount": 99,
+      "depth": 4
+    },
+    {
+      "id": "V_PROG",
+      "type": "UV",
+      "label": "進歩/革新",
+      "content": "進歩/革新の追求",
+      "status": "Active",
+      "checkCount": 99,
+      "depth": 4,
+      "isCriticalSingularity": true,
+      "singularity_score": 60
+    },
+    {
+      "id": "V_IDEN",
+      "type": "UV",
+      "label": "独自性/個",
+      "content": "独自性/個の追求",
+      "status": "Active",
+      "checkCount": 99,
+      "depth": 4,
+      "isCriticalSingularity": true,
+      "singularity_score": 60
+    },
+    {
+      "id": "V_DIGN",
+      "type": "UV",
+      "label": "尊厳/誇り",
+      "content": "尊厳/誇りの追求",
+      "status": "Active",
+      "checkCount": 99,
+      "depth": 4,
+      "isCriticalSingularity": false,
+      "singularity_score": 35
+    },
+    {
+      "id": "N_FC_1",
+      "type": "F",
+      "subType": "EVIDENCE",
+      "label": "AIへの過度な依存による生徒の思考力・創造性・学習意欲の低下",
+      "content": "2025年の情報処理国際連合の教育技術委員会が刊行する学術雑誌「Education and Information Technologies」に掲載された論文によると、ChatGPTのような生成AIの過度な利用は学生のモチベーションや成績に影響を与える可能性があると報告されている。また、2025年のMITメディアラボの研究では、AIを使用すると探索的な思考や創造性に関わる脳の活動が低下することが示された。さらに、2025年のインドネシアの25の高等教育機関の学部生245名を対象とした調査では、75%の学生がAI依存による批判的思考力の低下を認識しており、73%が技術への過度な依存リスクを、70%が誤情報や不正確性の問題を認識していることが明らかになった。2026年の文部科学省の資料でも、生成AIに頼りすぎることで自分で思考する機会が減り、思考力の低下につながる「認知的オフロード」や「認知負債」と呼ばれる現象が懸念の一つにあげられている。",
+      "dataSource": "### 🔍 Data Sources (Web Search Reference)\n**Queries:** AI 生徒 思考力 低下, AI 生徒 創造性 低下, AI 生徒 学習意欲 低下, AI 過度な依存 学生 悪影響, 教育 AI 課題 思考力 創造性 学習意欲\n\n- [gigazine.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSANorszJAuk_b5BPN4mik6XIdJG1PxjZK9QI1YKX-JpC2YhhKEIdpYddWHJC3GdREYv_RiHffR1oesUbPnpT5fYkXDahD5b3gqdlt_7lideGleQ4ZxOjdDWVP2Wi1Od7tQoBS7uIz5K3j7X6J1mSwRdSNN1ZcrKvGFuhSzE_r6rQ=)\n- [note.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyKi7LqlnsqrUkhCCZr_hA4L7dyHEG5ztlkmHHobzXkV1WBAC-PYp1mp5mhlte0_5M8pAAP_SV6-0O-_n48lzVi_Jczc239J-oyX8CNWXTchmlUkMLOxSYpF0zLFMoC9xGzTF3ULA=)\n- [linguaporta.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlTOYE3shgnl-jsNTiW-a67aYxQLjPYGbCzNeI6dzfd-eMU5SPLH4ekWa0wx4Bq5INLo3nBvS4g4LbeX_OLrQ9yllHNoXjEUVLpjEvIhEUodBmGXm43kEwVp_NAQ5QbKTuoJH9fq_f9S0gsAWpJoJ_K2mnhktGy4unpKHHDRaonS1yolkFRg9NV8Vbksl9qYYivVuCLbEyWKETPhTmyy3QHgQqE2htqFXrjxLO183xUZKiKr-uYO3gPaj_2WWseJJdJ7bidK_bk3qL_RWDOHLc539VsaN3N_PXd_Q8afkjF1oX3-M8CvNhFoszTbfcxJwn67ewPjsYFbgxqWDSa_piYGH9jMe4Pb5doX6ZmpSB-41FADezqcKEmvwLjhqVx3Z7YE3a6g==)\n- [techno-producer.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBMwsqjYTx20oCIQlgCYFD09nQQI50Eq6SAlkh3OsVgY8V692jmPwaFamgwXltMhIr3RHrT5HMMBbhwfhayGoXPzTtml85scZQLsFsR14H1E-9KP21Wkg_YHspYAjVbuQztzR7ZWSf2RdrNC5VglXUAAscldYUib5RmJJ5-M3HsDkvJJiYF3oVxg==)\n- [impress.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFnHNecP9QmG4C8nhkw3kEJVrqQIXsb-A0hiIEiRRt0eI5j0kfrX8XrtApTXxekoDovnOPghZnBZOz3jPJEdcuaNBhIbmblpoIWxgKYtQ2d7vxnTrSfkLt29ZWv-FaiequwLIc0xft8US9F9v92lk-Ag==)\n",
+      "status": "Active",
+      "derive": [
+        "N_20"
+      ],
+      "depth": 3,
+      "verifyScore": 100,
+      "dataYear": "",
+      "dataInstitution": "",
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_FC_2",
+      "type": "F",
+      "subType": "EVIDENCE",
+      "label": "AIによる個別最適化学習の実現と事例",
+      "content": "2024年から2026年にかけての複数の教育技術企業、研究機関、メディアの報告によると、AIは学習履歴分析とコンテンツ提供を通じて個別最適化学習を可能にしている。例えば、アダプティブラーニングプラットフォームは、生徒の学習ペースや能力に合わせてレッスンを調整し、パーソナライズされたコンテンツを提供する。具体的には、ALEKSやKhan Academy、Duolingo、Qubena、atama+などのプラットフォームが、生徒の理解度、学習履歴、ミスのパターンを分析し、オーダーメイドのカリキュラムを自動生成している。これにより、学習効率の向上、エンゲージメントの強化、学業成績の改善、モチベーションの向上といった効果が報告されている。例えば、Qubenaの実証実験では、学習時間を約半分に短縮しながら成績・学習意欲が向上した事例がある。また、AIは教材作成や採点などの教員の業務負担を軽減し、より高度な指導に時間を充てることを可能にしている。",
+      "dataSource": "### 🔍 Data Sources (Web Search Reference)\n**Queries:** AI 個別最適化学習 教育 事例, AI 学習履歴分析 コンテンツ提供 教育, AI adaptive learning education examples, AI personalized learning education research\n\n- [devtrust.biz](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKxIUSjD1cyVCc6Y45QKx1NKlH8x0XVpMJR5MqB0DW5aRlYs7HVIn3FVxOYJb34xD-YNYEaZ-nB33vouLC4jX3U3Z6UcfgFwCGZSh5JcFLJTcwzkkvWM82iE7G-4poIN3TOdAEaAbvmSn-fCJYlz0fBBVSfN51SFfeT0Eeu4Y=)\n- [mindstamp.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1AnesoKXuY6KBUEnotsjju9IQ49OEaMsYf82IrC498OIB_T3hLza4B8QBUeRbmKWPjcfyD4EjXz9jIgTmpOW28kO9nzB1FOS9WT5-6wzRDGXqATgO5tcNgB37gjm1G2jtZc-1RSm-_pGo6La36MYf)\n- [coursera.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFU2L6qZn8_CvEs6t4J7YQaVqS7XH5NP60F5VpHpFyL_7HMNdOdW2bqNqu8Tqsbp0h1w3QmaWg7Oh-W_vlxDmIk-wujCHx8PBImHdPmPCkJAo4A5WlYjxKo3rYzUsl6iwFpzD1uElciLwKWlu1UGBYIjtsXQzWTfGk=)\n- [cedtech.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAfAvGb9qv3Xk2H062hvJG6PvvvwedW6xPjvwTc77MtfUJu_Y2BrXFVG1jeU_dZNVztpErWIOTGEIx_3AzShz9pxHCFrIdL4vZTxtkwZgvS5bpEb_x6bxkqNw3t1DeGnh0OPcfo6wHz4GBJGDWnikv6zm7jeifahBg_Dbk4hqS_nzIcztHJfhEbyfNmPn-rWm26eSOb8Sf4Cai7PMv3saDitkyLwsmToP6b4enduZ73eUlfg==)\n- [itransition.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGujGpkvvEQkYXfRZbbTCWF_V1OXgqze-KUqJBw6W7iME89tk1DjLp_d2Eoo9SVSG33gmJPgMRHEJAtjOdt6eQNIIDr88GVDxtOsT9C3VWd4lSI9Jz4ZWMAOLHx1CJnLFrU2Zk=)\n- [researchgate.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGupBC0QVZ5cSTqp5rIaK70NH1VxHzGTcX9rf7R42nKLsvg_H2SLEO5g6LVdt75QmxMINgbZ8CjgeOjhWjK_u6XcHu6yqKx_qYFKTY4oODT2CyQ4rv_Va_Wm3PpFtR5cSLLI-2DDHj3MmY4PHIVt1Fk31U-VTpPh2BRuYzWiZGIB49UdcuLlLlvN51emRJsrBNZEMF-P8HeVOI2P4BGRjzRs8mdG3QnlC-p9XpD2cgj9QcPsZtMfVIUelE=)\n- [bit2byte.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv2ksbT1i_EmR7AbBMNNT1JE6-m0vQcTU-h5awzUD-v_9qrfQtZ_fq9DbWJhj6fR9-kGfbZseTeNkzxpVzVOekce3e1WW-T7HsKgAwUjacdNELNDPwCwUn9Du6qKb7fg==)\n- [members.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEjHk6roenQTHjxFrwgliejXFycpbstSZUMNngkOHVM8NXgl50KhtUsaPeGw7_4EbSVMmrdAJPYOCGv3O9pLmzI483Vo2alBHq9EDSsgbeN2NhuNZbEHiNS2wfR56Fl4DwirmpcJmM47Zht3euzw==)\n- [edutechnology.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbbstkp8dfhIsB4-W05WflKrHEMgnvS0nWI7ttLV1eTot36Ryr1gr5nrW7EZdbM48Nf82mmiyyDF-zAp2c9MOPWFK6lnwJWTbEcKZB9RkBcYjeL2c0C-jw6-AJn6Vg_SdcxNWlZ5Y2ddgBzvvWCUeEOv3ZxzNfSX7aLvyBEw==)\n- [rsisinternational.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBx7NqjMK-QYyD0d-Ky-OlNQYw_RMswLQMbUqmRgyqMa7kmVTQ8DdihPIdE2t9Mauai8vPCs75KRNuYQdIdvYgXRYZ9GT27eJfY4kUZ_VT1ykCaaBZger6fhmzf0FIQQI1WPuUnkBtWHtEqDkO1JRDnP64TmW3Bn_I1dGGLDGtE_mT496wjRzed2e5y0TmRYyrv747pEqVbd1DDzrXtkMq6-AJAdNbw949veuftCRPdaH40_KpGCMa3xvCEI-r5QDVU2araSEmkqv_YY4-ta0DojCzyTBWMzv5VU12-eD3UxjrGbVWCg==)\n- [intechopen.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeDSl7UO5wdkScEAEECv5Nw3c0obnPKiuLDAlziiyWA9z_u_yJmdVrGA4fykTNEy_Z47mQi6xBuXZ4lqB_RBS0-Lp0trIA5liE9KRFuqfcynXc18qBx9djHIGGwTqrz4LlIlodlHAsHtKj)\n- [enpress-publisher.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFypu_1hEiBTgBlzD-nFLLKqRFgVBDk8rJ9eXmhr1meQb8gFOEBVGyNc_ODep3GAyLlhuKBuba8zR83kDsckngKAtfjVOUrvDeedvS1kABkksTOdY9X9gx-yUWhAIYA8rO2cFAoD-afcfM49bFV3vgJF8nwzR-h0KZUDzWpDtwCaDDi)\n- [sandiego.edu](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmrE2ScvGm6__OdVM4mS5BDTr-CgTo1waJM5a4MH3EzyGEJJkvkSWF4ZiIupKpfZml20OJ10_xsH4N8oOiv9n2_M_bSQpj4aUT6bZzSFE3qbZRHWeP5tLrPS8qG2orL1RmBOiNmPiH5intXvI2s33sRZkp_XiYgrwv2VPlbN_9vg==)\n- [aidx.asia](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG81q3roQThC4TQ8u_Pvq3MCdhCLMWnb7_6j8mKDqZAcoyr_c5e8TMeBa4-DfmEss09q4546F572AFwDwVclH-A4tx7vw5twa61N3VAUnjKNXcx8bqaRKW41Ce50pOYtyQ-CGcDlB4OX3Yw0i6kkDukWhUaF-Po0a_kHImrMY9OgnuGYJauf70zJ8AOgf92FJfVGJVJX8sJ__hADGATIXOm6R7MB9sQ0uD2i1xnzWNJywKXwku3os0g0BR-IjBSi67yAWWMoSAlmS2a6lGAfuQUsGSEaYQ=)\n- [digital-front.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF-6ZcIVQ5MPx9iQMH3zjZGpoIC0Mg-iJhNKFw6aHA3Psly1UL4Zp6VtJsF3FNkf-eayiKNqAZTjrdXwau7_iJe8CYyzl5KSjAHebgEXygKZMtAZRJydWA5C1JFvI=)\n",
+      "status": "Active",
+      "derive": [
+        "N_24"
+      ],
+      "depth": 3,
+      "verifyScore": 100,
+      "dataYear": "",
+      "dataInstitution": "",
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_FC_3",
+      "type": "F",
+      "subType": "EVIDENCE",
+      "label": "AIによる課題判別困難と教育評価の公平性への影響",
+      "content": "2025年10月に発表された仙台大学AI教育研究チームの全国調査によると、教員の48.8%が「生成AIが書いたものか、学生が書いたものかの判断が難しい提出物の増加」を主要な問題として指摘している。また、2024年7月に英レディング大学で行われた実験では、AIが作成した解答が試験に混ぜられた場合、94%が検出されずに採点されたことが報告されており、AI生成物の判別困難が評価の公平性を損なう可能性が示されている。文部科学省も2024年12月26日公開の「初等中等教育段階における生成AIの利活用に関するガイドラインVer. 2.0」において、生成AIの出力をそのまま自己の成果物として応募・提出することは評価基準や応募規約によっては不適切又は不正な行為に当たることについて十分に指導するよう求めており、AIによる課題の判別困難が教育評価の公平性を保てなくなるという認識が教育現場で広く共有されている。",
+      "dataSource": "### 🔍 Data Sources (Web Search Reference)\n**Queries:** AI 教育 課題 評価 公平性 判別 困難, AI 学生 利用 評価 不公平, 大学 AI 課題 検出 困難 評価, 教育現場 AI 不正利用 評価問題, AI生成物 評価基準 教育, 文部科学省 AI 教育 評価 ガイドライン, 教育機関 AI 課題 評価 課題\n\n- [nii.ac.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSIfb0Sbgh5uUYxPhM9OsEzEEmEVy17gy_pFOooMaEE12NYXAP9BK7mlOo-eh-ymYRqYFCDgrSgVnvg_qM-Q5W6WGrUqgV964DsU_xcqdEGVVHdVf7H8Kn8fegmNDzJMeTteR5N7yB5-bIDqag5yUeVUT4vWf-daVnZ7ZwfKyW5CAAA1wy_C5CKw6rhVtdPXEjaUmyVISNL1PGBuKQ5XkhvZqNsZ4SxkkNqwWFuTNLp0yodVWMiJ1y3jvyJSLnXBHvuVCVXr64cI--n5sRbOWqosvGjj8pDz0BK0d1Gw35vIDyCYGJU39Takha0bIk2Nb5Qy6-3ndS-OBWlom867HeDAyTzqmG7bhD06ScHqvGt2nXybqrMCxjApZQBLExAFBaR9ktCQnscZSoAak8FReYEQ3gmsJZJmkzNATndyGY0dSyCf20kv3-wKRy7Z936M2bCQoByswfChQMIKBOK2nf3A23Oa8cMOdWtWh0NDGmKxQr7n1cwfuzHdlyxQLiT-KuVAm4io7SorMosaA-HVuL_w61P9rpEXYJniR4vaFd_vDa)\n- [impress.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEejuI89OLCoDfA6f5yqYu0_f2u5hjkRdRL6zxYrkw--cYiT5oVrrNShA_GrnMHaCMrCkfZn7je9dVk0LvzTY_Hh_tzBfXyO3iwDkyOzL6Ykiq4RInQrYNbKDZkexuaGGQcwuYFdwAm4RASeflxnAEBRnx8zQfLpTM=)\n- [mext.go.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeE3l2nWg-80b9v2b74Cx8SqQn7tQ5-p-0wpdwHSp1OlA_GTg7_v1u1yVOHAwiDJTH_aF1yDfEugV7Rx4G9lsTjKU33XFSLJQCd_36K-SZmGKQwfRg_BUEjRMWyCn0uSfhAFj0yvgD6-yaG8Zi8yDg1IYcpHFQmZlKuOVANwqGgYs=)\n- [sentankyo.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEseP5ivJ4I0ND_wEDqpvGGh_0kiZfUGzD6dmoxHpa0z_rw_tTgrFCyIAQpyNnNsgNTLnNWb6bH5HmH_wMraDKI0V-KZn6otH5lgRjkmp3hHeQHfU8dlTfto9xZuYhdJ770zl31Arn-MACps_FI5gbmCZxOoi2RhHPhPePdl3riw==)\n",
+      "status": "Active",
+      "derive": [
+        "N_40"
+      ],
+      "depth": 3,
+      "verifyScore": 100,
+      "dataYear": "",
+      "dataInstitution": "",
+      "atomicChecks": 99
+    }
+  ],
+  "mesh": [
+    {
+      "from": "N_1",
+      "to": "N_17",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_2",
+      "to": "N_17",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_3",
+      "to": "N_17",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_8",
+      "to": "N_17",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_10",
+      "to": "N_17",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_11",
+      "to": "N_17",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_14",
+      "to": "N_17",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_4",
+      "to": "N_18",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_5",
+      "to": "N_18",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_6",
+      "to": "N_18",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_7",
+      "to": "N_18",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_9",
+      "to": "N_18",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_10",
+      "to": "N_19",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_11",
+      "to": "N_19",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_12",
+      "to": "N_19",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_13",
+      "to": "N_19",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_15",
+      "to": "N_19",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_16",
+      "to": "N_19",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_20",
+      "to": "N_17",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_21",
+      "to": "N_17",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_22",
+      "to": "N_17",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_23",
+      "to": "N_17",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_24",
+      "to": "N_18",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_25",
+      "to": "N_18",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_26",
+      "to": "N_18",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_21",
+      "to": "N_19",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_27",
+      "to": "N_19",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_28",
+      "to": "N_19",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_29",
+      "to": "N_18",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_30",
+      "to": "N_18",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_31",
+      "to": "N_19",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_32",
+      "to": "N_19",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_33",
+      "to": "N_19",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_34",
+      "to": "N_19",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_35",
+      "to": "N_17",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_36",
+      "to": "N_17",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_37",
+      "to": "N_17",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_38",
+      "to": "N_17",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_39",
+      "to": "N_17",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_39",
+      "to": "N_19",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_40",
+      "to": "N_17",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_40",
+      "to": "N_19",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_41",
+      "to": "N_33",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_42",
+      "to": "N_33",
+      "type": "Support",
+      "logic": "Structure"
+    },
+    {
+      "from": "N_43",
+      "to": "N_36",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_44",
+      "to": "N_36",
+      "type": "Support",
+      "logic": "Structure"
+    },
+    {
+      "from": "N_45",
+      "to": "N_35",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_46",
+      "to": "N_35",
+      "type": "Support",
+      "logic": "Structure"
+    },
+    {
+      "from": "N_47",
+      "to": "N_35",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_48",
+      "to": "N_35",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_49",
+      "to": "N_33",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_50",
+      "to": "N_33",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_29",
+      "to": "N_19",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_31",
+      "to": "N_17",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "V_TRST",
+      "to": "N_38",
+      "type": "Grounding",
+      "logic": "Keyword"
+    },
+    {
+      "from": "V_EQAL",
+      "to": "N_31",
+      "type": "Grounding",
+      "logic": "Keyword"
+    },
+    {
+      "from": "V_IDEN",
+      "to": "N_43",
+      "type": "Grounding",
+      "logic": "Keyword"
+    },
+    {
+      "from": "V_IDEN",
+      "to": "N_47",
+      "type": "Grounding",
+      "logic": "Keyword"
+    },
+    {
+      "from": "V_IDEN",
+      "to": "N_48",
+      "type": "Grounding",
+      "logic": "Keyword"
+    },
+    {
+      "from": "V_IDEN",
+      "to": "N_49",
+      "type": "Grounding",
+      "logic": "Keyword"
+    },
+    {
+      "from": "V_IDEN",
+      "to": "N_50",
+      "type": "Grounding",
+      "logic": "Keyword"
+    },
+    {
+      "from": "V_PROG",
+      "to": "N_30",
+      "type": "Support",
+      "logic": "Grounding"
+    },
+    {
+      "from": "V_SUST",
+      "to": "N_38",
+      "type": "Support",
+      "logic": "Grounding"
+    },
+    {
+      "from": "V_IDEN",
+      "to": "N_32",
+      "type": "Support",
+      "logic": "Grounding"
+    },
+    {
+      "from": "V_PROG",
+      "to": "N_29",
+      "type": "Support",
+      "logic": "Grounding"
+    },
+    {
+      "from": "V_PROG",
+      "to": "N_43",
+      "type": "Support",
+      "logic": "Grounding"
+    },
+    {
+      "from": "V_DIGN",
+      "to": "N_49",
+      "type": "Support",
+      "logic": "Grounding"
+    },
+    {
+      "from": "V_DIGN",
+      "to": "N_50",
+      "type": "Support",
+      "logic": "Grounding"
+    },
+    {
+      "from": "V_DIGN",
+      "to": "N_48",
+      "type": "Support",
+      "logic": "Grounding"
+    },
+    {
+      "from": "V_DIGN",
+      "to": "N_47",
+      "type": "Support",
+      "logic": "Grounding"
+    },
+    {
+      "from": "V_TRST",
+      "to": "V_EQAL",
+      "type": "Topology",
+      "logic": "Cosmology"
+    },
+    {
+      "from": "V_IDEN",
+      "to": "V_DIGN",
+      "type": "Topology",
+      "logic": "Cosmology"
+    },
+    {
+      "from": "V_EQAL",
+      "to": "N_17",
+      "type": "Grounding",
+      "logic": "Semantic Grounding"
+    },
+    {
+      "from": "V_DIGN",
+      "to": "N_17",
+      "type": "Grounding",
+      "logic": "Semantic Grounding"
+    },
+    {
+      "from": "V_EFFI",
+      "to": "N_18",
+      "type": "Grounding",
+      "logic": "Semantic Grounding"
+    },
+    {
+      "from": "V_PROG",
+      "to": "N_18",
+      "type": "Grounding",
+      "logic": "Semantic Grounding"
+    },
+    {
+      "from": "V_EQAL",
+      "to": "N_19",
+      "type": "Grounding",
+      "logic": "Semantic Grounding"
+    },
+    {
+      "from": "V_PROG",
+      "to": "N_19",
+      "type": "Grounding",
+      "logic": "Semantic Grounding"
+    },
+    {
+      "from": "N_FC_1",
+      "to": "N_20",
+      "type": "Support",
+      "logic": "Evidence"
+    },
+    {
+      "from": "N_FC_2",
+      "to": "N_24",
+      "type": "Support",
+      "logic": "Evidence"
+    },
+    {
+      "from": "N_FC_3",
+      "to": "N_40",
+      "type": "Support",
+      "logic": "Evidence"
+    }
+  ],
+  "topologyAnalysis": {
+    "comparisons": [
+      {
+        "claim1": {
+          "id": "N_17",
+          "label": "AI不適切利用制限と教育の質維持"
+        },
+        "claim2": {
+          "id": "N_18",
+          "label": "AI学習補助活用と高度思考力育成"
+        },
+        "commonStars": [
+          "V_PROG"
+        ],
+        "factualDivergences": [
+          "N_20",
+          "N_39",
+          "N_40",
+          "N_24"
+        ],
+        "divergencePoints": [
+          {
+            "nodeId": "V_PROG",
+            "nodeLabel": "進歩/革新",
+            "nodeType": "UV",
+            "interpretation1": {
+              "targetId": "N_43",
+              "label": "AI時代における個人の能力開発の重視",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "N_30",
+              "label": "AI時代における高度な思考力育成の重視",
+              "relation": "Support"
+            },
+            "singularity_score": 60
+          }
+        ]
+      },
+      {
+        "claim1": {
+          "id": "N_17",
+          "label": "AI不適切利用制限と教育の質維持"
+        },
+        "claim2": {
+          "id": "N_19",
+          "label": "AI時代対応の教育評価改革とAIリテラシー推進"
+        },
+        "commonStars": [
+          "N_31",
+          "V_EQAL",
+          "V_DIGN",
+          "V_TRST",
+          "V_IDEN",
+          "V_PROG"
+        ],
+        "factualDivergences": [
+          "N_20",
+          "N_39",
+          "N_40"
+        ],
+        "divergencePoints": [
+          {
+            "nodeId": "N_10",
+            "nodeLabel": "Raw",
+            "nodeType": "RAW",
+            "interpretation1": {
+              "targetId": "N_17",
+              "label": "AI不適切利用制限と教育の質維持",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "N_19",
+              "label": "AI時代対応の教育評価改革とAIリテラシー推進",
+              "relation": "Support"
+            },
+            "singularity_score": 35
+          },
+          {
+            "nodeId": "N_11",
+            "nodeLabel": "Raw",
+            "nodeType": "RAW",
+            "interpretation1": {
+              "targetId": "N_17",
+              "label": "AI不適切利用制限と教育の質維持",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "N_19",
+              "label": "AI時代対応の教育評価改革とAIリテラシー推進",
+              "relation": "Support"
+            },
+            "singularity_score": 35
+          },
+          {
+            "nodeId": "N_21",
+            "nodeLabel": "提出された課題が「本人の思考の...",
+            "nodeType": "F",
+            "interpretation1": {
+              "targetId": "N_17",
+              "label": "AI不適切利用制限と教育の質維持",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "N_19",
+              "label": "AI時代対応の教育評価改革とAIリテラシー推進",
+              "relation": "Support"
+            },
+            "singularity_score": 35
+          },
+          {
+            "nodeId": "N_39",
+            "nodeLabel": "教師によるAI出力課題の判別困難性",
+            "nodeType": "F",
+            "interpretation1": {
+              "targetId": "N_17",
+              "label": "AI不適切利用制限と教育の質維持",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "N_19",
+              "label": "AI時代対応の教育評価改革とAIリテラシー推進",
+              "relation": "Support"
+            },
+            "singularity_score": 52
+          },
+          {
+            "nodeId": "N_40",
+            "nodeLabel": "課題判別困難による評価公平性喪失",
+            "nodeType": "F",
+            "interpretation1": {
+              "targetId": "N_17",
+              "label": "AI不適切利用制限と教育の質維持",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "N_19",
+              "label": "AI時代対応の教育評価改革とAIリテラシー推進",
+              "relation": "Support"
+            },
+            "singularity_score": 52
+          },
+          {
+            "nodeId": "N_31",
+            "nodeLabel": "評価と教育の公平性維持の重視",
+            "nodeType": "V",
+            "interpretation1": {
+              "targetId": "N_17",
+              "label": "AI不適切利用制限と教育の質維持",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "N_19",
+              "label": "AI時代対応の教育評価改革とAIリテラシー推進",
+              "relation": "Support"
+            },
+            "singularity_score": 35
+          },
+          {
+            "nodeId": "V_DIGN",
+            "nodeLabel": "尊厳/誇り",
+            "nodeType": "UV",
+            "interpretation1": {
+              "targetId": "N_17",
+              "label": "AI不適切利用制限と教育の質維持",
+              "relation": "Grounding"
+            },
+            "interpretation2": {
+              "targetId": "N_50",
+              "label": "個人の自律的行動選択と責任の重視",
+              "relation": "Support"
+            },
+            "singularity_score": 35
+          },
+          {
+            "nodeId": "V_IDEN",
+            "nodeLabel": "独自性/個",
+            "nodeType": "UV",
+            "interpretation1": {
+              "targetId": "N_43",
+              "label": "AI時代における個人の能力開発の重視",
+              "relation": "Grounding"
+            },
+            "interpretation2": {
+              "targetId": "N_32",
+              "label": "AI時代に求められる創造性育成の重視",
+              "relation": "Support"
+            },
+            "singularity_score": 60
+          },
+          {
+            "nodeId": "V_PROG",
+            "nodeLabel": "進歩/革新",
+            "nodeType": "UV",
+            "interpretation1": {
+              "targetId": "N_43",
+              "label": "AI時代における個人の能力開発の重視",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "N_29",
+              "label": "AI時代におけるAIリテラシー育成の重視",
+              "relation": "Support"
+            },
+            "singularity_score": 60
+          }
+        ]
+      },
+      {
+        "claim1": {
+          "id": "N_18",
+          "label": "AI学習補助活用と高度思考力育成"
+        },
+        "claim2": {
+          "id": "N_19",
+          "label": "AI時代対応の教育評価改革とAIリテラシー推進"
+        },
+        "commonStars": [
+          "N_29",
+          "V_PROG"
+        ],
+        "factualDivergences": [
+          "N_24",
+          "N_39",
+          "N_40"
+        ],
+        "divergencePoints": [
+          {
+            "nodeId": "N_29",
+            "nodeLabel": "AI時代におけるAIリテラシー育成の重視",
+            "nodeType": "V",
+            "interpretation1": {
+              "targetId": "N_18",
+              "label": "AI学習補助活用と高度思考力育成",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "N_19",
+              "label": "AI時代対応の教育評価改革とAIリテラシー推進",
+              "relation": "Support"
+            },
+            "singularity_score": 35
+          },
+          {
+            "nodeId": "V_PROG",
+            "nodeLabel": "進歩/革新",
+            "nodeType": "UV",
+            "interpretation1": {
+              "targetId": "N_30",
+              "label": "AI時代における高度な思考力育成の重視",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "N_29",
+              "label": "AI時代におけるAIリテラシー育成の重視",
+              "relation": "Support"
+            },
+            "singularity_score": 60
+          }
+        ]
+      }
+    ],
+    "commonGrounds": [
+      {
+        "id": "V_PROG",
+        "label": "進歩/革新",
+        "type": "UV",
+        "content": "進歩/革新の追求"
+      },
+      {
+        "id": "N_31",
+        "label": "評価と教育の公平性維持の重視",
+        "type": "V",
+        "content": "評価の公平性の重視。 / 教育の公平性の重視。"
+      },
+      {
+        "id": "V_EQAL",
+        "label": "平等/公平",
+        "type": "UV",
+        "content": "平等/公平の追求"
+      },
+      {
+        "id": "V_DIGN",
+        "label": "尊厳/誇り",
+        "type": "UV",
+        "content": "尊厳/誇りの追求"
+      },
+      {
+        "id": "V_TRST",
+        "label": "信頼/信用",
+        "type": "UV",
+        "content": "信頼/信用の追求"
+      },
+      {
+        "id": "V_IDEN",
+        "label": "独自性/個",
+        "type": "UV",
+        "content": "独自性/個の追求"
+      },
+      {
+        "id": "N_29",
+        "label": "AI時代におけるAIリテラシー育成の重視",
+        "type": "V",
+        "content": "AIリテラシー育成の重視。"
+      }
+    ],
+    "divergencePoints": [
+      {
+        "id": "SING_1",
+        "nodeId": "V_PROG",
+        "score": 60,
+        "context": "AI不適切利用制限と教育の質維持 と AI学習補助活用と高度思考力育成 の対立点: 進歩/革新 の解釈の相違（AI時代における個人の能力開発の重視 vs AI時代における高度な思考力育成の重視）"
+      },
+      {
+        "id": "SING_9",
+        "nodeId": "V_IDEN",
+        "score": 60,
+        "context": "AI不適切利用制限と教育の質維持 と AI時代対応の教育評価改革とAIリテラシー推進 の対立点: 独自性/個 の解釈の相違（AI時代における個人の能力開発の重視 vs AI時代に求められる創造性育成の重視）"
+      },
+      {
+        "id": "SING_10",
+        "nodeId": "V_PROG",
+        "score": 60,
+        "context": "AI不適切利用制限と教育の質維持 と AI時代対応の教育評価改革とAIリテラシー推進 の対立点: 進歩/革新 の解釈の相違（AI時代における個人の能力開発の重視 vs AI時代におけるAIリテラシー育成の重視）"
+      },
+      {
+        "id": "SING_12",
+        "nodeId": "V_PROG",
+        "score": 60,
+        "context": "AI学習補助活用と高度思考力育成 と AI時代対応の教育評価改革とAIリテラシー推進 の対立点: 進歩/革新 の解釈の相違（AI時代における高度な思考力育成の重視 vs AI時代におけるAIリテラシー育成の重視）"
+      },
+      {
+        "id": "SING_5",
+        "nodeId": "N_39",
+        "score": 52,
+        "context": "AI不適切利用制限と教育の質維持 と AI時代対応の教育評価改革とAIリテラシー推進 の対立点: 教師によるAI出力課題の判別困難性 の解釈の相違（AI不適切利用制限と教育の質維持 vs AI時代対応の教育評価改革とAIリテラシー推進）"
+      },
+      {
+        "id": "SING_6",
+        "nodeId": "N_40",
+        "score": 52,
+        "context": "AI不適切利用制限と教育の質維持 と AI時代対応の教育評価改革とAIリテラシー推進 の対立点: 課題判別困難による評価公平性喪失 の解釈の相違（AI不適切利用制限と教育の質維持 vs AI時代対応の教育評価改革とAIリテラシー推進）"
+      },
+      {
+        "id": "SING_2",
+        "nodeId": "N_10",
+        "score": 35,
+        "context": "AI不適切利用制限と教育の質維持 と AI時代対応の教育評価改革とAIリテラシー推進 の対立点: Raw の解釈の相違（AI不適切利用制限と教育の質維持 vs AI時代対応の教育評価改革とAIリテラシー推進）"
+      },
+      {
+        "id": "SING_3",
+        "nodeId": "N_11",
+        "score": 35,
+        "context": "AI不適切利用制限と教育の質維持 と AI時代対応の教育評価改革とAIリテラシー推進 の対立点: Raw の解釈の相違（AI不適切利用制限と教育の質維持 vs AI時代対応の教育評価改革とAIリテラシー推進）"
+      },
+      {
+        "id": "SING_4",
+        "nodeId": "N_21",
+        "score": 35,
+        "context": "AI不適切利用制限と教育の質維持 と AI時代対応の教育評価改革とAIリテラシー推進 の対立点: 提出された課題が「本人の思考の... の解釈の相違（AI不適切利用制限と教育の質維持 vs AI時代対応の教育評価改革とAIリテラシー推進）"
+      },
+      {
+        "id": "SING_7",
+        "nodeId": "N_31",
+        "score": 35,
+        "context": "AI不適切利用制限と教育の質維持 と AI時代対応の教育評価改革とAIリテラシー推進 の対立点: 評価と教育の公平性維持の重視 の解釈の相違（AI不適切利用制限と教育の質維持 vs AI時代対応の教育評価改革とAIリテラシー推進）"
+      },
+      {
+        "id": "SING_8",
+        "nodeId": "V_DIGN",
+        "score": 35,
+        "context": "AI不適切利用制限と教育の質維持 と AI時代対応の教育評価改革とAIリテラシー推進 の対立点: 尊厳/誇り の解釈の相違（AI不適切利用制限と教育の質維持 vs 個人の自律的行動選択と責任の重視）"
+      },
+      {
+        "id": "SING_11",
+        "nodeId": "N_29",
+        "score": 35,
+        "context": "AI学習補助活用と高度思考力育成 と AI時代対応の教育評価改革とAIリテラシー推進 の対立点: AI時代におけるAIリテラシー育成の重視 の解釈の相違（AI学習補助活用と高度思考力育成 vs AI時代対応の教育評価改革とAIリテラシー推進）"
+      }
+    ],
+    "allCommonIds": [
+      "V_PROG",
+      "N_31",
+      "V_EQAL",
+      "V_DIGN",
+      "V_TRST",
+      "V_IDEN",
+      "N_29"
+    ],
+    "allSingularityIds": [
+      "N_20",
+      "N_39",
+      "N_40",
+      "N_24"
+    ],
+    "timestamp": "2026-03-15T11:13:08.382Z"
+  },
+  "briefingSheet": "## ブリーフィング・シート：AI時代における教育の質と公平性維持、および能力育成に関する要件定義\n\n### 1. 現在の状況と前提ファクト\n\nAI技術の急速な進化は教育現場に不可逆的な変化をもたらしており、従来の教育・評価方法が機能不全に陥りつつあるという強い危機感が共有されています。この状況下で、以下の客観的事実が確認されています。\n\n*   **AIの不適切利用による能力低下の懸念**: AIへの過度な依存は、生徒の思考力、創造性、学ぶ意思を低下させるという明確な事実が存在します。\n*   **AIによる個別最適化学習の可能性**: AIは学習履歴の分析とコンテンツの提供を通じて、生徒一人ひとりに最適化された学習体験を実現する潜在能力を持っています。\n*   **教師によるAI出力課題の判別困難性**: 教師が提出された課題がAIによって生成されたものか否かを判別することは極めて困難であり、この事実が評価の公平性を著しく損なうリスクを高めています。\n*   **自律的思考と学習プロセスの重要性**: 学習プロセスを尊重し、生徒の自律的な思考力を育むことが、個人の創造性、問題解決能力、自由な意思決定の基盤を形成するという認識が広く共有されています。\n*   **AIリテラシーの必要性**: AIが社会に普及する中で、AIを適切に活用し、その恩恵を享受するためのAIリテラシーの育成が不可欠であるという認識が高まっています。\n\n### 2. 最大の価値対立\n\n現在の議論における最大の価値対立は、**「教育の質と公平性を守るための『現状維持・制限』」**と**「AI時代に適応し、未来の能力を育成するための『変革・活用』」**という二つのアプローチの間で生じています。\n\n*   **対立軸A：教育の質と公平性維持（AI不適切利用制限派）**\n    *   **重視する価値観**: 評価の公平性維持、教育の質と信頼性維持、生徒の自律的思考力尊重、学習プロセス尊重。\n    *   **背景にある懸念**: AIの不適切利用が、生徒の思考力・創造性の低下、評価の不公平性、ひいては教育システム全体の信頼性低下を招くことへの強い懸念。教師がAI出力を判別できない現状が、この懸念を増幅させています。\n*   **対立軸B：AI時代対応の教育変革と能力育成（AI学習補助活用・評価改革派）**\n    *   **重視する価値観**: AIリテラシー育成、高度な思考力育成、創造性育成、問題解決能力育成、個人の能力開発、進歩/革新。\n    *   **背景にある意欲**: AI技術が普及する未来社会に積極的に適応し、その恩恵を最大限に享受したいという意欲。従来の教育・評価方法がAI時代に機能不全に陥っているという危機感から、教育の根本的な変革を通じて、将来必要とされる能力を育成しようとする強い意志。\n\nこの対立は、根源的には**「安定・信頼」**を重視し、既存の価値を守ろうとする姿勢と、**「変革・成長」**を重視し、未来の価値を創造しようとする姿勢の衝突と言えます。\n\n### 3. 必須要件\n\n両陣営には「高度な思考力育成」「創造性育成」「問題解決能力育成」「個人の能力開発」「教育の質と信頼性維持」「評価の公平性維持」といった共通の価値観が存在します。この共通基盤を足がかりとし、現状の事実認識の齟齬を解消し、建設的な合意形成に向けたソリューション構築の必須要件は以下の通りです。\n\n1.  **AIの適切な利用ガイドラインの策定と徹底**:\n    *   AIの不適切利用（例：丸投げ）が生徒の思考力・創造性・学ぶ意思を低下させるという事実（F1）を前提に、AIの利用範囲、目的、倫理的側面を明確に定義したガイドラインを策定し、生徒・教師双方への周知と教育を徹底すること。\n    *   これにより、AIの「制限」と「活用」の境界線を明確にし、教育の質と信頼性維持（V）を図る。\n\n2.  **AI時代に対応した新しい評価システムの設計**:\n    *   教師がAI出力課題を判別困難であるという事実（F3, F4）を直視し、従来の評価方法に依存しない、AIの利用を前提とした新しい形の課題設定と評価基準を開発すること。\n    *   具体的には、AIと共に問いを立てる探究型学習や、AIの出力を批判的に分析・統合する能力を評価する形式など、AIリテラシーと高度な思考力（V）を同時に育成・評価できる仕組みを導入し、評価の公平性（V）を確保する。\n\n3.  **AIを活用した個別最適化学習と自律的思考力育成の両立**:\n    *   AIによる個別最適化学習の利点（F2）を最大限に活用しつつ、学習プロセスを尊重し、生徒の自律的な思考力や創造性（V）を損なわない学習方法論を確立すること。\n    *   AIを「計算機」や「家庭教師」のような補助ツールとして位置づけ、基礎的な作業を効率化することで、生徒がより高度な探究活動や創造的な学習に時間を充てられるよう、カリキュラムと指導法を再設計する。\n\n4.  **教師のAIリテラシー向上とサポート体制の構築**:\n    *   教師がAI技術を理解し、教育現場で適切に活用・指導できるよう、継続的な研修機会と技術的・教育的サポート体制を整備すること。\n    *   これにより、AI時代に対応した教育変革を推進する上での現場の不安を解消し、教育の質と信頼性維持（V）に貢献する。\n\n**トレードオフの境界線**:\n*   **AIの全面禁止は情報格差を拡大させ、AIリテラシー育成を阻害する**一方で、**AIの無制限な利用は思考力低下や評価の不公平を招く**。この両極端を避け、AIの「適切な利用」を定義し、その範囲内で最大限の教育効果を引き出すバランス点を見出すことが必須となる。\n*   **従来の評価基準の維持は公平性を損なうリスクがある**一方で、**新しい評価基準への全面移行は混乱を招く可能性がある**。段階的な移行計画と、新旧評価基準の整合性を図るための明確なロードマップが求められる。",
+  "lastReportType": "LEARNING"
+}
