@@ -1,0 +1,2871 @@
+{
+  "sources": [
+    {
+      "id": "SRC_1",
+      "text": "A：部下側のペルソナ（10件）\n特性：ADHD/ASD傾向、メンタルヘルス不調からの復職後など\n\n「朝一番の全体ミーティングは情報量が多すぎて、頭がフリーズしてしまい、その後の作業に手がつきません。」\n\n「『適宜進めておいて』と言われるのが一番怖いです。何が正解かわからず、結局一歩も動けなくなります。」\n\n「マルチタスクを求められると、優先順位が数分おきに脳内で入れ替わってしまい、結局どれも中途半端に終わります。」\n\n「チャットの通知が鳴り止まないと、監視されているような圧迫感を感じて、動悸がしてしまいます。」\n\n「静かな環境なら集中できるのに、オフィスの雑談や電話の音が気になって、通常の3倍の時間がかかってしまいます。」\n\n「指示されたことの『背景』が見えないと、どこまで丁寧にやるべきかの加減がわからず、細部にこだわりすぎてしまいます。」\n\n「体調が悪いと言い出したら、もう戦力外通告をされるのではないかと不安で、無理をして自爆してしまいます。」\n\n「1on1で『何か困ってることある？』と聞かれても、何に困っているのかを言語化すること自体に、膨大なエネルギーを使います。」\n\n「マニュアルがない業務は、暗闇を歩いているようで、常に失敗の恐怖と隣り合わせです。」\n\n「みんなが当たり前にできている『空気を読む』議論についていけず、自分が透明人間になったような疎外感があります。」\n\nB：管理者側のペルソナ（10件）\n特性：中間管理職、目標達成のプレッシャー、標準化を重視\n\n「もっと主体的に動いてほしい。一から十まで指示を待たれると、こちらの業務が止まってしまう。」\n\n「調子が良さそうに見えたので任せたのに、期限直前になって『できていません』と言われるのが一番困る。」\n\n「チーム全体の生産性を考えると、特定の人だけ特別扱い（マニュアル化や環境整備）するのは不公平感が出ないか心配だ。」\n\n「1on1の時間は確保しているのに、いつも『大丈夫です』としか言わない。本音がどこにあるのか掴めない。」\n\n「急ぎの案件でチャットを送っても反応が遅い。テレワークだとサボっているのか悩んでいるのか判別がつかない。」\n\n「細かい手順にこだわりすぎて、全体のスケジュールが遅れている。8割の出来でいいから早く出してほしい。」\n\n「メンタル面に配慮しすぎて、厳しいフィードバックができない。結果として彼の成長機会を奪っているのではないか？」\n\n「口頭で伝えたはずのことが伝わっていない。何度も同じ説明をするのは、正直リソースの無駄だと感じてしまう。」\n\n「組織としては成果を出さなければならない。個人の特性に寄り添うことと、目標達成をどう両立させればいいのか出口が見えない。」\n\n「会議ではもっと積極的に発言してほしい。黙っていられると、納得しているのか不満があるのか判断がつかない。」",
+      "status": "Processed",
+      "type": "User",
+      "enrichedText": "\n\n【自動取得された最新の背景知識】\n**Domain (対象領域)**\n\nこの議論は、現代の職場における「ニューロダイバーシティ（神経多様性）」と「メンタルヘルス」への理解と対応、およびそれらを包含する「インクルーシブ・マネジメント」と「多様な働き方」の実現という社会領域を前提としています。具体的には、ADHD/ASD傾向やメンタルヘルス不調を抱える従業員が直面する困難と、目標達成のプレッシャーを抱える中間管理職の課題との間のギャップを埋め、組織全体の生産性と従業員のウェルビーイングを両立させるための職場環境構築が中心テーマとなります。\n\n**Fact List (前提事実リスト)**\n\n*   **ニューロダイバーシティの認知度とギャップ:** 職場におけるニューロダイバーシティ（発達障害など脳や神経の特性を多様性と捉える考え方）の認知度は、他の多様性（ジェンダー、国籍など）と比較して最も低い傾向にあります。特に、発達障害の診断を受けていない周囲の人々の60%以上がニューロダイバーシティを知らないと回答しており、当事者と周囲の認識に大きなギャップが存在します。\n*   **発達障害の特性と職場での困難:** ADHDの特性を持つ従業員は、不注意、多動性、衝動性により、注意力の維持やケアレスミスの多発、スケジュール管理の苦手さ、衝動的な発言などの困難を抱えやすいです。 ASDの特性を持つ従業員は、社会的相互作用の困難さ（空気を読むのが苦手、曖昧な指示の理解困難）、限定された興味や反復行動（ルーティンへのこだわり）、感覚過敏・感覚鈍麻（音や光に敏感）といった特性により、職場でのコミュニケーションや環境適応に課題を抱えやすいです。\n*   **メンタルヘルス不調からの復職支援の重要性:** メンタルヘルス不調による休職からの職場復帰支援は、再発防止と安定した就労のために重要です。厚生労働省は5つのステップからなる職場復帰支援プログラムを提示しており、休職者本人、企業担当者、主治医の三者による協働体制が円滑な復職の鍵となります。\n*   **中間管理職の多重ストレス:** 中間管理職は、上司からの目標達成プレッシャーと部下への育成・配慮という板挟みの状況にあり、多岐にわたる業務、責任の重さ、権限の少なさ、部下の育成負担、キャリアの停滞感など、複合的なストレス要因を抱えています。\n*   **心理的安全性の重要性:** 心理的安全性（チーム内で誰もが安心して意見を言え、失敗を恐れずに挑戦できる環境）は、従業員のモチベーション向上、情報共有の円滑化、ミスの減少、組織の生産性向上、イノベーション創出に直結する重要な要素です。 Google社の調査では、成功し続けるチームの最大の要因は「誰がチームにいるか」ではなく「チームがどのように協力しあっているか」であり、心理的安全性がチームの生産性を高める最も大きな要因であるとされています。\n*   **ニューロダイバーシティ雇用のメリット:** 発達障害のある人材は、特定の分野で高い集中力、論理的思考力、正確性、パターン認識能力などを発揮することがあり、これらを活かすことで企業の生産性向上やイノベーション創出に貢献できるとされています。 実際に、マイクロソフトやHPE、ヤフーなどの企業でニューロダイバーシティ人材が活躍し、高い成果を出している事例があります。\n*   **多様な働き方と労働力人口の減少:** 少子高齢化による生産年齢人口の減少が進む日本では、多様な人材を活かすための多様な働き方（テレワーク、フレックスタイム制など）の推進が不可欠です。\n\n**潜在的かつ批判的な未解決課題 (Unresolved Critical Issues)**\n\n1.  **「見えない障害」への理解と合理的配慮の限界:**\n    *   **論拠:** 発達障害やメンタルヘルス不調は外見からは分かりにくく、「見えない障害」として認識されにくい特性があります。 従業員側は「体調が悪いと言い出したら戦力外通告されるのではないか」という不安を抱え、管理職側は「調子が良さそうに見えたので任せたのに、期限直前になって『できていません』と言われる」といった認識のズレが生じます。 2024年4月1日から事業者による障害のある人への合理的配慮の提供が義務化されましたが、個々の特性に合わせた具体的な配慮（例：指示の明確化、静かな環境の提供、マルチタスクの軽減）は、その特性が「見えにくい」がゆえに、従業員からの自己開示がなければ始まりません。しかし、自己開示にはスティグマや不利益への懸念が伴い、心理的安全性が低い職場では特に困難です。結果として、必要な配慮が提供されず、従業員のパフォーマンス低下や離職につながる可能性があります。\n2.  **中間管理職の「インクルーシブ・リーダーシップ」への過度な負担と組織的支援の不足:**\n    *   **論拠:** インクルーシブ・リーダーシップは、多様な個人の能力を最大限に引き出し、組織全体の成果に繋げるための重要な要素とされています。 しかし、中間管理職は既に「プレイングマネージャー」として自身の業務と部下の育成・マネジメント、上層部への報告など多岐にわたる役割を担っており、高いストレスに晒されています。 この状況で、さらに個々の部下の神経多様性やメンタルヘルス不調に合わせた「合理的配慮」や「個別最適化されたマネジメント」を求めることは、中間管理職に過度な負担を強いることになります。 組織全体として、中間管理職への十分な権限委譲、専門家によるサポート体制（産業医、カウンセラー、外部リソース）、マネジメント研修、業務負担の見直し、そして「がんばりすぎ」を評価しすぎない文化づくりなど、包括的な支援がなければ、中間管理職のバーンアウトや離職を招き、結果的にインクルーシブな職場環境の実現が停滞する可能性があります。\n\n**Critical Perspectives (批判的・多角的視点)**\n\n*   **「合理的配慮」の実効性と隠れたコスト:** 障害者差別解消法の改正により合理的配慮の提供が義務化されたものの、その実効性には課題が残ります。企業側は「特定の人だけ特別扱いするのは不公平感が出ないか心配だ」という懸念を抱くことがあり、配慮が形骸化したり、他の従業員にしわ寄せがいったりする「隠れた社会的コスト」が発生する可能性があります。 また、配慮の内容が個々の特性に合致しない場合、かえって当事者の負担を増やすことも考えられます。\n*   **「心理的安全性」の誤解と「ぬるま湯化」の懸念:** 心理的安全性は重要視されていますが、「何を言っても許される甘い環境」や「居心地の良い職場」と誤解されることがあります。 本来は建設的な意見交換や健全な対立を奨励する土台であるにもかかわらず、批判を恐れるあまり「当たり障りのない意見しか出ない」「問題が表面化しない」といった「ぬるま湯化」を招き、組織の成長を阻害するリスクがあります。\n*   **国際比較（日本と他国の対応の差）:**\n    *   **ニューロダイバーシティ:** 米国や欧州の先進企業（マイクロソフト、SAP、HPEなど）では、発達障害を「障害」ではなく「多様な認知スタイル」と捉え、その強みを企業の成長戦略に活かす「ニューロダイバーシティ経営」が活発化しています。 特にIT分野での人材不足を背景に、発達障害者の高い集中力やパターン認識能力を積極的に採用する動きが見られます。 一方、日本では障害者雇用促進法に基づく「割当雇用制度」が発達障害者の雇用機会を拡大する原動力となっているものの、「障害者雇用」の枠組みで捉えられがちで、「一般雇用」における受け入れはまだ十分に進んでいないという指摘もあります。 また、欧米では公民権運動やフェミニズム運動を経て多様性を尊重する文化が浸透しているのに対し、日本では基本的なダイバーシティの実現自体が課題であるという見方もあります。\n    *   **メンタルヘルス支援:** 日本では厚生労働省が職場復帰支援の手引きを公表し、リワーク支援なども提供されていますが、メンタルヘルス不調に対する偏見や不適切な見方が職場内にまだ多く見られるという課題も指摘されています。 他国と比較して、メンタルヘルスに関するオープンな対話や早期介入の文化が未成熟である可能性も考えられます。\n\n**Warrant List (想定される論拠リスト)**\n\n*   **生産性至上主義:** 組織は常に成果を最大化し、効率性を追求すべきである。\n*   **標準化と公平性:** 組織内のルールやプロセスは標準化され、全員に公平に適用されるべきである。特定の個人への「特別扱い」は不公平感を生む。\n*   **自己責任論:** 従業員は自身の健康管理や業務遂行能力に責任を持ち、困難があれば自ら解決策を見つけるべきである。\n*   **主体性の重視:** 従業員は指示を待つだけでなく、自ら考え、行動し、積極的に貢献すべきである。\n*   **管理職の役割:** 管理職はチームの目標達成に責任を持ち、部下を指導・育成し、組織の方針を徹底すべきである。\n*   **コミュニケーションの暗黙の了解:** 職場におけるコミュニケーションは、言葉だけでなく「空気を読む」ことや「言外の意図を察する」ことを含み、それが円滑な業務遂行の前提である。\n*   **「普通」の基準:** 多くの人が問題なくこなせることは「普通」であり、それに適応できない場合は個人の問題である。\n*   **短期的な成果へのコミットメント:** 企業は四半期ごとの業績など短期的な成果を重視し、コストとリターンを厳しく評価すべきである。\n\n**User Core Thesis (ユーザーの核心的主張)**\n\n現代の職場において、ADHD/ASD傾向やメンタルヘルス不調を抱える従業員と、目標達成のプレッシャーに直面する中間管理職との間に生じる認識と対応のギャップを解消し、個々の多様な特性を活かしつつ組織全体の生産性を高めるための、より包括的で実践的なインクルーシブ・マネジメントと職場環境の再構築が喫緊の課題である。\n\n---\n### 🔍 Data Sources (Web Search Reference)\n**Queries:** 職場におけるADHD/ASDの課題と支援, メンタルヘルス不調からの復職支援 職場, ニューロダイバーシティ雇用 日本 海外 比較, インクルーシブマネジメントの課題と効果, 多様な働き方に対応する組織文化, 中間管理職のプレッシャーと多様な部下への対応, 日本の障害者雇用促進法 ニューロダイバーシティ, 職場のコミュニケーションギャップ 神経多様性, 職場における心理的安全性と生産性, 日本におけるニューロダイバーシティの現状と課題\n\n- [takeda.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGohkWUWcR4OWN83bAIrZ66c9pq4R7CFBeSnutuoEiXdiZlIBJwCzqnbpDwxmHWPNKq1_c4S29JWA33WSqQ1uEVLkJWO0L70wzkyFr2UHE_K7-Xs-8m057U2UJpTtqQHT7hv5OcNGPNFysAev1Vx79yVN9UNQh4aay6jmkbW0BZHwb4oOs=)\n- [yoakemental.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGntq5vpu8O0dHaTZzXnzXgLXUJZlqE7XAGjhAC4Hj3FSQCZW3pUL7z1CBtTQA7-GVb1XFOADVhbZ0DeUuxcGSMMEwYQ8_aQienZ-1CV10QTFIIf-3DZ4eMO8r0qlz0Z4pX)\n- [note.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbTeA6iYIUj759zAz4TuFk2M-xVDWITtaeJVzW2LQv5NzecJsFPhcJwQaAA8Zi5xLbZwc612hSOVn8dslsMRdTBcPkzl3nBe92apCjs6MhxZi8-y_EUObtOaTraAoG7eCwYckzNjk=)\n- [dd-career.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFycv0mhDuFhCQb5VXE9hkgqzSHnp5t-_AE3-Dle86imFYE3zaN4N0UwNFrE2W_uFZThmRLYbRmkZAm2zTmNyAfosm_cowmagz-zmdvyCqRIKKigKiAwv4qPSg98u7S6hOc30hIw6OHHe5nn6BNWuqe7_o41_ImZKdW5yF8FA==)\n- [neuro-diversity.biz](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHphjfYydZytm23wRFuaeOPrxAHq_ETe2p0Y-hKCcFOOSfZZd7rTUv-dNbPpE3FpszZtoYCEWBsj56Ga4HseEg-LlHYqMP9hP2OwJ-fQ6Ul2RIo3BUyLgjpflBlysgof6QcFtKwx9qw-u9iOg==)\n- [jma.or.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdWcn6Ch17mWwmX0_YXA1beOQHxwxocxRyKyR56XllLorCe586QsxDJaiWVswRoW58RXPEL-RlkG7CNAObpRWA8FSqWP_Uc5um5BPIrjLPZGD_g3vuIAwKecz6ucRyInLPBIJV)\n- [jeed.go.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvlfKoUnLSkeHRHAFVXf6tfH-xJEyirpzr_RUW-hioPcqQhgZTUaHqojxnTIooadzzSztmzNbMztcx20HRXXux0wbyBkpEqSJkO223ewruFsL1Xm6Rn0C1RAHw9YcN_hbPh4tZE6IFLONpCAZZ1usTjp_2fQqgfQ==)\n- [jaish.gr.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcyXgAlW14-dE6gj3MpSHejjZ8F-QCzQ8btbHENj0-nzZP1OPAIs_x3n1CjUF4actsHUkq4PEVRdf42D4DhX8-hPYa0tPJT_ai2gMdiNsRdUDS7oMiYHDwsvTVnSWBaweQIHnbVi7imAo_DZA4BkDvhg==)\n- [johas.go.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCtUUlHh1omVsJY3Q4RKoCYlw_WNC-rAc-tbThZvhC0vxspxHcAV7tq-MPdhUbgH2WRFii_BaKn0N4ny419uXj9GieDv6LlVIO_XyeK1LAfcpJ_BHJZQpc1O7mrSKfmDcCH6Mx2FokrPga270SEGtUn9lXP0PnnW8EFB6pwdyQ_02K)\n- [m3hd.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyUHg2fvwWTQNkFULSpf0hFVQWgCq0C2YloZ4AFSLuKVHuHle6J2Lc_ZefER-2wj-w3ZeZ9IOG1EBupIxjkyB4H31zYBDs_zTGnF2cjTStPlRXTW9fCHJPu_0=)\n- [sampolab-ad.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0u9uW-NIJyKKBgnu_WHg3kwP-R4ksQFFN33JuHRZpStOp-CpfOX1Ix0_BZQfjjfJpPxZCQ-hIStV1YDYbvGcqEHAexIMRxsQ_AP7WHGt7eTUIiz9Bomq0j6y1KfdLneqWtLCgX5YUMmJeOZvnXUr4)\n- [lafool.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXdOHlS5yfQIwLCeRy-vxXl5R1FmXQ1pioHOiV5wrreyWWhOYSTjnUNn-dbJdR1lRIQjzNoZfIT4j4DuEbrhyA2GIlYlSHgQYORLQ4Y1Ope3puaWLNvWcjTU2OYHwSWIV-WKwSudUU3bAdy6GAz5Q=)\n- [sompo-hs.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJi31Q98NBMLnJFPC4p5fFls4DKIGUCfKhTw6zM54h-O76xwZzilacixtdmtPSI5cW0Gd7QdHgaFeznHtwIC1ftRW1Ulqw2AxihDmfKpPlIi5-rbWDurxx46P7lYfHvbZ0dbkfXZ5Cgng1ug==)\n- [jmam.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCR-5IBBB5whPhVDuFkGGjcDhSTtctB3ocQpiOtq-6sbIky-r5munjtBDy7q98euIho6cHDrPIf9_pIp6lMZOYmv0tn6ngIGvFMD3PYel3No5Ji-595W_x6Lm0pfXvvPoBrIL3JGFM8CumW0pLZT5TnNUS-dACPA==)\n- [baizo-kanri.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN3HTr6-RTydvYut2YVlg10nHWe2OACngLJuhVakdp6d5xQ9l8YL1tvMWD_mIP5qQvG9XwsvCUF-eyZGXI2ec44pbVtcb__WOhk5yEUJPh_ZEdWWl-vW4EaI_2aEUMcxo=)\n- [enworld.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrZCfCx1nMmQN-xZS0oZZIo0C4h7oLxOFIn3ISyRA570zKQnZf4YawgnndmxzrnR8LuJBU9r8z0v_22MmO5KPxm_YSKb0Wx6Zre_Sw5uAWEDg6pa6luekZJ2R07NGXHsnOmQOir6Lmm-Q0mwjYUCX9y6ZZ-77hc0UAyi9E-nEJWT3qZKoAybEqOX5XPbfRb9vC0KWbiOp7KcUuNcYXuuZ1xM4XCPlGsj0=)\n- [ldcube.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlb79Rc4f5r-3sc6iqgpSm-crycKBrESDiR7wANU9wzG4R8jwa0tIz-Aeh7cxmBCESsduRK5u_Erp-tbkQMZlDCYxAuhxm-2pGEFxlmDn8WeC6OnJaNQRHjCcVr0VMdtL1HY9c1Cmo9g==)\n- [armg.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBsb0WanQKy4Zop0Jctw8dQmvzaAEEqVebEyu1RFr-8eSxrVhnsuAO5MnsHk5CtR95e62hgqAAD8Tjp3ULHznQzYv8e_brnLPQRHZvnCm5ACa63dYqL5CUuMqTaA==)\n- [globis.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHN_DzybbonxyEPkSR4zyvTvY9osI8_pTFLGxWdIAdDcNyE7lxK1e4pCpa3asA2rW40uRA16O13rvsxIsaURWFGRxmsKMFc7tB5lTZRCcIqVfQWghPM-NrcFObi6pLxf75U4AuVK1Xj2PXeb1SiYvDQVQ3n5XjlVfLb_4L_zsSIXtG-UAGglDFmI-sJrlwSc_Y=)\n- [nbs-noc.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERIOnOXKCRPRB8hQO1Im1lmMP0savLQWRhxUV9qwfU-6JN16dcaGEMUSj2R7nTYPIXnBivxPyWyY1e2iOZEkbdBKKN2oNmMQlgOBmTqQh_QV3Ls94ytjkcK6DXZy7BYuNp)\n- [schoo.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-ZBLEW0kuq-9yDzzyaCxmsE1ml75wFMmAQkhasz8Bhv6PqH6QVcZqRtpoYwePojA24ELOjZd7HHTps-buGS8y_xtG_7fgzP2h2EYYYHg7riPs0i1uZRC4Cg==)\n- [kaien-lab.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP37Yq6iLKKsuydXbSTPRFRGAOQo6e9-rX39787ytNdMWtm3vmcewCg_nfPegdySfuQsDAZx9YWKsCA6tNg7zvkGRl6NJVaKzFkHwZFFKiuUseyWpIvQp-3x7S9yre8dNqKqHgmp7xA94UAMa1V7l8Vg==)\n- [nippon-foundation.or.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHOEs3AI8jrzBHC_sByaNVyQBUcjCzPA5lhkNZXvVJ1gPknh239WWwcprYLhiMCGJ-ba-VfHkDWth7ouk4i5c5QWP1JsmM-TTRYzovWDPso1O-yjE-QVgPf68CIwiY-TVnjla39vYOFEHDa67LAVHP)\n- [meti.go.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzubFN7F409j7vOU6SwPk5dgcwUit_OsrGGR6knFGmNJFBRbQZ6iSgKYIiVFJ1qbFLu3nsz-4u-rqLCjFs_rc-_XV81kJSrQfKoucD-zBJY4orrsJajky8JXlklGKoRpqUpSGy9QEEKpPPSnbyZCyiP2-61SUHnpjxhxTNoNKPnBca7DM5osSw778YA3iJmwdSsjDHbUDK7H_3CiE=)\n- [manabikata-lab.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGW31EmphHD-hJBhfx4UDWrJJPrfNT26DO2tjQ58xabYE_foEUg68GLztXrJfVmleNsQbQUZ7z-2L3hm-7Iizvj6_2hxCSgdmo271Sin45pPdOspQXImyJ4huhA_1jA2Nw6e1BAu4kFV69wyYxUBEb1uDH9A==)\n- [me-gu-ru.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_KMXpuRAGmo6k7LCxpRvEscEskU-FGI-6PckKe8vDz2LXPg82oPxDYA3Z-QEJsu6RVYI-WFR8169hLo-dtM1925XPIzaUW2YEz_OGX7Z8s5QPp2l5XCQ55xukNLw2r4Q=)\n- [humanvalue.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTWEFejz4s-u0ly99vaTrx1rTDXWzt1OzPifXkiWT9XeT433595ut-vfquuDGFuLyJHzYydkQUbRAlqo5sfDXEb4m-NLUNl08NQQn_DhoAz9F7muSZ_xm2SMUDdrgvfmK557xiCP2ZowJukz0unFILr6aLiUi__5RFxBd8)\n- [pasona.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGco1vA-C8L0nJ-eR0Ro6FZppKTGZWG-m97MYUu5zH724W9pGjn_VOphXa09EnjAwPGV1nl0cgJL1bF2e6z1zil4z9bu-EGZzISAnEAh8_UaYzcphDaIxMcxTY2IhWHcK5qT2ZSIksYzwCsRbCrl3AOxqyHexw-FwfKIAwanPtElA==)\n- [konicaminolta.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM_p9-MesraDHS9oPDj9_n8s2HHO4nq4590QF5fLDaAZTFVv-ycorizgf4WCNCccePsSdPH31h7ofFO4LRVLZthxqp5qL3TUxt7_Unxspl1wR4a5GEju1rv5gmNVPpQ61GgdFxDGvNphkAzP-GrcxJ6_wi05FQ5ZAfDfHzr2bfag6s26heTGuDZSWekoGLPZL7sZCiylXTg1IhFgB2iZnhGehuxPt01Wsi)\n- [irischitose.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGu_qjSnju1wovauFKSgsLnazCXHuHRMAivnondO1Vqc_4QWch5WJ9u1zMoxpZ7v_fB_i7vQ4kPW-p1-FXlNpHeM3WEH_Xe8NJ_WjAU2iMkAsmaXXKUuIgJDqUdjaNTBzCP0v4uE2a93qWGJ9TBc-9xdeMVkwFkI0G6JPEjks4=)\n- [jdsa.or.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6X9HNh8166HxQTZJgD8NUunQWAJLpgat53CkCpyw_ldmhi2VKedSIA9mt9qHVAOJ-qtEic1GIt3hXlDjZywC9T7Sf7zvdZg6Zx1L2AAa5i6bAD_degn15)\n- [recurrent.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuBDolL3JZv_WYmwmklSq2uWgRCTGlvluG3_YUihYNIDPF4yRl4JVhftECV7jwAafwhHbgf7fTNNSPBG209bDEUSVYUjzN0RzgAfNABVRoEqQGZpSseIFy8tzKYSTmYwT1SLPnycETj0B5TCmtlBzuUho=)\n- [kotora.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEh7TpSrTzAOoI9GY3CtQ5PmoEBS8bulyZpZ7b-avYlT-xYH06YSjepD1K8YQTrJj8XsTeSLmkx0ov36ixyKRRgCX8UAko38XONYcUSR5EQGVAubyc2xXKSy7LKTfe9ikMvBMVvPuDsi1OcZ8czFZn5GnLNQc4BluYcQUSX-g==)\n- [hipstergate.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFiv0qRpf6vxktaBjzQK5BAhI48v2RQyj_6UT8Ras86lDIutdkR65hOf-A4hwF2ZKsE3WL3CmR34bTN7A3YR-hbF7EsW7llxZiGE3qocZfkhEZvjJHIyGj2Vo3haee45FwtDTJMvQvqTA2PIBFhPUVhfXyiCU=)\n- [persol-group.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7k_EBvFEiyQI2bc1JtbB4GuVJlBW3PjBhS8skrPAGqa7czqAsX0A8o7a6AdGh338RFx6Xxjc5I-ifUOwM3Zr4wuOuoL5L-ZL2-uBgDiSzmTHg01t8miIY2VBZ_SB1B66DJQuIVt48zSa8FpiC4ZrRX09xiKfabMPbhhe3)\n- [doda-x.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL4l1rgb7DCX6icWBqOAsedhaKiFR9gXnKraZHtBbgMbGhEwhiwId47p9iQXLu0IhEZU_3vJjIQB6Z7wbRUPn3VTt9NSlTDPSKzeWryVYK8oPH8Gg84zoJ3w==)\n- [mbit.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbF_3h1nSNkYqlY6YxWozHqv2NU7BgxNS70J17HYl13uL24bjQ0ciPrfPTCqarlyS_WPTdbWkEJBWfOtpF2sta2GGnt2rRgU40bsvMVP8VENSQA2t9npQkBCx_DzQ=)",
+      "userCoreThesis": "** 職場におけるADHD/ASDの課題と支援, メンタルヘルス不調からの復職支援 職場, ニューロダイバーシティ雇用 日本 海外 比較, インクルーシブマネジメントの課題と効果, 多様な働き方に対応する組織文化, 中間管理職のプレッシャーと多様な部下への対応, 日本の障害者雇用促進法 ニューロダイバーシティ, 職場のコミュニケーションギャップ 神経多様性, 職場における心理的安全性と生産性, 日本におけるニューロダイバーシティの現状と課題\n\n- [takeda.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGohkWUWcR4OWN83bAIrZ66c9pq4R7CFBeSnutuoEiXdiZlIBJwCzqnbpDwxmHWPNKq1_c4S29JWA33WSqQ1uEVLkJWO0L70wzkyFr2UHE_K7-Xs-8m057U2UJpTtqQHT7hv5OcNGPNFysAev1Vx79yVN9UNQh4aay6jmkbW0BZHwb4oOs=)\n- [yoakemental.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGntq5vpu8O0dHaTZzXnzXgLXUJZlqE7XAGjhAC4Hj3FSQCZW3pUL7z1CBtTQA7-GVb1XFOADVhbZ0DeUuxcGSMMEwYQ8_aQienZ-1CV10QTFIIf-3DZ4eMO8r0qlz0Z4pX)\n- [note.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbTeA6iYIUj759zAz4TuFk2M-xVDWITtaeJVzW2LQv5NzecJsFPhcJwQaAA8Zi5xLbZwc612hSOVn8dslsMRdTBcPkzl3nBe92apCjs6MhxZi8-y_EUObtOaTraAoG7eCwYckzNjk=)\n- [dd-career.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFycv0mhDuFhCQb5VXE9hkgqzSHnp5t-_AE3-Dle86imFYE3zaN4N0UwNFrE2W_uFZThmRLYbRmkZAm2zTmNyAfosm_cowmagz-zmdvyCqRIKKigKiAwv4qPSg98u7S6hOc30hIw6OHHe5nn6BNWuqe7_o41_ImZKdW5yF8FA==)\n- [neuro-diversity.biz](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHphjfYydZytm23wRFuaeOPrxAHq_ETe2p0Y-hKCcFOOSfZZd7rTUv-dNbPpE3FpszZtoYCEWBsj56Ga4HseEg-LlHYqMP9hP2OwJ-fQ6Ul2RIo3BUyLgjpflBlysgof6QcFtKwx9qw-u9iOg==)\n- [jma.or.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdWcn6Ch17mWwmX0_YXA1beOQHxwxocxRyKyR56XllLorCe586QsxDJaiWVswRoW58RXPEL-RlkG7CNAObpRWA8FSqWP_Uc5um5BPIrjLPZGD_g3vuIAwKecz6ucRyInLPBIJV)\n- [jeed.go.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvlfKoUnLSkeHRHAFVXf6tfH-xJEyirpzr_RUW-hioPcqQhgZTUaHqojxnTIooadzzSztmzNbMztcx20HRXXux0wbyBkpEqSJkO223ewruFsL1Xm6Rn0C1RAHw9YcN_hbPh4tZE6IFLONpCAZZ1usTjp_2fQqgfQ==)\n- [jaish.gr.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcyXgAlW14-dE6gj3MpSHejjZ8F-QCzQ8btbHENj0-nzZP1OPAIs_x3n1CjUF4actsHUkq4PEVRdf42D4DhX8-hPYa0tPJT_ai2gMdiNsRdUDS7oMiYHDwsvTVnSWBaweQIHnbVi7imAo_DZA4BkDvhg==)\n- [johas.go.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCtUUlHh1omVsJY3Q4RKoCYlw_WNC-rAc-tbThZvhC0vxspxHcAV7tq-MPdhUbgH2WRFii_BaKn0N4ny419uXj9GieDv6LlVIO_XyeK1LAfcpJ_BHJZQpc1O7mrSKfmDcCH6Mx2FokrPga270SEGtUn9lXP0PnnW8EFB6pwdyQ_02K)\n- [m3hd.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyUHg2fvwWTQNkFULSpf0hFVQWgCq0C2YloZ4AFSLuKVHuHle6J2Lc_ZefER-2wj-w3ZeZ9IOG1EBupIxjkyB4H31zYBDs_zTGnF2cjTStPlRXTW9fCHJPu_0=)\n- [sampolab-ad.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0u9uW-NIJyKKBgnu_WHg3kwP-R4ksQFFN33JuHRZpStOp-CpfOX1Ix0_BZQfjjfJpPxZCQ-hIStV1YDYbvGcqEHAexIMRxsQ_AP7WHGt7eTUIiz9Bomq0j6y1KfdLneqWtLCgX5YUMmJeOZvnXUr4)\n- [lafool.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXdOHlS5yfQIwLCeRy-vxXl5R1FmXQ1pioHOiV5wrreyWWhOYSTjnUNn-dbJdR1lRIQjzNoZfIT4j4DuEbrhyA2GIlYlSHgQYORLQ4Y1Ope3puaWLNvWcjTU2OYHwSWIV-WKwSudUU3bAdy6GAz5Q=)\n- [sompo-hs.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJi31Q98NBMLnJFPC4p5fFls4DKIGUCfKhTw6zM54h-O76xwZzilacixtdmtPSI5cW0Gd7QdHgaFeznHtwIC1ftRW1Ulqw2AxihDmfKpPlIi5-rbWDurxx46P7lYfHvbZ0dbkfXZ5Cgng1ug==)\n- [jmam.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCR-5IBBB5whPhVDuFkGGjcDhSTtctB3ocQpiOtq-6sbIky-r5munjtBDy7q98euIho6cHDrPIf9_pIp6lMZOYmv0tn6ngIGvFMD3PYel3No5Ji-595W_x6Lm0pfXvvPoBrIL3JGFM8CumW0pLZT5TnNUS-dACPA==)\n- [baizo-kanri.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN3HTr6-RTydvYut2YVlg10nHWe2OACngLJuhVakdp6d5xQ9l8YL1tvMWD_mIP5qQvG9XwsvCUF-eyZGXI2ec44pbVtcb__WOhk5yEUJPh_ZEdWWl-vW4EaI_2aEUMcxo=)\n- [enworld.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrZCfCx1nMmQN-xZS0oZZIo0C4h7oLxOFIn3ISyRA570zKQnZf4YawgnndmxzrnR8LuJBU9r8z0v_22MmO5KPxm_YSKb0Wx6Zre_Sw5uAWEDg6pa6luekZJ2R07NGXHsnOmQOir6Lmm-Q0mwjYUCX9y6ZZ-77hc0UAyi9E-nEJWT3qZKoAybEqOX5XPbfRb9vC0KWbiOp7KcUuNcYXuuZ1xM4XCPlGsj0=)\n- [ldcube.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlb79Rc4f5r-3sc6iqgpSm-crycKBrESDiR7wANU9wzG4R8jwa0tIz-Aeh7cxmBCESsduRK5u_Erp-tbkQMZlDCYxAuhxm-2pGEFxlmDn8WeC6OnJaNQRHjCcVr0VMdtL1HY9c1Cmo9g==)\n- [armg.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBsb0WanQKy4Zop0Jctw8dQmvzaAEEqVebEyu1RFr-8eSxrVhnsuAO5MnsHk5CtR95e62hgqAAD8Tjp3ULHznQzYv8e_brnLPQRHZvnCm5ACa63dYqL5CUuMqTaA==)\n- [globis.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHN_DzybbonxyEPkSR4zyvTvY9osI8_pTFLGxWdIAdDcNyE7lxK1e4pCpa3asA2rW40uRA16O13rvsxIsaURWFGRxmsKMFc7tB5lTZRCcIqVfQWghPM-NrcFObi6pLxf75U4AuVK1Xj2PXeb1SiYvDQVQ3n5XjlVfLb_4L_zsSIXtG-UAGglDFmI-sJrlwSc_Y=)\n- [nbs-noc.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERIOnOXKCRPRB8hQO1Im1lmMP0savLQWRhxUV9qwfU-6JN16dcaGEMUSj2R7nTYPIXnBivxPyWyY1e2iOZEkbdBKKN2oNmMQlgOBmTqQh_QV3Ls94ytjkcK6DXZy7BYuNp)\n- [schoo.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-ZBLEW0kuq-9yDzzyaCxmsE1ml75wFMmAQkhasz8Bhv6PqH6QVcZqRtpoYwePojA24ELOjZd7HHTps-buGS8y_xtG_7fgzP2h2EYYYHg7riPs0i1uZRC4Cg==)\n- [kaien-lab.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP37Yq6iLKKsuydXbSTPRFRGAOQo6e9-rX39787ytNdMWtm3vmcewCg_nfPegdySfuQsDAZx9YWKsCA6tNg7zvkGRl6NJVaKzFkHwZFFKiuUseyWpIvQp-3x7S9yre8dNqKqHgmp7xA94UAMa1V7l8Vg==)\n- [nippon-foundation.or.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHOEs3AI8jrzBHC_sByaNVyQBUcjCzPA5lhkNZXvVJ1gPknh239WWwcprYLhiMCGJ-ba-VfHkDWth7ouk4i5c5QWP1JsmM-TTRYzovWDPso1O-yjE-QVgPf68CIwiY-TVnjla39vYOFEHDa67LAVHP)\n- [meti.go.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzubFN7F409j7vOU6SwPk5dgcwUit_OsrGGR6knFGmNJFBRbQZ6iSgKYIiVFJ1qbFLu3nsz-4u-rqLCjFs_rc-_XV81kJSrQfKoucD-zBJY4orrsJajky8JXlklGKoRpqUpSGy9QEEKpPPSnbyZCyiP2-61SUHnpjxhxTNoNKPnBca7DM5osSw778YA3iJmwdSsjDHbUDK7H_3CiE=)\n- [manabikata-lab.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGW31EmphHD-hJBhfx4UDWrJJPrfNT26DO2tjQ58xabYE_foEUg68GLztXrJfVmleNsQbQUZ7z-2L3hm-7Iizvj6_2hxCSgdmo271Sin45pPdOspQXImyJ4huhA_1jA2Nw6e1BAu4kFV69wyYxUBEb1uDH9A==)\n- [me-gu-ru.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_KMXpuRAGmo6k7LCxpRvEscEskU-FGI-6PckKe8vDz2LXPg82oPxDYA3Z-QEJsu6RVYI-WFR8169hLo-dtM1925XPIzaUW2YEz_OGX7Z8s5QPp2l5XCQ55xukNLw2r4Q=)\n- [humanvalue.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTWEFejz4s-u0ly99vaTrx1rTDXWzt1OzPifXkiWT9XeT433595ut-vfquuDGFuLyJHzYydkQUbRAlqo5sfDXEb4m-NLUNl08NQQn_DhoAz9F7muSZ_xm2SMUDdrgvfmK557xiCP2ZowJukz0unFILr6aLiUi__5RFxBd8)\n- [pasona.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGco1vA-C8L0nJ-eR0Ro6FZppKTGZWG-m97MYUu5zH724W9pGjn_VOphXa09EnjAwPGV1nl0cgJL1bF2e6z1zil4z9bu-EGZzISAnEAh8_UaYzcphDaIxMcxTY2IhWHcK5qT2ZSIksYzwCsRbCrl3AOxqyHexw-FwfKIAwanPtElA==)\n- [konicaminolta.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM_p9-MesraDHS9oPDj9_n8s2HHO4nq4590QF5fLDaAZTFVv-ycorizgf4WCNCccePsSdPH31h7ofFO4LRVLZthxqp5qL3TUxt7_Unxspl1wR4a5GEju1rv5gmNVPpQ61GgdFxDGvNphkAzP-GrcxJ6_wi05FQ5ZAfDfHzr2bfag6s26heTGuDZSWekoGLPZL7sZCiylXTg1IhFgB2iZnhGehuxPt01Wsi)\n- [irischitose.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGu_qjSnju1wovauFKSgsLnazCXHuHRMAivnondO1Vqc_4QWch5WJ9u1zMoxpZ7v_fB_i7vQ4kPW-p1-FXlNpHeM3WEH_Xe8NJ_WjAU2iMkAsmaXXKUuIgJDqUdjaNTBzCP0v4uE2a93qWGJ9TBc-9xdeMVkwFkI0G6JPEjks4=)\n- [jdsa.or.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6X9HNh8166HxQTZJgD8NUunQWAJLpgat53CkCpyw_ldmhi2VKedSIA9mt9qHVAOJ-qtEic1GIt3hXlDjZywC9T7Sf7zvdZg6Zx1L2AAa5i6bAD_degn15)\n- [recurrent.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuBDolL3JZv_WYmwmklSq2uWgRCTGlvluG3_YUihYNIDPF4yRl4JVhftECV7jwAafwhHbgf7fTNNSPBG209bDEUSVYUjzN0RzgAfNABVRoEqQGZpSseIFy8tzKYSTmYwT1SLPnycETj0B5TCmtlBzuUho=)\n- [kotora.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEh7TpSrTzAOoI9GY3CtQ5PmoEBS8bulyZpZ7b-avYlT-xYH06YSjepD1K8YQTrJj8XsTeSLmkx0ov36ixyKRRgCX8UAko38XONYcUSR5EQGVAubyc2xXKSy7LKTfe9ikMvBMVvPuDsi1OcZ8czFZn5GnLNQc4BluYcQUSX-g==)\n- [hipstergate.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFiv0qRpf6vxktaBjzQK5BAhI48v2RQyj_6UT8Ras86lDIutdkR65hOf-A4hwF2ZKsE3WL3CmR34bTN7A3YR-hbF7EsW7llxZiGE3qocZfkhEZvjJHIyGj2Vo3haee45FwtDTJMvQvqTA2PIBFhPUVhfXyiCU=)\n- [persol-group.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7k_EBvFEiyQI2bc1JtbB4GuVJlBW3PjBhS8skrPAGqa7czqAsX0A8o7a6AdGh338RFx6Xxjc5I-ifUOwM3Zr4wuOuoL5L-ZL2-uBgDiSzmTHg01t8miIY2VBZ_SB1B66DJQuIVt48zSa8FpiC4ZrRX09xiKfabMPbhhe3)\n- [doda-x.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL4l1rgb7DCX6icWBqOAsedhaKiFR9gXnKraZHtBbgMbGhEwhiwId47p9iQXLu0IhEZU_3vJjIQB6Z7wbRUPn3VTt9NSlTDPSKzeWryVYK8oPH8Gg84zoJ3w==)\n- [mbit.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbF_3h1nSNkYqlY6YxWozHqv2NU7BgxNS70J17HYl13uL24bjQ0ciPrfPTCqarlyS_WPTdbWkEJBWfOtpF2sta2GGnt2rRgU40bsvMVP8VENSQA2t9npQkBCx_DzQ=)",
+      "bgContextFetched": true
+    }
+  ],
+  "nodes": [
+    {
+      "id": "N_1",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "ADHD/ASD傾向やメンタルヘルス不調からの復職後などの特性を持つ部下は、朝一番の全体ミーティングで情報量が多すぎると頭がフリーズしてしまい、その後の作業に手がつきません。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_2",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "ADHD/ASD傾向やメンタルヘルス不調からの復職後などの特性を持つ部下は、「適宜進めておいて」と言われるのが一番怖く、何が正解かわからず、結局一歩も動けなくなります。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_3",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "ADHD/ASD傾向やメンタルヘルス不調からの復職後などの特性を持つ部下は、マルチタスクを求められると、優先順位が数分おきに脳内で入れ替わってしまい、結局どれも中途半端に終わります。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_4",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "ADHD/ASD傾向やメンタルヘルス不調からの復職後などの特性を持つ部下は、チャットの通知が鳴り止ないと、監視されているような圧迫感を感じて、動悸がしてしまいます。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_5",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "ADHD/ASD傾向やメンタルヘルス不調からの復職後などの特性を持つ部下は、静かな環境なら集中できるのに、オフィスの雑談や電話の音が気になって、通常の3倍の時間がかかってしまいます。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_6",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "ADHD/ASD傾向やメンタルヘルス不調からの復職後などの特性を持つ部下は、指示されたことの「背景」が見えないと、どこまで丁寧にやるべきかの加減がわからず、細部にこだわりすぎてしまいます。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_7",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "ADHD/ASD傾向やメンタルヘルス不調からの復職後などの特性を持つ部下は、体調が悪いと言い出したらもう戦力外通告をされるのではないかと不安で、無理をして自爆してしまいます。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_8",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "ADHD/ASD傾向やメンタルヘルス不調からの復職後などの特性を持つ部下は、1on1で「何か困ってることある？」と聞かれても、何に困っているのかを言語化すること自体に、膨大なエネルギーを使います。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_9",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "ADHD/ASD傾向やメンタルヘルス不調からの復職後などの特性を持つ部下は、マニュアルがない業務は、暗闇を歩いているようで、常に失敗の恐怖と隣り合わせです。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_10",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "ADHD/ASD傾向やメンタルヘルス不調からの復職後などの特性を持つ部下は、みんなが当たり前にできている「空気を読む」議論についていけず、自分が透明人間になったような疎外感があります。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_11",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "中間管理職は、部下にもっと主体的に動いてほしいと考えており、一から十まで指示を待たれると、管理職自身の業務が止まってしまうと感じています。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_12",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "中間管理職は、部下が調子が良さそうに見えたので仕事を任せたのに、期限直前になって「できていません」と言われるのが一番困ると感じています。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_13",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "中間管理職は、チーム全体の生産性を考えると、特定の人だけ特別扱い（マニュアル化や環境整備）をすることは不公平感が出ないか心配だと感じています。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_14",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "中間管理職は、1on1の時間は確保しているのに、部下からいつも「大丈夫です」としか言われず、本音がどこにあるのか掴めないと感じています。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_15",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "中間管理職は、急ぎの案件で部下にチャットを送っても反応が遅いと感じており、テレワークだとサボっているのか悩んでいるのか判別がつかないと悩んでいます。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_16",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "中間管理職は、部下が細かい手順にこだわりすぎて全体のスケジュールが遅れていると感じており、8割の出来でいいから早く出してほしいと考えています。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_17",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "中間管理職は、メンタル面に配慮しすぎて部下に厳しいフィードバックができないと感じており、結果として部下の成長機会を奪っているのではないかと懸念しています。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_18",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "中間管理職は、部下に口頭で伝えたはずのことが伝わっていないと感じており、何度も同じ説明をするのは正直リソースの無駄だと感じています。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_19",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "中間管理職は、組織としては成果を出さなければならないと考えており、個人の特性に寄り添うことと目標達成をどう両立させればいいのか出口が見えないと感じています。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_20",
+      "type": "RAW",
+      "label": "Raw",
+      "content": "中間管理職は、会議では部下にもっと積極的に発言してほしいと考えており、黙っていられると納得しているのか不満があるのか判断がつかないと感じています。",
+      "status": "Archived",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1"
+      ],
+      "weight": 1,
+      "depth": 2
+    },
+    {
+      "id": "N_21",
+      "type": "C",
+      "label": "環境と指示の改善",
+      "content": "ADHD/ASD傾向やメンタルヘルス不調からの復職後などの特性を持つ部下と、中間管理職が共存する現代の職場環境において、企業は部下の生産性向上とメンタルヘルス維持のために、情報過多な会議の改善、具体的で背景を伴う指示、シングルタスクの推奨、通知管理、静かな作業環境の提供、業務マニュアルの整備、および明確なコミュニケーションを徹底すべきである。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_1",
+        "N_2",
+        "N_3",
+        "N_4",
+        "N_5",
+        "N_6",
+        "N_9",
+        "N_10",
+        "N_18"
+      ],
+      "weight": 1,
+      "depth": 1
+    },
+    {
+      "id": "N_22",
+      "type": "C",
+      "label": "心理的安全性構築",
+      "content": "ADHD/ASD傾向やメンタルヘルス不調からの復職後などの特性を持つ部下と、中間管理職が共存する現代の職場環境において、企業は部下が安心して自身の状況を共有し、成長できる機会を提供するために、体調不良の開示を促す心理的安全性の高い文化を醸成し、部下が困り事を言語化しやすい1on1の質問設計や、成長を促す建設的なフィードバック手法を導入すべきである。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_7",
+        "N_8",
+        "N_14",
+        "N_17",
+        "N_20"
+      ],
+      "weight": 1,
+      "depth": 1
+    },
+    {
+      "id": "N_23",
+      "type": "C",
+      "label": "特性配慮と成果両立",
+      "content": "ADHD/ASD傾向やメンタルヘルス不調からの復職後などの特性を持つ部下と、中間管理職が共存し、組織目標達成が求められる現代の職場環境において、企業は個人の特性に寄り添いつつチーム全体の生産性と公平性を確保するために、管理職が部下の主体性を引き出し進捗を早期に把握できる仕組みを構築し、特定の部下への配慮が不公平感を生まずに済むようなガイドラインを策定し、かつ品質とスピードのバランスを明確に指示するトレーニングを提供すべきである。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_11",
+        "N_12",
+        "N_13",
+        "N_15",
+        "N_16",
+        "N_19"
+      ],
+      "weight": 1,
+      "depth": 1
+    },
+    {
+      "id": "N_24",
+      "type": "F",
+      "label": "「見えない障害」を持つ従業員は...",
+      "content": "「見えない障害」を持つ従業員は、体調不良の自己開示による不利益を懸念し、心理的安全性が低い職場では特に困難を抱える。結果として、必要な配慮が提供されず、パフォーマンス低下や離職につながる可能性があるという事実。",
+      "status": "Split",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_22"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 0
+    },
+    {
+      "id": "N_25",
+      "type": "V",
+      "label": "多様な従業員の特性を受容し、そ...",
+      "content": "多様な従業員の特性を受容し、その能力を最大限に活用することの重視。",
+      "status": "Split",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_22"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 0
+    },
+    {
+      "id": "N_26",
+      "type": "E",
+      "label": "従業員が体調不良の開示による不...",
+      "content": "従業員が体調不良の開示による不利益を恐れる不安という感情。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_22"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 0
+    },
+    {
+      "id": "N_27",
+      "type": "F",
+      "label": "ADHD/ASD傾向やメンタル...",
+      "content": "ADHD/ASD傾向やメンタルヘルス不調を持つ従業員は、情報過多な会議で頭がフリーズし作業に支障をきたすなど、不注意、注意力の維持困難、曖昧な指示の理解困難、感覚過敏といった特性により、職場での生産性低下やメンタルヘルス不調の悪化に繋がりやすいという事実。",
+      "status": "Split",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_21"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 0
+    },
+    {
+      "id": "N_28",
+      "type": "V",
+      "label": "従業員一人ひとりの心身の健康を...",
+      "content": "従業員一人ひとりの心身の健康を維持し、それぞれの能力を最大限に引き出すことの重視。",
+      "status": "Split",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_21"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 0
+    },
+    {
+      "id": "N_29",
+      "type": "E",
+      "label": "多様な特性を持つ従業員が共存し...",
+      "content": "多様な特性を持つ従業員が共存し、能力を発揮できる職場環境を構築することへの責任感と、そのための具体的な改善を推進する意欲という感情。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_21"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 0
+    },
+    {
+      "id": "N_30",
+      "type": "F",
+      "label": "中間管理職は、上司からの目標達...",
+      "content": "中間管理職は、上司からの目標達成プレッシャーと部下への育成・配慮という板挟みの状況にあり、多岐にわたる業務、責任の重さ、部下の育成負担など、複合的なストレス要因を抱えているという事実。",
+      "status": "Split",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_23"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 0
+    },
+    {
+      "id": "N_31",
+      "type": "F",
+      "label": "職場におけるニューロダイバーシ...",
+      "content": "職場におけるニューロダイバーシティの認知度は低く、ADHD/ASDの特性を持つ従業員は、不注意、衝動性、スケジュール管理の苦手さ、社会的相互作用の困難さなどにより、職場での困難を抱えやすいという事実。",
+      "status": "Split",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_23"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 0
+    },
+    {
+      "id": "N_32",
+      "type": "F",
+      "label": "特定の従業員への合理的配慮は、...",
+      "content": "特定の従業員への合理的配慮は、隠れた社会的コストを生む可能性があるという事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_23"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 99,
+      "subType": "DATA",
+      "impactScore": 75,
+      "verifyScore": 95,
+      "factReason": "【外部検証済】客観的なエビデンスにより事実として支持されました。（元の判定: 合理的配慮が隠れた社会的コストを生む可能性は、従業員のウェルビーイングと組織の持続可能性の両方に影響を与えるため、影響度は中程度から高め。しかし、この主張を裏付ける具体的なデータや研究は限定的であり、検証は中程度。）",
+      "searchQuery": "reasonable accommodation hidden social costs ADHD ASD mental health return to work",
+      "validationState": "completed",
+      "externalCheck": "checked",
+      "reliability": "high"
+    },
+    {
+      "id": "N_33",
+      "type": "V",
+      "label": "生産性と効率性",
+      "content": "生産性と効率性の重視。",
+      "status": "Split",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_23"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 0
+    },
+    {
+      "id": "N_34",
+      "type": "V",
+      "label": "公平性と公正性",
+      "content": "公平性と公正性の重視。",
+      "status": "Split",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_23"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 0
+    },
+    {
+      "id": "N_35",
+      "type": "V",
+      "label": "従業員の主体性と成長",
+      "content": "従業員の主体性と成長の重視。",
+      "status": "Split",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_23"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 0
+    },
+    {
+      "id": "N_36",
+      "type": "E",
+      "label": "特定の部下への配慮が他の従業員...",
+      "content": "特定の部下への配慮が他の従業員に不公平感を生じさせることへの懸念という感情。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_23"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 0
+    },
+    {
+      "id": "N_37",
+      "type": "E",
+      "label": "多様な特性を持つ部下との共存環...",
+      "content": "多様な特性を持つ部下との共存環境における組織目標達成への責任感と、現状の課題に対する危機感という感情。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_23"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 0
+    },
+    {
+      "id": "N_38",
+      "type": "E",
+      "label": "個人の特性を活かしつつチーム全...",
+      "content": "個人の特性を活かしつつチーム全体の生産性と公平性を確保できる職場環境を実現したいという期待という感情。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_23"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 0
+    },
+    {
+      "id": "N_39",
+      "type": "V",
+      "label": "生産性",
+      "content": "生産性の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_23",
+        "N_33"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_40",
+      "type": "V",
+      "label": "効率性",
+      "content": "効率性の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_23",
+        "N_33"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "isCeiling": true,
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_41",
+      "type": "V",
+      "label": "心身の健康",
+      "content": "心身の健康の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_21",
+        "N_28"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_42",
+      "type": "V",
+      "label": "能力発揮",
+      "content": "能力発揮の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_21",
+        "N_28"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_43",
+      "type": "V",
+      "label": "多様性の尊重",
+      "content": "多様性の尊重の重視。 / 多様な特性の尊重の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_22",
+        "N_25",
+        "N_42",
+        "N_67"
+      ],
+      "weight": 5,
+      "depth": 3,
+      "isCeiling": true,
+      "atomicChecks": 99,
+      "isCriticalSingularity": false,
+      "singularity_score": 35
+    },
+    {
+      "id": "N_44",
+      "type": "V",
+      "label": "能力活用",
+      "content": "能力活用の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_22",
+        "N_25"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "isCeiling": true,
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_45",
+      "type": "V",
+      "label": "従業員の主体性",
+      "content": "従業員の主体性の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_23",
+        "N_35"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_46",
+      "type": "V",
+      "label": "従業員の成長",
+      "content": "従業員の成長の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_23",
+        "N_35"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_47",
+      "type": "V",
+      "label": "公平性",
+      "content": "公平性の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_23",
+        "N_34"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "isCeiling": true,
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_48",
+      "type": "V",
+      "label": "公正性",
+      "content": "公正性の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_23",
+        "N_34"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "isCeiling": true,
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_49",
+      "type": "F",
+      "label": "中間管理職は上司から目標達成を...",
+      "content": "中間管理職は上司から目標達成を強く求められるという事実。 / 中間管理職は上司と部下の間で板挟みとなるという事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_23",
+        "N_30"
+      ],
+      "weight": 3,
+      "depth": 2,
+      "atomicChecks": 99,
+      "subType": "DATA",
+      "impactScore": 75,
+      "verifyScore": 95,
+      "factReason": "【外部検証済】客観的なエビデンスにより事実として支持されました。（元の判定: 中間管理職のプレッシャーと板挟みは、復職後のメンタルヘルスやADHD/ASD傾向を持つ人々にとって、職場復帰の障壁や再発リスクを高める重要な要因となり得るため、影響度は高い。事実は一般的に認識されており、検索による裏付けも容易である。）",
+      "searchQuery": "中間管理職 プレッシャー メンタルヘルス ADHD ASD 復職",
+      "isCritical": true,
+      "validationState": "completed",
+      "externalCheck": "checked",
+      "reliability": "high"
+    },
+    {
+      "id": "N_50",
+      "type": "F",
+      "label": "中間管理職の部下育成・配慮負担",
+      "content": "中間管理職は部下の育成と配慮を担うという事実。 / 中間管理職は部下の育成に負担を感じるという事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_23",
+        "N_30"
+      ],
+      "weight": 3,
+      "depth": 2,
+      "atomicChecks": 99,
+      "smartLabeled": true,
+      "isLabeled": true,
+      "subType": "DATA",
+      "impactScore": 75,
+      "verifyScore": 95,
+      "factReason": "【外部検証済】客観的なエビデンスにより事実として支持されました。（元の判定: 中間管理職の役割と負担は、特に復職支援の文脈で重要であり、多くの情報源で確認できる。しかし、負担の具体的な度合いや原因については、さらなる詳細なデータが必要。）",
+      "searchQuery": "中間管理職 部下育成 負担 メンタルヘルス 復職支援",
+      "isCritical": true,
+      "validationState": "completed",
+      "externalCheck": "checked",
+      "reliability": "high"
+    },
+    {
+      "id": "N_51",
+      "type": "F",
+      "label": "中間管理職は上司と部下の間で板...",
+      "content": "中間管理職は上司と部下の間で板挟みとなるという事実。",
+      "status": "Merged",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_23",
+        "N_30"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_52",
+      "type": "F",
+      "label": "中間管理職の多岐業務による負荷",
+      "content": "中間管理職は多岐にわたる業務を抱えるという事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_23",
+        "N_30"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 99,
+      "smartLabeled": true,
+      "isLabeled": true,
+      "subType": "DATA",
+      "impactScore": 75,
+      "verifyScore": 95,
+      "factReason": "【外部検証済】客観的なエビデンスにより事実として支持されました。（元の判定: 中間管理職の業務負荷の高さは、多くの研究や記事で指摘されており、復職後の支援策を考える上で重要な要素となるため。）",
+      "searchQuery": "中間管理職 業務負荷 多岐",
+      "isCritical": true,
+      "validationState": "completed",
+      "externalCheck": "checked",
+      "reliability": "high"
+    },
+    {
+      "id": "N_53",
+      "type": "F",
+      "label": "中間管理職の重い責任負担",
+      "content": "中間管理職は重い責任を負うという事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_23",
+        "N_30"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 99,
+      "smartLabeled": true,
+      "isLabeled": true,
+      "subType": "VIEW",
+      "impactScore": 75,
+      "verifyScore": 60,
+      "factReason": "中間管理職の責任の重さは一般的に認識されているが、ADHD/ASDや復職後の文脈に限定すると、その影響度を定量化するには追加情報が必要。",
+      "searchQuery": "中間管理職 責任 ADHD ASD 復職 影響"
+    },
+    {
+      "id": "N_54",
+      "type": "F",
+      "label": "中間管理職は部下の育成に負担を...",
+      "content": "中間管理職は部下の育成に負担を感じるという事実。",
+      "status": "Merged",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_23",
+        "N_30"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_55",
+      "type": "F",
+      "label": "見えない障害者の自己開示不利益懸念",
+      "content": "見えない障害を持つ従業員は自己開示の不利益を懸念するという事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_22",
+        "N_24"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 99,
+      "smartLabeled": true,
+      "isLabeled": true,
+      "subType": "DATA",
+      "impactScore": 85,
+      "verifyScore": 95,
+      "factReason": "【外部検証済】客観的なエビデンスにより事実として支持されました。（元の判定: 自己開示の懸念は、見えない障害を持つ従業員の職場での経験に大きな影響を与える可能性があり、多くの研究で裏付けられているため、客観性と影響度が高いと判断しました。）",
+      "searchQuery": "invisible disabilities disclosure concerns workplace",
+      "isCritical": true,
+      "validationState": "completed",
+      "externalCheck": "checked",
+      "reliability": "high"
+    },
+    {
+      "id": "N_56",
+      "type": "F",
+      "label": "低い心理的安全性が増す障害者の困難",
+      "content": "心理的安全性が低い職場は見えない障害者の困難を増すという事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_22",
+        "N_24"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 99,
+      "smartLabeled": true,
+      "isLabeled": true,
+      "subType": "DATA",
+      "impactScore": 75,
+      "verifyScore": 95,
+      "factReason": "【外部検証済】客観的なエビデンスにより事実として支持されました。（元の判定: 心理的安全性の低さが、見えない障害を持つ人々（特にADHD/ASD傾向やメンタルヘルス不調からの復職者）の困難を増幅させるという主張は、多くの研究や経験談で支持されている。しかし、直接的な因果関係の強さや、全てのケースに当てはまるわけではない点を考慮し、影響度と検証度を調整した。）",
+      "searchQuery": "psychological safety workplace invisible disabilities ADHD ASD mental health return to work",
+      "isCritical": true,
+      "validationState": "completed",
+      "externalCheck": "checked",
+      "reliability": "high"
+    },
+    {
+      "id": "N_57",
+      "type": "F",
+      "label": "自己開示困難による配慮提供の阻害",
+      "content": "自己開示の困難は必要な配慮の提供を妨げるという事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_22",
+        "N_24"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 99,
+      "smartLabeled": true,
+      "isLabeled": true,
+      "subType": "DATA",
+      "impactScore": 75,
+      "verifyScore": 95,
+      "factReason": "【外部検証済】客観的なエビデンスにより事実として支持されました。（元の判定: 自己開示の困難が復職支援や配慮提供に影響するという事実は、ADHD/ASDやメンタルヘルス不調からの復職という文脈で重要性が高い。しかし、その影響度合いを定量的に示す研究は限定的である可能性があるため、検証スコアはやや低めとした。）",
+      "searchQuery": "self-disclosure challenges workplace accommodations ADHD ASD mental health return to work",
+      "isCritical": true,
+      "validationState": "completed",
+      "externalCheck": "checked",
+      "reliability": "high"
+    },
+    {
+      "id": "N_58",
+      "type": "F",
+      "label": "配慮不足が招く従業員の生産性低下と離職",
+      "content": "配慮不足は従業員のパフォーマンス低下や離職を招くという事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_22",
+        "N_24"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 99,
+      "smartLabeled": true,
+      "isLabeled": true,
+      "subType": "DATA",
+      "impactScore": 85,
+      "verifyScore": 95,
+      "factReason": "【外部検証済】客観的なエビデンスにより事実として支持されました。（元の判定: 配慮不足がパフォーマンス低下や離職に繋がることは一般的に認識されているが、ADHD/ASDやメンタルヘルスからの復職という文脈に限定した場合、直接的な因果関係の検証には追加情報が必要。）",
+      "searchQuery": "workplace accommodations ADHD ASD mental health return to work performance retention",
+      "isCritical": true,
+      "validationState": "completed",
+      "externalCheck": "checked",
+      "reliability": "high"
+    },
+    {
+      "id": "N_59",
+      "type": "F",
+      "label": "特性による生産性低下とメンタル不調悪化",
+      "content": "ADHD/ASD傾向・メンタル不調者は、特性により生産性が低下するという事実。 / ADHD/ASD傾向・メンタル不調者は、特性によりメンタル不調が悪化するという事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_21",
+        "N_27"
+      ],
+      "weight": 3,
+      "depth": 2,
+      "atomicChecks": 99,
+      "smartLabeled": true,
+      "isLabeled": true,
+      "subType": "DATA",
+      "impactScore": 85,
+      "verifyScore": 95,
+      "factReason": "【外部検証済】客観的なエビデンスにより事実として支持されました。（元の判定: ADHD/ASD特性やメンタル不調が生産性低下や不調悪化に繋がることは、多くの研究や臨床経験で広く認識されている。復職後の文脈では、これらの要因が再発や適応困難に影響する可能性は高い。）",
+      "searchQuery": "ADHD ASD mental health productivity decline worsening symptoms",
+      "isCritical": true,
+      "validationState": "completed",
+      "externalCheck": "checked",
+      "reliability": "high"
+    },
+    {
+      "id": "N_60",
+      "type": "F",
+      "label": "ADHD/ASD傾向・メンタル...",
+      "content": "ADHD/ASD傾向・メンタル不調者は、特性によりメンタル不調が悪化するという事実。",
+      "status": "Merged",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_21",
+        "N_27"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_61",
+      "type": "F",
+      "label": "職場のニューロダイバーシティ認知度の低さ",
+      "content": "職場のニューロダイバーシティ認知度は低いという事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_23",
+        "N_31"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 99,
+      "smartLabeled": true,
+      "isLabeled": true,
+      "subType": "DATA",
+      "impactScore": 75,
+      "verifyScore": 95,
+      "factReason": "【外部検証済】客観的なエビデンスにより事実として支持されました。（元の判定: 職場のニューロダイバーシティ認知度が低いことは、多様な人材の活用やインクルーシブな職場環境の構築において重要な課題であり、影響度は高い。しかし、この事実を裏付ける具体的なデータや調査結果が不足しているため、検証スコアは中程度。）",
+      "searchQuery": "職場のニューロダイバーシティ 認知度 低い 調査",
+      "validationState": "completed",
+      "externalCheck": "checked",
+      "reliability": "high"
+    },
+    {
+      "id": "N_62",
+      "type": "F",
+      "label": "ADHD/ASD特性による職場困難の発生",
+      "content": "ADHD/ASD特性は不注意等により職場困難を抱えやすいという事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_23",
+        "N_31"
+      ],
+      "weight": 1,
+      "depth": 2,
+      "atomicChecks": 99,
+      "smartLabeled": true,
+      "isLabeled": true,
+      "subType": "DATA",
+      "impactScore": 75,
+      "verifyScore": 95,
+      "factReason": "【外部検証済】客観的なエビデンスにより事実として支持されました。（元の判定: ADHD/ASD特性が職場困難に繋がりやすいことは広く認識されているが、文脈が限定的であるため、より広範な検証が必要。）",
+      "searchQuery": "ADHD ASD workplace challenges productivity",
+      "isCritical": true,
+      "validationState": "completed",
+      "externalCheck": "checked",
+      "reliability": "high"
+    },
+    {
+      "id": "N_63",
+      "type": "V",
+      "label": "組織や社会が経済的に豊かであり...",
+      "content": "組織や社会が経済的に豊かであり、持続的に発展している状態の重視。",
+      "status": "Split",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_39"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "atomicChecks": 0
+    },
+    {
+      "id": "N_64",
+      "type": "F",
+      "label": "生産性向上による組織の経済的成果最大化",
+      "content": "生産性が向上することで、組織の経済的成果が最大化されるという事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_39"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "atomicChecks": 0,
+      "smartLabeled": true,
+      "isLabeled": true,
+      "subType": "LOGIC",
+      "impactScore": 85,
+      "verifyScore": 70,
+      "factReason": "生産性向上と経済的成果の最大化は一般的に相関があるが、直接的な因果関係や他の要因（市場、競争など）の影響度合いは文脈に依存するため、完全な客観性には欠ける。しかし、組織運営における重要な原則であるため影響度は高い。",
+      "searchQuery": "生産性向上 経済的成果 相関関係",
+      "isCritical": true
+    },
+    {
+      "id": "N_65",
+      "type": "V",
+      "label": "個人のウェルビーイングの重要性の重視",
+      "content": "個人のウェルビーイングの重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_41"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "atomicChecks": 99,
+      "isCeiling": true,
+      "smartLabeled": true,
+      "isLabeled": true
+    },
+    {
+      "id": "N_66",
+      "type": "F",
+      "label": "心身の健康がもたらす生活の質と幸福感",
+      "content": "心身の健康が個人の生活の質と幸福感を高めるという事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_41"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "atomicChecks": 0,
+      "smartLabeled": true,
+      "isLabeled": true,
+      "subType": "DATA",
+      "impactScore": 95,
+      "verifyScore": 98,
+      "factReason": "心身の健康は、個人の生活の質と幸福感に直接的かつ広範な影響を与える普遍的な真実であり、多くの研究によって裏付けられている。",
+      "searchQuery": "心身の健康と生活の質幸福感の関係性 研究",
+      "isCritical": true
+    },
+    {
+      "id": "N_67",
+      "type": "V",
+      "label": "個々の多様な特性や潜在能力を認...",
+      "content": "個々の多様な特性や潜在能力を認め、その価値を尊重することの重視。",
+      "status": "Split",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_42"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "atomicChecks": 0
+    },
+    {
+      "id": "N_68",
+      "type": "F",
+      "label": "能力発揮による尊厳・自己肯定感と個の尊重",
+      "content": "個人の能力発揮は、その人の尊厳と自己肯定感を高め、個の尊重を促進するという事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_42"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "atomicChecks": 0,
+      "smartLabeled": true,
+      "isLabeled": true,
+      "subType": "DATA",
+      "impactScore": 85,
+      "verifyScore": 90,
+      "factReason": "個人の能力発揮が尊厳や自己肯定感に与える影響は、心理学や社会学の分野で広く支持されている一般的な見解であり、多くの研究や理論によって裏付けられているため、客観性と影響度が高いと判断しました。",
+      "searchQuery": "能力発揮 尊厳 自己肯定感 心理学",
+      "isCritical": true
+    },
+    {
+      "id": "N_69",
+      "type": "V",
+      "label": "個人の自律性の尊重と重要性の重視",
+      "content": "自律の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_45"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "atomicChecks": 99,
+      "isCeiling": true,
+      "smartLabeled": true,
+      "isLabeled": true
+    },
+    {
+      "id": "N_70",
+      "type": "F",
+      "label": "従業員の主体性重視による個人の自律育成",
+      "content": "従業員の主体性の重視が個人の自律を育むという事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_45"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "atomicChecks": 0,
+      "smartLabeled": true,
+      "isLabeled": true,
+      "subType": "DATA",
+      "impactScore": 75,
+      "verifyScore": 80,
+      "factReason": "従業員の主体性の重視は、個人の自律性を育むという一般的な認識と多くの研究によって裏付けられているため、客観性と影響度が高い。ただし、文脈が限定的であるため、さらなる検証が必要。",
+      "searchQuery": "employee autonomy and empowerment research",
+      "isCritical": true
+    },
+    {
+      "id": "N_71",
+      "type": "V",
+      "label": "各個人が持つ未開発の能力や可能...",
+      "content": "各個人が持つ未開発の能力や可能性を最大限に引き出し、発揮させることの重視。",
+      "status": "Split",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_46"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "atomicChecks": 0
+    },
+    {
+      "id": "N_72",
+      "type": "F",
+      "label": "知識・スキル習得による潜在能力の最大限発揮",
+      "content": "従業員が新たな知識やスキルを習得し、経験を積むことで、個々人が持つ未開発の能力や可能性が引き出され、最大限に発揮されるという事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_46"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "atomicChecks": 0,
+      "smartLabeled": true,
+      "isLabeled": true,
+      "subType": "DATA",
+      "impactScore": 90,
+      "verifyScore": 85,
+      "factReason": "従業員の成長は、個人の能力開発と組織全体のパフォーマンス向上に直結するため、影響度は高い。この事実は、多くの人事・組織開発の文献で裏付けられている。",
+      "searchQuery": "従業員成長 能力開発 組織パフォーマンス 関係性",
+      "isCritical": true
+    },
+    {
+      "id": "N_73",
+      "type": "V",
+      "label": "多様な特性の尊重",
+      "content": "多様な特性の尊重の重視。",
+      "status": "Merged",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_42",
+        "N_67"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_74",
+      "type": "V",
+      "label": "個人の潜在能力の尊重と重視",
+      "content": "潜在能力の尊重の重視。 / 潜在能力の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_42",
+        "N_67",
+        "N_46",
+        "N_71"
+      ],
+      "weight": 5,
+      "depth": 3,
+      "atomicChecks": 99,
+      "smartLabeled": true,
+      "isLabeled": true,
+      "isCriticalSingularity": true,
+      "singularity_score": 60
+    },
+    {
+      "id": "N_75",
+      "type": "V",
+      "label": "組織と個人の経済的豊かさの重視",
+      "content": "経済的豊かさの重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_39",
+        "N_63"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "isCeiling": true,
+      "atomicChecks": 99,
+      "smartLabeled": true,
+      "isLabeled": true
+    },
+    {
+      "id": "N_76",
+      "type": "V",
+      "label": "組織と社会の持続的発展の重視",
+      "content": "持続的発展の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_39",
+        "N_63"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "isCeiling": true,
+      "atomicChecks": 99,
+      "smartLabeled": true,
+      "isLabeled": true
+    },
+    {
+      "id": "N_77",
+      "type": "V",
+      "label": "潜在能力",
+      "content": "潜在能力の重視。",
+      "status": "Merged",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_46",
+        "N_71"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_78",
+      "type": "V",
+      "label": "個人の潜在的可能性の発揮の重視",
+      "content": "可能性の重視。",
+      "status": "Active",
+      "checkCount": 1,
+      "derive": [
+        "SRC_1",
+        "N_46",
+        "N_71"
+      ],
+      "weight": 1,
+      "depth": 3,
+      "atomicChecks": 99,
+      "smartLabeled": true,
+      "isLabeled": true
+    },
+    {
+      "id": "N_79",
+      "type": "V",
+      "label": "個々人の固有の価値と権利を尊重...",
+      "content": "個々人の固有の価値と権利を尊重することの重視。",
+      "status": "Split",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_74"
+      ],
+      "weight": 1,
+      "depth": 4,
+      "atomicChecks": 0,
+      "isCeiling": true
+    },
+    {
+      "id": "N_80",
+      "type": "F",
+      "label": "潜在能力尊重と個人の尊厳の重視",
+      "content": "潜在能力の尊重が個人の固有の価値を認め、尊厳を育むという事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_74"
+      ],
+      "weight": 1,
+      "depth": 4,
+      "atomicChecks": 0,
+      "isCeiling": true,
+      "smartLabeled": true,
+      "isLabeled": true,
+      "subType": "DATA",
+      "impactScore": 85,
+      "verifyScore": 90,
+      "factReason": "潜在能力の尊重が個人の尊厳と価値に直接結びつくという事実は、心理学、教育学、倫理学の分野で広く受け入れられており、その影響は大きい。検証も比較的容易である。",
+      "searchQuery": "potential respect individual dignity value psychology ethics",
+      "isCritical": true
+    },
+    {
+      "id": "N_81",
+      "type": "V",
+      "label": "個人の能力向上への意欲の重視",
+      "content": "向上心の重視。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_78"
+      ],
+      "weight": 1,
+      "depth": 4,
+      "atomicChecks": 99,
+      "isCeiling": true,
+      "smartLabeled": true,
+      "isLabeled": true
+    },
+    {
+      "id": "N_82",
+      "type": "F",
+      "label": "個人の潜在能力発揮と組織成長の重視",
+      "content": "個人の潜在能力を信じ、その発揮を促すことが、組織の成長とイノベーションを促進するという事実。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_78"
+      ],
+      "weight": 1,
+      "depth": 4,
+      "atomicChecks": 0,
+      "isCeiling": true,
+      "smartLabeled": true,
+      "isLabeled": true,
+      "subType": "DATA",
+      "impactScore": 85,
+      "verifyScore": 70,
+      "factReason": "個人の潜在能力の発揮が組織成長に繋がるという考えは、多くの経営学や心理学の分野で支持されており、影響力は大きい。しかし、その因果関係の直接性や定量的な証明には、文脈依存性や測定の難しさがあるため、検証スコアは中程度。",
+      "searchQuery": "employee potential development organizational growth innovation",
+      "isCritical": true
+    },
+    {
+      "id": "N_83",
+      "type": "V",
+      "label": "個人の固有の価値の尊重の重視",
+      "content": "個人の価値尊重の重視。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_74",
+        "N_79"
+      ],
+      "weight": 1,
+      "depth": 4,
+      "isCeiling": true,
+      "atomicChecks": 99,
+      "smartLabeled": true,
+      "isLabeled": true
+    },
+    {
+      "id": "N_84",
+      "type": "V",
+      "label": "個人の基本的な権利の尊重の重視",
+      "content": "個人の権利尊重の重視。",
+      "status": "Active",
+      "checkCount": 0,
+      "derive": [
+        "SRC_1",
+        "N_74",
+        "N_79"
+      ],
+      "weight": 1,
+      "depth": 4,
+      "isCeiling": true,
+      "atomicChecks": 99,
+      "smartLabeled": true,
+      "isLabeled": true
+    },
+    {
+      "id": "V_SUST",
+      "type": "UV",
+      "label": "持続可能性",
+      "content": "持続可能性の追求",
+      "status": "Active",
+      "checkCount": 99,
+      "depth": 5
+    },
+    {
+      "id": "V_WLTH",
+      "type": "UV",
+      "label": "富/資産",
+      "content": "富/資産の追求",
+      "status": "Active",
+      "checkCount": 99,
+      "depth": 5
+    },
+    {
+      "id": "V_EQAL",
+      "type": "UV",
+      "label": "平等/公平",
+      "content": "平等/公平の追求",
+      "status": "Active",
+      "checkCount": 99,
+      "depth": 5
+    },
+    {
+      "id": "V_JUST",
+      "type": "UV",
+      "label": "正義/規範",
+      "content": "正義/規範の追求",
+      "status": "Active",
+      "checkCount": 99,
+      "depth": 5
+    },
+    {
+      "id": "V_EFFI",
+      "type": "UV",
+      "label": "効率/合理",
+      "content": "効率/合理の追求",
+      "status": "Active",
+      "checkCount": 99,
+      "depth": 5,
+      "isCriticalSingularity": true,
+      "singularity_score": 60
+    },
+    {
+      "id": "V_PROG",
+      "type": "UV",
+      "label": "進歩/革新",
+      "content": "進歩/革新の追求",
+      "status": "Active",
+      "checkCount": 99,
+      "depth": 5
+    },
+    {
+      "id": "V_IDEN",
+      "type": "UV",
+      "label": "独自性/個",
+      "content": "独自性/個の追求",
+      "status": "Active",
+      "checkCount": 99,
+      "depth": 5,
+      "isCriticalSingularity": true,
+      "singularity_score": 60
+    },
+    {
+      "id": "V_HOPE",
+      "type": "UV",
+      "label": "希望/可能性",
+      "content": "希望/可能性の追求",
+      "status": "Active",
+      "checkCount": 99,
+      "depth": 5
+    },
+    {
+      "id": "V_DIGN",
+      "type": "UV",
+      "label": "尊厳/誇り",
+      "content": "尊厳/誇りの追求",
+      "status": "Active",
+      "checkCount": 99,
+      "depth": 5,
+      "isCriticalSingularity": true,
+      "singularity_score": 60
+    },
+    {
+      "id": "N_FC_1",
+      "type": "F",
+      "subType": "EVIDENCE",
+      "label": "メンタル不調と発達障害特性による生産性低下およびメンタルヘルス悪化",
+      "content": "2025年の横浜市立大学大学院と産業医科大学の共同研究によると、働く人が「気分が沈む」「眠れない」といった心身の不調を抱えながら仕事を続けることで、日本全体で年間およそ7.6兆円の経済的な損失が生じており、これは日本のGDPの1.1%に相当します。また、2025年のSanpo Naviの報告では、ADHD/ASDなどの発達障害の特性により、職場環境への不適応や業務遂行の困難からストレスを抱え、意欲低下、体調不良、遅刻・欠勤の増加につながり、さらにはうつ病や不安障害などの二次障害や精神疾患の悪化につながる可能性が指摘されています。2025年のCareNetの縦断研究では、自閉症スペクトラム特性および注意欠如・多動性障害（ADHD）特性が高く努力制御が低い生徒は、小中学校移行期においてメンタルヘルスの問題がより深刻になることが示されています。",
+      "dataSource": "### 🔍 Data Sources (Web Search Reference)\n**Queries:** ADHD ASD 生産性低下 職場 データ, メンタル不調 生産性低下 職場 データ, ADHD ASD メンタルヘルス悪化 関係性, 発達障害 メンタルヘルス 職場 課題, 精神疾患 生産性 影響 調査\n\n- [uoeh-u.ac.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbjs8JHs6OsAyWxqPcE53_BXye2wLkds70qrFeLkT50wM5Rc_Pq6LqAAgSxOygvpqn7qJ5tac6FvzEjluwFAtksBKYqROcUKJ6HMVlbCwnXjWWCoc0-f03l8DJeS16aQBYlXHeSyGGEFIdSxaKysUs6AW2_uRf302jA2LKlow=)\n- [yokohama-cu.ac.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPuV1FWSN9ps8hGfPtR7AFeLnqOt7neWHMhiPgJfcmHx_JjOUZO8T6I1bnlE9yubI2vR0gzgzsAAwvsroAxC585RyLZha8DXActTCf8u-nSNm7cAsNo0sWeZZe-8CEidk97YsvQeovUeu4xEYtRlkQdeAv5w==)\n- [himan.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnqhSrGx63RvsZBNv-0U-VtBb8mW21eVEhzjiTVHty33PTEF-awyQcDflWg__xnCcXWf5p9Nv01h7W4DaMvyFNjKVyfVoTwD41AyG9GfC1ez0suzHn1WJCCvm4ZYaBpBCm)\n- [sanpo-navi.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRi_MOt4jIUCiHf_GA_U8i4a-U7omUoAk7Evp1mqF0YZlJNb2vhf9SkVNgtO7S9EsRPQVhYyVXfipw0lk1tmMYimvXIEgNrjj3WrA_4ttsLSluLgxwV0n_igJv9rSnj_wqxOcgciAYse9gp3zJs7ZSMqBKWk6XGhztzzc=)\n- [spool.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECOlTeGr0tuNBltqH4UcArhKxk26ssd2c1FTefyNPfYYiVW_eKRmbnD38EsP_PRbxepOtH4m9bpnfSBZjEapJYTEKi0OBC2-3KyQTNKD1kK6IFzzEfLudUZ0sSQJePrg-_GzppPmeZnAt2qIVu5z3RNUM=)\n- [carenet.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx40UPZ241tIk2Jn4lvwSfNMwJYPh-3FpXN1SMgLRzmaID_MxX8G81dHKJKoNTBQ6dTLvjfUL2e3EW9HxG7QF1frMK6zY9OxvC6Moj13U8CKDEoE_gmlqUbead_qSxziuP8H1zQkdlcGJYP_jC4ufKXGt7jcpbfuBYbh5o2GpVNvhWNFgEyl0=)\n",
+      "status": "Active",
+      "derive": [
+        "N_59"
+      ],
+      "depth": 3,
+      "verifyScore": 100,
+      "dataYear": "",
+      "dataInstitution": "",
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_FC_2",
+      "type": "F",
+      "subType": "EVIDENCE",
+      "label": "心理的安全性とメンタルヘルス不調が従業員のパフォーマンス低下および離職率に与える影響",
+      "content": "2025年のGallupの調査データによると、職場で自分の意見が尊重されていると強く感じている社員の割合を30%から60%に引き上げることができれば、離職率が27%減少し、生産性が12%向上する可能性があると試算されています。また、Googleの「プロジェクト・アリストテレス」では、チームの成功を左右する最大の要因が「心理的安全性」であり、心理的安全性が高いチームほど離職率が低く、高い業績を上げることが判明しています。さらに、2024年のパーソル総合研究所の調査では、過去3年以内に治療なしでは日常生活が困難なほどのメンタルヘルス不調を経験した正規雇用者のうち、25.3%が勤務先を退職していると報告されており、メンタルヘルス不調が離職に直結する事実が示されています。",
+      "dataSource": "### 🔍 Data Sources (Web Search Reference)\n**Queries:** 配慮不足 従業員 パフォーマンス低下 離職, 心理的安全性 従業員 パフォーマンス 離職率, 職場環境 メンタルヘルス パフォーマンス 離職率, 上司の配慮不足 従業員への影響, 心理的安全性 企業業績 離職率 データ\n\n- [note.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGC6JWCgD6XQ9ieBhJB1tO45yWKcpoe1cUapW5gkpeAR6YsDOw5-OyRnJ7mwM31c87qXGk_i9OSjqi-aP_WgxOOdoz3OR35xW2FDRgaWqz9vpbgQ9al6zgjPZ2Rqfwn3Gg8zBWD5QJm)\n- [unipos.me](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZwyBiRJU6_ArHNqnUPn2RYwTdLV5x9Ojv9w19w3bCQ9xRCYhCKXaRO5QaIPZ04AswSlApXQpSsqelSejYpFWNAJeBB0u5pnTCFHKO2t6UnB36b59f2C8uJl3HOq_vOD_Tj9eSknQagLFU0PHKUA==)\n- [commune.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwRVtKvQnnoyo4CNrzKK0ZPXeIhLgpgxRWmquVZ1mPwBUJN9xe2afXzTfQI2C7N8OsNJAMG06CWNqb6v1jS3HepRFui538vd5wFJvAP62TsJudTZD11yclEDrxdS0QeKQnYqADw1UMkNIgdpZDJ3Egs5r5-WnD5g==)\n- [offi-stretch.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDtnFbKmzuVdq74-wZ3LwkIEVaehdL6T47M29-IgKe40jHMZMDrp-KCCB3iQPMSZuQD5M0-OtTpcscckKJPw0crN70FlsTa_JsVNQLSZPWUZWQvhu4D40cN_b1bBF9Q1qd_q1fmXhRn8-ilPHpEZTNRjVHn4_keA==)\n",
+      "status": "Active",
+      "derive": [
+        "N_58"
+      ],
+      "depth": 3,
+      "verifyScore": 100,
+      "dataYear": "",
+      "dataInstitution": "",
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_FC_3",
+      "type": "F",
+      "subType": "EVIDENCE",
+      "label": "職場での見えない障害の自己開示に伴う不利益への懸念",
+      "content": "2021年から2026年にかけての就労支援機関や専門家による情報によると、発達障害や精神疾患などの見えない障害を持つ従業員は、職場での自己開示に関して、偏見や差別を受けるリスク、昇進・昇給の機会の減少、給与・待遇の低下、プライバシー侵害の懸念、特別扱いされることへの抵抗、そして自身の障害が正しく理解されないことによる心理的負担などの不利益を強く懸念している。",
+      "dataSource": "### 🔍 Data Sources (Web Search Reference)\n**Queries:** 見えない障害 職場 自己開示 不安, 発達障害 職場 自己開示 デメリット, 精神疾患 職場 自己開示 懸念, 障害者雇用 自己開示 リスク, 見えない障害 職場 カミングアウト 課題, 障害者 職場 自己開示 メリット デメリット\n\n- [dd-career.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGX5mpwjI6yAXHHfd7bgn89IAQeB8A0HZ9ZwUrajhIewogkw13gFtiSSNwQqlkM9NtCqKZky-F5sR2jWjLp5nSDEkxKXl_bkV2nSjx4ho_7w5tT5FW-42AVToBZZsZB1o-4hdK3hMXFaYY=)\n- [coconala.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFA4Y65RJyTAhe9vMQfWYx5wC7PWe7ql-KsO5eg1CDZ1MxKsExXk81CVtWGvCDtmjaadqEnj1CaJCAxALXmp4-B8B60tBfnb0YHeL0wQZuyXJfskaAuhsnN7AwAj16fq3Em758)\n- [luminoso-jp.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhOQ5nGby6B1n_bgJ7Q-CILpZEF9NFOBKBpAN5iVUqbI3UhTvo77L0wOC0YzoH9PvUcXFkLrR0Um0p-qFsklNPbj-e-CV7V_vTzhErEqwbNoPaLoQJI5OSfPVQnQ==)\n- [dd-career.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-jHXgrEoZR3wGfiPvBETfBmYq1pavKFXSpGL_k35zjBU1KbUnhqggDbJfx8AolgtwqUSOqk-A4nW1zBaky945XkndOQAVHLPyDCDRAK20yibdfRtAOzKgWDqxNnE7DUHDiW-AknJSlDh7AZRqLcWjwIusV28dnuImPcm1iofdXQPOWGFpfPefPGn0gS8F6VrtbXJBIA==)\n- [syougaisya-koyou.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2yfnaIXJrDGlB1kZOkijZcQqZgny3bzC4DCGMOvciXP6ketfqgfD7rdpSGmhPa9O8F7YgKGRXdCJ1lnIX0daTVhn-bQhVrUjrfSR1xmxLXbiRYiLcuE79RTKEHqMCknG0dcBwjQ==)\n- [intellect.co](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjZ63s6LU21J1_y2Br-YReCdNN9NL1iMvgQVRbraqy9JWS4zIdgfx7oG2rX5_ZrF8cYs6w9F9u6YA4LONtYbzFcP8OdyW8xkDA5gnFern8s5cdjXJe3jIBN7211OoX4Zzkf4VdnrJpp5KLqLcuf6_gW0sXgg==)\n- [shohgaisha.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWx-19hP9m2hfVRgBEeLRRBASJbQM_LXqFCaXXi0b74U0eZhn3C0sDW4EOseZee94dYbC0VqKRnpYSbOfBiQ2o_BO0yUFnXH_nyNp_idfjFYc8ZF93eVEGjTCqg1gXpQ6Jk1dHgC8AlZ1HStprUXDA)\n- [degi-ca.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCZ0d6HYufjBpU9mLg2veJbEtkhmP66VWOh8zGdrjpo4IgcRaKDTA9kjH-HjyMRGhoxar0FhpTNts9aaLaS5kI3a3P772qVee-WJI0uxejMTu_YN8XjP0aWPKaGQ==)\n- [note.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe8Xpx83a33Osp9DWSxsmTkIt_PKtm8yDwdJq3-uzZRkdgseQSkV6dnj6S4SlkEmPr0D592Sp04W3vGaaEavcr3f3GW5kSPgrllNDIPVD7sQl_cO26545kfngkSZfylDZ3r20zMnMR)\n- [nagoya-hidamarikokoro.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8nYD3lkirUg-I65eNsO7KhmeQGFHlttLXxs6zXr74IJ5KaUGgTqGsU2pofX1OOwSFE5yK4mgI1GG-mU3jRcqYZFEkBZIbPCrZXqTORTmwu79DKxqTI4upi0lwEy93w2piG_VUyOQ4weOjaY0OER-e0A7PVyDkOAymTQ==)\n- [snabi.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbAiiOAmF2Az-zPnZnDkC-mO0kdvPkp3yWDuVCYrhtqpBvlZrqKttjNUCUk7yhtnPBc6Sn2Tctl49XBsBEjELtYnkxuXyB3yWFeWKlyAkC-3X0M6BXClA=)\n- [syuro-olive.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDeqknRVDuiKfyuaNfyOrRITGusvHc-ahr0wSeLx3Nh5eTl1dJcp3ARBFHgtEHWDAJICTbPBKtW2hO-k95QOmFTFXazvynXNI7FCWegnW7fhmtvAohOgwBUq_vgYThHYR0Kd1XvuwKJTE=)\n- [hatoraku.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ3FEhbh6L9mJKF4efQMG5u5ogb7rZjpIlKlhOK-RrzTWK_9CI_kLOv-lbB5ezjha13GG1LDP388KzSlUtRiUlTm6dTS07ZA-BmLchYG0sfbiONNe2wx2uMQ==)\n- [note.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEe8s2ernTF-LtlPG3OvobmJbfn0KOoAqJv2kxk8GiVRnTqr5rFEuwlx4Ey-KN2xZXEyvS2n_7YOjnSi9xATBzVwzpe7lce63yUp-wioWtU-Mmj1YpqSXBVPMJZX6U_UR-HFL8=)\n",
+      "status": "Active",
+      "derive": [
+        "N_55"
+      ],
+      "depth": 3,
+      "verifyScore": 100,
+      "dataYear": "",
+      "dataInstitution": "",
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_FC_4",
+      "type": "F",
+      "subType": "EVIDENCE",
+      "label": "職場における自己開示の困難と合理的配慮への影響",
+      "content": "2025年のパーソル総合研究所の調査によると、20代若手社員の約7割がメンタルヘルス不調を職場に相談することに抵抗を感じており、その背景には「相談したら自身の評価・評判が下がる」という懸念がある。また、2023年のワークリアの調査では、精神・発達障がい者の半数以上が障がいを開示せずに就業経験があり、オープン就労へのネガティブなイメージや不利益な影響が指摘されている。これらの自己開示の困難は、必要な合理的配慮の提供を妨げる要因となる。例えば、2018年の研究では、精神障害者の「障害の非開示による不安」が、相談できず支援もないために職場定着を困難にすることが示されている。厚生労働省も、障害のある方が自身の特性や希望する配慮を事業主等に伝えやすくするための情報共有ツール「就労パスポート」を作成しており、自己理解と情報伝達の重要性を強調している。",
+      "dataSource": "### 🔍 Data Sources (Web Search Reference)\n**Queries:** 自己開示 困難 職場 支援 障害, 精神疾患 職場 自己開示 支援 阻害, 発達障害 職場 自己開示 配慮 課題, 職場 心理的安全性 自己開示 メリット, 企業 障害者雇用 自己開示 課題, 厚生労働省 精神障害者 職場 自己開示\n\n- [persol-group.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgLy0PBPUorXNttPix6Qpf9aU8DZNd7kRpamCpF83fESO_yU0WECh5w1xR-D5noPftrCzUMwxfXrzhM1MYqdXi0Z76aqDXDXzP_7zqVpAybgf1679P1rDKfAY0Rk7QYt1Y669nHMlyaYTj6Rn8qcKuSPUg8zgZfgppElglViNn588=)\n- [prtimes.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZhbjMcTRb1eHTU5wDm_8XGOt8jkgRNRthOvwA6iWGweqt9GLKPbOapjgW4XFc6YtsNyz7Q33TMk21ghdTcTf9SmXNmCT7BnxVTvuX-fl3KmXNk_cha10tdH_y4CpBFqN1MIevcUKvsmMp3DnPSK2ouokUwHg=)\n- [nii.ac.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcup5yr9_XdXlmddszvG_olCLX4CxvaiQqy_Jgp0HT_8AxtUiBGj7jKJz0otrsdjht-7GueXx_DuBJ5tOjmoUFK7Atsb7yTi-sQFNxn0WusDxF3aYphQEfTb_i2MGqIBgEHUQBaRjf7zNg5YckF7F_VTI6R3kM9QL0RPdQ_rO-sMO-aYp-4S6PfIIVAe6InJICtFZRQCgFhgKaKQ==)\n- [mhlw.go.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF8qDrPcTaXMycOvABhvZkw07ZaAHu60Qu-QM8fBOg5PVR08fLVuYd3IABFUAMUQmxNdPcN22W6qQWAKM-gT2ZOhsfkW4kGs_bBzsmbZJ6JvyKy7jtj9wuDNHoZA4yXXJ-WZo-BYlZKgTYAVDcxtFJb8AVE11LzlesKPB5X4jV6VLKwGUl)\n",
+      "status": "Active",
+      "derive": [
+        "N_57"
+      ],
+      "depth": 3,
+      "verifyScore": 100,
+      "dataYear": "",
+      "dataInstitution": "",
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_FC_5",
+      "type": "F",
+      "subType": "EVIDENCE",
+      "label": "心理的安全性の低さが見えない障害者の困難と離職率を増大させる",
+      "content": "2025年の障害者職業総合センターの調査研究によると、精神障害のある方の就職後1年時点の定着率は49.3%と低く、約半数が1年以内に離職している状況です。2025年および2026年の複数の調査・研究によると、心理的安全性が低い職場では、従業員が「無知だと思われる不安」「無能だと思われる不安」「邪魔をしていると思われる不安」「ネガティブだと思われる不安」といった4つの不安を抱え、質問や意見表明を控える傾向があります。これは特に、発達障害や精神障害といった見えない障害を持つ従業員が、自身の特性や必要な合理的配慮について開示し、支援を求める上での困難を増大させます。心理的安全性の低い環境は、従業員のモチベーション低下、パフォーマンスの悪化、問題への対応遅延、メンタルヘルス不調の増加、ひいては離職率の上昇につながると指摘されています。精神疾患からの復職者にとっては、再発防止のためにも心理的安全性の高い職場環境が不可欠です。",
+      "dataSource": "### 🔍 Data Sources (Web Search Reference)\n**Queries:** 心理的安全性 見えない障害 職場 困難, 発達障害 精神障害 職場 心理的安全性 課題, 心理的安全性 障害者雇用 効果, 職場における発達障害者の困難 心理的安全性, 精神疾患からの復職 心理的安全性 職場環境, 障害者雇用 職場環境 課題 調査\n\n- [tmj.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPTG_OtBkgd0f16_CiDwUiPDI_XOHONh2tkrz4k5gAdRbZoxyaQcmIB_DA0XOi66LiaFxMABuwumpD0EkQIf5v0M6sev-ovdAsWR4_xo7fcqBSkEZsMA8DlkaSVg5oca6sYAZgBvzTHy4=)\n- [parkstyle.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYHWRBXJyNwnAQcmmktKMt90S9Fc2GdZjMFcKupK24bz6aAXQ8vepWNHJ8nfX7Ho-G_VDXGA1bBq8_cx4KQjj7xIYAR3cy8NiF_H-onltgbQm5Kflx1irNGw==)\n- [note.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLDFXAzVGuk_nmUCSbw5IJeASGqhooAifFWdAaaQxRHb9c6Nus400OWd4W2-lyqPCZe0ecQU9dmdADu0uQYnuACZKTw_qEQohD-dh14kWCOVnTSKuAhQatzJdBhQw1a06_-6eP)\n- [satellitelab.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFX6_FzMK22-u1-KddPSq092oE6hEkZIxBDrmOnTnbvYC3nnxOMJ0DNeD_qdhS7mAHdAHSN4lUrBTtE4GZtY0fjsKXtnv4W0XykTrTUMiIkyExDRV03_NIwywoulDpksAZS-FqB5Cyw)\n- [unipos.me](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmz1--KV9VYGTdDBexwX_mjyDLVkGZOKTuKmgIeYjE90gv_qcP6lSsNyBxn9A4f5LdEY-L8uud6EcM6a2QZhNlOEVvynoyft4W_HH5hUOOWbAcdvO9ZPyQ7XfBA_sWGNPdcTaVMg-vgUA=)\n- [note.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDULpOB61CrR9GvD72U13mudCagjPCB25_r_r9k6aeU5Gj-Q4zgqW7RyWt0gN-LdbplHxgBTgAT1Cfc1DH9n5KCbGBaC_OSgQf8EU5Jg8-ceNiBstCryDkSZS1xQXVDlJyo3A-X7rSpcw=)\n- [psych.or.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFutFYPW8TZkXo9fKOEcBROlFVH9qEjDREugYtBjYDKe7NKulVloyZTu6AjOmTexWV2OxmoNfmWTNCLd20-vZl8rAg8S9c9IcwRozB8nXqzAUVma2K-frUeXj9KODDzuQfBaQzD1J4fg==)\n- [hrpro.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0ZYNEiYljAFZrtTesA8i09NsWMcvWwkqByfKM9_AplI5ibISO81Ihx89JD4oAfwz5fdKm0KVvRB-dpprTsGioWDSc5T1halqNHIEV0N5hO79LOjnwbiITlrk3Ot2pIS7RMUZK2xi0Y-lxDECZ)\n- [mhlw.go.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkxG1fuVTNuueeaDCcXWERvAntvisJnpkM84CkHu14tTXsqJboNt6VIxXSMIyaP0vPaTvaL69HWZcakg848F-GfMJX4alaVyhR5TDSWJ3hkP64HFuARnCAhRmvWeUCPrGhMPnTsxw=)\n- [viestyle.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ_KT9OCJit1SSlMkIl1qyF6X4JTh85iB_qF4_V8_uRGFi__bVpvgmCK2psn4_RBlZ9TDTFh6XaXgHUdXLcPzBgrbfnQKSGb7f8jEMez26pv3zAAT0F3LJFLlCzNKq7FxoVIOKlkYPm_w6Xicy-okWr5uTyQ802Fc=)\n- [legal-station.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtBJoBUzM7JH3qFhA7FyivrolcFcU4eOyyNXJiLb3hgJlT2RJktZYJYeIWm9PGh7780uZOBWaSPTXWLb1z_prQRvCyUeblKsiEScYk4LjQevFAEPJYo7e7cyuR1w==)\n- [carely.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFofkR1MeSjtXhLrl55WuhWIXix8ljYFBF1JkZIYq2BE1n6JPQStm8-z2cT0jIwrS_rAKJ0so2PKeFcQyd2SRy-RK_GpaYUEDpi1_IdNWU0YtSwZUamdfO0K9gQ9OuUYk3OWkpIv986p4aZLn7q6npVEMyIBUBeZK4xfEIiw9LQ5rDY)\n- [kaname-law.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3qwFrjoSLCoUVVxNlrlTpRFldUMWT9H1K7NVEYyKVgBFZ5fSbic9vk6zLyviQZBSxPIIU2x6X40iohTVqvxuiN0tFjn7XmEGE2O6zByJmkqnUfYB0b-BSWtXxD4G41OE3d4eQy-WB62Q6dc0m_Tfn)\n- [mhlw.go.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO79iyCxqv-jzwKe0qbix9jYKCDo0sxuLjrigmx5OTfeVoEgzhXS5c_WXJT89I36PVGszzxx0XVZO4kehE_ksljgJmzfahoVE_7imWIiO73fNiD1XZifbO4WLE9_O1lx4XwapRFhSTgDxC7JouDqCN3J4M2Y5pSuWSwlnbVg7B8ueVd7X2)\n- [chr.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8wn2BXXzdrCAthwMZD_1uR8iYzIPGHVXW7bdrTT3bAGuI6ENMB3a5RTVkP3FyljRaEQHerXgd7rTg1EqcXcM-kYolIlHWWfNWJ4DLFotFkR7SEsaF8Xt7UyQPKdJw1nOu_aH1c0XfQ9RvA6mjHjzqmw==)\n",
+      "status": "Active",
+      "derive": [
+        "N_56"
+      ],
+      "depth": 3,
+      "verifyScore": 100,
+      "dataYear": "",
+      "dataInstitution": "",
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_FC_6",
+      "type": "F",
+      "subType": "EVIDENCE",
+      "label": "中間管理職は上司からの目標達成圧力と上司・部下間の板挟みによる負担が大きい",
+      "content": "2019年のマンパワーグループの調査によると、中間管理職が勤務先で感じるストレスの原因の1位は「上司との関係」（47.0％）であり、上司から結果や評価に対するプレッシャーを感じるケースが多数報告されている。 また、2021年6月～7月に実施された中間管理職経験者238名を対象としたアンケート調査では、「中間管理職がつらいと感じる瞬間」のダントツ1位が「上司と部下の間で板挟みになるとき」（121人）であった。 さらに、2024年11月の株式会社スタメンの調査では、中間管理職の94.9%が他の役職と比較して負担が大きいと感じており、負担要因として「上司や経営層とのコミュニケーション」（11.1%）と「部下とのコミュニケーション」（10.1%）が挙げられ、経営層と現場の調整に負担がかかっていることが示されている。",
+      "dataSource": "### 🔍 Data Sources (Web Search Reference)\n**Queries:** 中間管理職 目標達成 プレッシャー データ, 中間管理職 板挟み ストレス 調査, 管理職 役割 課題 調査, 中間管理職 調査 データ\n\n- [manpowergroup.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzNemeWGr2wkruiQe0oNTWo_GP4pfC70vv2FqrEhg4jnpeGYJg4F15MAtHhtovMItq85uRYhcTzO_GX_4jB1MTW5nBytiXQMuCIvNNOcTtakzCwZahFtsCs7tydTygq9Bylc2VcGPsaq7pZX7D8mCK)\n- [bizhits-saiyo-site.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSmPE3X2bE3eRXVuFbt3Bu6XTtD-uuk1s47va7XLcx7qFQqX3QPieCpX4OGBh5M3IpwictdSNC4dIC6cKY612axr4eQIuEKaIwFbtEi1mKlJ3JlKypUT1ONCgniMk=)\n- [prtimes.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF68jByI6FVxVs2p_HgDUNA96zDm3C8fKvw6GOYlU0zsvTwyZ9vNozcaHVgKv8sZJN7dpK12arfYTZiConvHDSAcSMImjiJ3MuAzgHIqZ1z4Ha8Nx4Cb7Deg6bLHiZNPhD8tNq26YWGPFg_A6iaWXlHBAfZzvY=)\n- [saleszine.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvq3Fh9adJQrkGiMI6dLpyT1qfgbIuC7kxXQ7OIFNVIM0OBMcX7ZtwD1NJdfHYHrnKcc35BLuyINN86pMH-HChvSJ9IUAlJ8me-dV0cE2ImEZDRZpXUeoxBo4tGSuuv9E=)\n",
+      "status": "Active",
+      "derive": [
+        "N_49"
+      ],
+      "depth": 3,
+      "verifyScore": 100,
+      "dataYear": "",
+      "dataInstitution": "",
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_FC_7",
+      "type": "F",
+      "subType": "EVIDENCE",
+      "label": "合理的配慮が企業にもたらす隠れたコストと課題",
+      "content": "2025年3月にパーソルダイバースが発表した「企業の障害者雇用における合理的配慮に関する調査」によると、合理的配慮の実施に対し、企業の54.9%が「課題が大きい」（「大変大きい」17.2%、「やや大きい」37.7%の合計）と回答しています。特に、合理的配慮の実施には経済的および人的コストの負担が伴い、管理職や同僚に対する追加の負担が発生する場合があります。2024年6月のパーソル総合研究所の調査では、精神障害者と働く上司・同僚の約4割が「精神的な負担が大きいと感じる」と回答しており、他の障害や障害以外の事情がある部下・同僚と比べ、受け入れの負担を感じる割合が高いことが示されています。また、合理的配慮が「特別扱い」と誤解されることや、障害に対する無理解が生産性や職場環境に悪影響を及ぼし、他の従業員との間で不公平感が生じる可能性も指摘されています。",
+      "dataSource": "### 🔍 Data Sources (Web Search Reference)\n**Queries:** 合理的配慮 隠れたコスト 職場, 障害者雇用 合理的配慮 他の従業員への影響, 合理的配慮 不公平感 職場, 精神障害者雇用 管理職 負担, 合理的配慮 メリット デメリット 企業, 合理的配慮 導入事例 課題, 障害者雇用促進法 合理的配慮 企業調査, 合理的配慮 職場環境 調査\n\n- [prtimes.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3SkliBruU1MamkfR3MeqUtFXBrQQ3-46aEGp7Hv8MKAR5WsStUR8rH8H1zlwkuqW3hNzTOMV8iLVSckGTR6wd4iqG3ffAk4BTHFF9V9Py7AOpcUssBaUFsqdY6S2Xstqin9lTYHh8QaToRHBmCfuqMdv4-Hw=)\n- [syougaisya-koyou.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs3xQgxBQ6u62VyBZfce2P9BvMA00yAUOXjXdWBI4PNVticw-Yj27l4pydZ2li3fb8xhWAngGqor_b4m6Ci73u9NHU5aajDNlzhHBAxaHz90TdpmAWLhi7z4y776jUmGmnC4q4WleplH0bGXJhSfWbZ9dY8pVIfzT6J7L7hOpu2TEA)\n- [me-gu-ru.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7LRillcZFVHOUS4tibfaOvSfRZQVQX9v3MPGrU4tzQntU88wP2WK3axyPc5pMghqomntHYSEj0IWsL_TZDFhVoAzMwGMJEmB7PAityl9T4CHOZ16a3yaMibcaMcqT6snx)\n- [persol-group.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyboxb1MWikpXCrrb-TufaxtBDHEYheWUwHVHd7FAsbsOLBvD7IOLUMeOcrTwlawLS7Qir-cOIONWt9g2t18Ade7qzdyT7FTC3xWvqSC29lBIC4Xq8EbTKq_XLQ5imdv8vEUuaxyBTOEm0XAfNOHByE40xbsWPbTOhoJF3lkCcZZMOZA8=)\n- [prtimes.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJmoJ3AZxHbpyTWm__kcxSOAfAXKTlaUbBmxItE3PE2VN1GrFEQmFyVGMrHlZZjbarc2RjwA8suElbMZl2yEuFdsjAmo3vaDegvP8dZSrZ35PcFYJplBi3ZQcDCTPyTm7M0beQZUwEZ_R784p7_O5DCkweCb8=)\n- [sugujob.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2167HimtC3QeSdJhVnvZVlg7-WYmLmJHevpoBvHEft5CbBtz44P06SiT4XIilYQ_eqhZRsHl_GHFsfGxQ8pZjwJSIGIiqoXew3ZKOF0dxBbsXYZouuvL8j5dxdJTY9Esup45HfEwJC4getmQiYMXAK2aBdlPKPH3xN5WB5X-R3g==)\n- [syougaisya-koyou.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGB-tso35jUTz7MCoulztub0x2xKNHxrEVyZIk5pHL8vC147XrALVt3bcXZNOSiUQ4HBCXen10rrX3JNMDzXkOn42DiOSxpY_Baxqg4hs3vEXxxz63imVF7FspTdlLZnP30FGt7ff30qqVC2dExl21jQBbzx2VRhtCk)\n",
+      "status": "Active",
+      "derive": [
+        "N_32"
+      ],
+      "depth": 3,
+      "verifyScore": 100,
+      "dataYear": "",
+      "dataInstitution": "",
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_FC_8",
+      "type": "F",
+      "subType": "EVIDENCE",
+      "label": "中間管理職の部下育成責任と負担感の増大",
+      "content": "2024年12月の株式会社スタメンの調査によると、中間管理職の94.9%が他の役職と比較して自身の負担が大きいと感じており、その要因として「部下の業務のフォロー」が14.6%で最も多く挙げられています。また、2023年9月のリクルートマネジメントソリューションズの調査では、人事担当者と管理職層の双方で「ミドルマネジメント層の負担が過重になっている」が組織課題の1位（それぞれ65.3%、64.7%）と認識されています。中間管理職は、経営層の方針を現場に浸透させ、部下の業務支援・管理、育成を担う重要な役割を果たす一方で、プレイングマネージャーとしての自身の業務に加え、働き方改革の進展や部下の多様化（メンタルヘルス不調や発達障害傾向のある部下への対応を含む）により、育成に十分な時間を割けず、精神的・業務的な負担が増大していることが複数の調査や専門機関によって指摘されています。",
+      "dataSource": "### 🔍 Data Sources (Web Search Reference)\n**Queries:** 中間管理職 部下育成 役割 調査, 中間管理職 部下育成 負担感 調査, 中間管理職 役割 メンタルヘルス 部下, 中間管理職 発達障害 部下 育成 負担, 中間管理職 育成 課題\n\n- [prtimes.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLYk3QCFggf59K9yWGnKiRWUT6y0YUayxDq7PbBcJBalQ6kGwtvZ1EXuSNtcPZQUM46C03-WaR2hxWysQVVglHnDfirXa2Hsj1k_zaZ3c_pv-QF3gNbjh6oEr6J39TTW1L-DEM3lysIIhf4CpttBIQle895qM=)\n- [itmedia.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVkc0OpgaC3-r5CXACWMDqP0urkGBF9LkzS_Hrshgtf6f-I16irhRdIEjkFl-RyEXqIpEH2rNX3aFc1y7n8lCUOGc5t61mvqeYK7qApEd5cpEqSxe3B-5cAP4aMP79gxr08MgdcirVPsqEBtTUwuTjTGGJeHGSPNCI)\n- [tunag.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd7epcERph6p1L5E-61vUEtdrrnSH_nptdnd6ZXiRqUvIFKM_WmeJ37f90i-St5isg-HUtUaC-qisiWbq4S54c6gKOhN1oGq0rvpHcGPsRjUPstlsggItRUreiqGw=)\n- [manegy.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNMCen9GHEo9YcP1xrr2CrUta77XRNWW9Du31TKElp_7zwzCh-wro-RtODlKguQKuUXkBxCD1CoLhE3FO9nvFIMjNe-63E-1YxLZdyBrZ8NGACdpN9WEiHhHrlv9OXxVCDpiF1)\n- [recruit-ms.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSJUThpiBvwqgM66ZlFygBKwx5af5t5-2CyqrDWOZ5MqC8oFeWQTo4bPkoBBPTr8uzyS1gFsgKe66svO_o9jEyXbxInARinY8-EJIz4mdlN0H8Q1TqeEmaD5D5kf69KMsKKlfiuQ1RTXNN7kxcMXsqX9XcGNaI_OU=)\n- [nttexc.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT-9Gm4z2MEB2SR-RF2qUG-FSS15re83gwPn8dQUUL3JJVygUaGMdBxasHdxHmy90XVGBle_nd1TptuR9OlibA26qfl2HN9J8n4umfFFIcTMVqBXHfeaZoQBcZ7xQx0Ko=)\n- [jmam.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeM7KQ48FxbzVbgRbTGQyGDseaaKuO3YVwNAo7rTz4tys_WaCwSGuFQ2432ioO1v2NCmPtEgMjH-A0_6ZTCSj6hK3DzU_96-pY_YUHB0lXlxQYmsrd3wAWFX1dpQ6CQZKb8ffb8I0pdM4fFqYxC8XxCXia9d1o4QI=)\n- [kaonavi.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGT44wh-3QRBJCKCCIyAP2EB8DZNDxR8MqYjdD8UBD56L1abtcQZI0qVqAFpqbrbqpTAs-POBYBMzNDY_gqLci1rerGuxzAP5o1I7eaHupJ0nnmk6RDruziR1CXUu9FrwyhJnTMdLiD8rReKT8qhIM=)\n- [miidas.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkWPAFqDRCJ876o0Ah-jo5jnkT3fegD-E9m5lB-eCjPAyuzOQ5pCPKR4PLXFUas-YiMKAeXUkEqUtOye7dBUJHgagxDel6VpQx2aHfDvNLaLjwG687YKhvi6ksKhj_gInU77k=)\n- [360do.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwnk7j5KytvH99sDOYGCw8fRGQdzVdmLiTHtnWismPDqyK4OV6vm1ssJ0cQssoOs7LCpg7xcGmC4nHFlqW7d11TycyFSWYxS4aTjQKQadZhuIBVb1R3-_5eMN2ZQ==)\n- [persol-group.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmqzUmfzoGW3O-J6L5_zAdJgvL5V2RfdUyw0p7jbUhUcGLzhAgHR7mtoGDGNuUpF0invask1ifjKLiGiWhPycBlexJilWcRAPa5CC-8j3KfqoxjIpguy3NSPqpPJQ_1gLWLwYCE9h0UtR0n-y6P5KhaszMt6cjkVpMHkp35pZT37pSZpARtB3Goey9hqmV4rc=)\n- [motivation-cloud.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo5YNlORvCt1NmWy3zKkJiL7F87vgeo7Bw9m0SEGf3XUpn3xcxFjz6LfsTUFxXyikOTmGhBEO6FJIjidKMmopJ92_e_OPRJ2B85PpRc-xKTFZvsK59j8FNNuBeO-hhx84TXtgndhtW)\n- [armg.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQKZR5S4ix3qC3jCVz9nXSObRNLDgdh0E-4MkLtN7NpHUe3T4yUYWadfVEjDfctaQi0E6A6VOKk-lK8R_3UC5fZ8XyZd2YrZvIl65M7P0s_oZQe4vB1r0YpForz80=)\n- [safetynet.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4n8_TRKP3IqVCqOXrL_98HWKP59_svkJBzeS81qxT7OVtp4oUBp7VT3LuoNTwXDtRYTVmlnqtvhJLBhgXe7heDGYgBwYPcSAzAE_mPC308DbqTigNr9iyENW5NDXEuam6eV2atI6B)\n- [sofia-inc.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEv3yEmXfbNibCiTARPWGKzQEdI63SfrpmUXv17a1G0LNtf-qa2jt_mcnEbR9LUZvqjl1-EtKMLVW3o3csWOa00poHyH5UFBC6iWU2KPZ9kdXn5fG4kZS5_SI8XW86uplL6z8_)\n- [sugoi-jinji.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMQHuxGz2FV1ud1LNGptNFonjOsFxkNK-Iz0OMltOq38JoyOcikU1LQMGHyJnL87HH1MLzx8i4y4RVG0g_-UDo-X1mXHfgKr9-htvy0Q9NAzcvXXRGNYcDUBjh9jyowY9iCfTf8wmsV6H-ZnhzY4gGRfP1AFPcslPTQy9dkt4auno6i3cttFvfD4wb-Lfu9xO8JzOzCgKErteskFYXTVv3YvylZ6ct-YXMDUZU97o33DEre3z7z4CKs2TMvBCx4OBpccWPZMSw2aA5Gytpcqrc9N-XtR1Zn7_zgyANZm22QK0yJeULKRwScX_TXV01PR-vgnxYa5rw0HyPY87OAAbepOVG940jBkgcCZaVU1yCIisPLm7lR4x2XNw-XSe0UeP5S0qr)\n- [asahi.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMwOmWHnpjZzhDlQZ71axd1x5zFexlBqXvcayh0u0cmG1ASYAvXNbKGq1nXoqo45M8GV2tWipRCrXycNA_F2SdbGgDtXcBlamD1XBBMDfhVUtI-ngsN2pG-3TjJ0aRrY2Jhjc=)\n- [note.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIcGrBq695G_td6vcxXLoAU-22gdSfuIpcAZbzh0nd_h39j_UeTiat5EH-umTNPHB2fRZgQ8ZdNyDX9jqTxAsKSX9hPOxJyYAjcKIsYoE7j-wcW0iRbxoLx8_kOw8qWX5GzKXabk-SGA==)\n- [woman-type.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEN1NsinGOWvQvwMSisSXcEFwm2uqkCCCkCzblDYLNkSAB86B9TEoZVaKBuAiI8aOt5TOTezv2W6-7C8tnTq4ykyInyvIf_3OkEm7B58K774w-T9JRmE6IG1BRuEQHjQsgRNw==)\n- [yobouiryoukai.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFq-wC7NhR9PjxUWaGg-OROKre7O7lGUdOe1Kh_Ug1v_au2_uqe0MtcXHo-yg1BPplco_wO2swr-eMp3EEFy02GMr1-ime1L0I97pbiYBE7wziIqSg9YHnC3IZSvWDms6IMve9pEhI0-0s8VUf7Kbe_KlD1xC8ht1DPwPXk-tBJ42mV8E2xd9hCct8cnGJ)\n",
+      "status": "Active",
+      "derive": [
+        "N_50"
+      ],
+      "depth": 3,
+      "verifyScore": 100,
+      "dataYear": "",
+      "dataInstitution": "",
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_FC_9",
+      "type": "F",
+      "subType": "EVIDENCE",
+      "label": "中間管理職の業務量増加と多岐にわたる役割",
+      "content": "2025年3月に株式会社EVeMが全国の管理職および中間管理職1,210名を対象に実施した「管理職の実態調査 2025」によると、管理職の64%が日々の業務量を「多い」または「非常に多い」と感じており、60%以上が以前より業務量が増えたと回答しています。 業務量が増加した背景としては、「人手不足」（58.1%）、「業務の種類が増えている」（48.6%）、「働き方に制約のあるメンバーの増加」（25.2%）が上位に挙げられています。 また、リクルートマネジメントソリューションズの2020年の調査では、ミドルマネージャーは「働き方改革、ダイバーシティ＆インクルージョン、コンプライアンス、イノベーションの創出、戦略推進と業績アップなど、現場で舵取りを担う施策は多岐にわたっており、『多重債務』状態ともいえる」と指摘されています。 Schooが2026年2月に公開した記事でも、中間管理職には目標設計・管理、チームマネジメント、人材育成・評価など多岐にわたるスキルが求められ、プレイヤー業務との兼務、世代間ギャップ、働き方の多様化への対応などが課題として挙げられています。",
+      "dataSource": "### 🔍 Data Sources (Web Search Reference)\n**Queries:** 中間管理職 業務内容 多岐 調査, 中間管理職 業務量 実態 調査, ミドルマネージャー 役割 課題 調査 日本, 管理職 業務範囲 拡大 データ\n\n- [mynavi.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-3aponv5Bpub56txFmm_0npYi11xSFF9A-iqbsNAbisejZzkny8QQtoTHKMFM4iuEzf5GddA-4VxT2IlmXfLRZXVSu6oIvuzXcN1_hmjEhpAqSmKdfE0FBhJUu_3_p_Tdt1GbZ9gzbSeeqg==)\n- [prtimes.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ-F-M8_JQe6_OQBeIhugc0f82xnF1tbiqARAr1rje0GJOsIcx1ePP_FwYoXiFKcf1NLTU4i00jPGkLzK2bZlbPWQ72iLko6WHTyOlghwplb1Xy2l7SIns3VLvSVlFHfjBsClyAWtyZGak0mPeQKKZ0B1KmO8=)\n- [officenomikata.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsZiRK9qxXN4PxPFduivJ5GugPgusKzoqS-vrMGUyMJDqBoPOQ4f1e0o26FzLcUFdBUchkAIUXiB4U6-phAVu6AKD2PeuynDFfnIDbnQNYEnNttaAIxuw_BZkpBPG3yhg=)\n- [nippon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKRqMgV72xsFsGdfgKYgYv9lRBZiZ2To8MqX3cai3I8XOsqvJ4235ylm18Y68UnVy3AIT4ebiPAd0Om6yjc3KpJspxOegtbBdv4wtQ3SJAMXJJmQicmVTP4fF6f5-Z0q_aIEFTHBeb)\n- [r-staffing.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6_esoYGsMCRCrdL0_vkunuul36onU0r7HhdODOOdxFPwDB1fiaMMyDzLNUaQliv0BgiOTYOHK7Ocs8ZNLEK6dTRT-EzktNzC92YkflZ4AI4aRmNjkkYJmB75AJiOJdOChse0UBdEDbGM=)\n- [recruit-ms.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECb6FuExsdAhdTAWAEcfZCGiae401VAHjdNMcqfayKnQcv9HbvStGwp3ycjb3lFkiu6jcMiOsEncD9Ba10BChBRxkQw41dLM2krECiiq-_S74Op352i-wceePKhxtPZFRr60PzlrNYqIGesQ8OO7HWdg9l3w==)\n- [schoo.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4d8m9Ng-uWPR4D2-fDx6HXBE_P9q3uswwun3haky09scZjr52g0sWqYXKuqHEauR0PC6XKDLF_PHbLnHbry7pLvqYfx9pEciJZv3O6DBjTx7RVnzFk4wArp3H)\n",
+      "status": "Active",
+      "derive": [
+        "N_52"
+      ],
+      "depth": 3,
+      "verifyScore": 100,
+      "dataYear": "",
+      "dataInstitution": "",
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_FC_10",
+      "type": "F",
+      "subType": "EVIDENCE",
+      "label": "日本の職場におけるニューロダイバーシティ認知度の低さ",
+      "content": "2023年3月30日に日本橋ニューロダイバーシティプロジェクトが発表した「職場における脳・神経の多様性に関する意識調査」によると、全国のオフィスワーカー2600人を対象とした調査で、ニューロダイバーシティの認知度・理解度が最も低く、特に周囲の人々の60.5%が「知らない」と回答しました。この結果は、ニューロダイバーシティ人材が活躍できる土壌が整っているとは言えない状況を示唆しています。 また、2024年11月26日に日本総研が公開した情報では、「発達障害」という言葉の認知度は91.5%である一方で、その対応に関する知識を知っている人は26.5%に留まっていると報告されています。 さらに、就労移行支援manabyが2023年10月31日から11月14日に実施し、2025年2月19日に公開した発達障害者115名を対象としたアンケート調査では、約64.3%が自身の障害や特性を職場やチームに伝えておらず、その理由として「伝えても理解してくれないと思うから」という懸念が上位に挙げられています。 これらのデータは、日本の職場においてニューロダイバーシティの認知度および理解度が依然として低いことを客観的に示しています。",
+      "dataSource": "### 🔍 Data Sources (Web Search Reference)\n**Queries:** 職場のニューロダイバーシティ 認知度 日本, 企業 ニューロダイバーシティ 実態調査 日本, 日本におけるニューロダイバーシティの現状 調査, 発達障害 職場 理解度 調査 日本\n\n- [takeda.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFufm-2i1RAU2nRCw1g3TivXK-qR7rhV1TyHTFGNaVCOKtA11PPbo171wUtymDK2LGLEWzi8EjF7bFOGdHDQTFbI4UImo1GtCCHdn4AKBqjeAoGv6XROuGc2oC5XF_Jn6owYKC-0epaVvopOScGrWUmRMPNtTTMyTUZm5qXaeLT963ThB8=)\n- [jri.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsXlm02pNmwFdW8eFRkRM0fJFrKDpSIFiDD4cKRnOuZSRmDGQaxTDuLySfS6vCun9UsmBvofx7bPzzb6zcw-F9OK0Cri6BnmALqjNz4BAgGR3lQ4kPooMx8xfAf7KBK46pJg==)\n- [manaby.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFooOOUgR1nAWz1zDqqkKh1B2gRk_wz1ZaIxndROSChrX4s8uIclcekCEKiGegqw1hNZP-znU8SYySyxxZiSjqXuOKnY2l6qWUCapMFnoc-biGeFFNSMlVL_qzQQf5LvfzqNHN)\n",
+      "status": "Active",
+      "derive": [
+        "N_61"
+      ],
+      "depth": 3,
+      "verifyScore": 100,
+      "dataYear": "",
+      "dataInstitution": "",
+      "atomicChecks": 99
+    },
+    {
+      "id": "N_FC_11",
+      "type": "F",
+      "subType": "EVIDENCE",
+      "label": "ADHD/ASD特性による職場での困難",
+      "content": "2025年から2026年にかけて公開された複数の情報サイトや専門機関の解説によると、ADHD（注意欠如・多動症）やASD（自閉スペクトラム症）の特性を持つ人は、職場において不注意、集中力の持続困難、ケアレスミス、忘れ物、遅刻、スケジュール管理の苦手さ、マルチタスクの困難、衝動的な言動、コミュニケーションの困難（非言語的合図の理解、場の空気を読む、一方的な会話）、曖昧な指示の理解困難、臨機応変な対応の苦手さ、強いこだわり、感覚過敏といった特性により、仕事のミスや職場不適応、人間関係の課題を抱えやすいとされています。また、2025年6月のレバレジーズ株式会社の調査では、7割の企業担当者が精神・発達障がい者の職場定着に課題を実感しており、その理由として指示の伝え方などのコミュニケーションの難しさを挙げています。",
+      "dataSource": "### 🔍 Data Sources (Web Search Reference)\n**Queries:** ADHD ASD 職場 困難 不注意, 発達障害 職場での困りごと, ADHD ASD 成人 職場 特性, 発達障害者 仕事 課題\n\n- [yoakemental.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4RdrqKmhG6D5uWdsyxHt2M3RNZ55MIPKWkRsHdm2nYlwiQhNAzU5zyS2EslmCij8946LNjWRgESESeYsN9GiQidU0xxfzm4Bye1GpM0ozUmPTBL05rBfjGYKyMdwxlSAKfQ==)\n- [enn-lab.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGouQRnFj8QKppiJ4eLQdcrdwOEcmBvEHkfD4GdQEyR9w3_3GNA5WWKHEuW4gIxSdSZfBlCZ8_UZc9NYm09ggU_t82YMWdHm72Tvdu5OdqhZ-yiDcM0zxi1Gmggdw==)\n- [manacal.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfCuy8vyK0E3h4oQNGHvwKpLLJKCuRilhqjMqfLeYmGCxvhAKkDLHeo_fvsAA9VI7x60cHQvnfZ48WmZ7Fo60shQCcbzyDJXkdxmzTt5wxsNRiEWm1DvwEnDaRo3vCyw==)\n- [kokoro-kichijoji.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2ckaQZPeU2LgHSq5QUfLtqXEoLYVVDLrtiC-tD0RbDLZyfA-vEF4WF5NtJIMmgGpA-76U28I6xkDbeyZTUSQSL4Yj6iWsLIAKgHUSFLZrDni-FYGvJEDkIIdV18phsiWmgbFy_mlYaxRSAxdjI8r8QFyyrRO11vhSZ-s3vjukF-LjEjoN0r-rN3o5rbw=)\n- [fvp.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGddwt-vdtTfFXwBlzaLbJfOsKma-atpYemGIrxT5b_02-SC2VMeFeymzjve7m55IKaXWYyM9D4PeO1QwGn3dEoY0FWLKeTRd37nobRjyRYvJnRrqA2HjqkcegGOWJ-Nywsa7SrnhPO3QjYyplBDPWETz7gRAg=)\n- [neuro-diversity.biz](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdplnaNQGF1RES5M4TKqFW-GIa44P97UowkJ4TcDs3EsWaxXy0ni66q1VpHWVzF1a8TR-dBAEPeaAplnkjN7BtE3wiztiqm8WvZbjP81aXmg008AHOCfQiW3dhjJ_WOqkN_ZzchHu5_KFB3xQ=)\n- [avenir-executive.co.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOofnzJKSYLnoSW7du0jdaVSSiJb0Jdw7QW13YUlGDuYMpX_6yBj41T-3JBSdWkfGlCRq8fvtzNCECdfBhKTX0n1_rVq2Eet_90pbCFFN_fqa51_-oVrDUaf3sGFNpw4NasD6UhKwoHb68irzZPIxPolQkRRWp-wb8b13jhTJW)\n- [kizuki-corp.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgBPIuxVr8wxjItVHL90wi2mmmBYIOMYKdhLy_iK_SUqWYbjaaDBTm9yFvT91KBTwXKFvayuNtGjYiOqwJ1oPMLFOmUlpsiRsMF1pC6_xUA95FkwIlsBLrRkjNLCOvUyWQ-xhufhSWM3Nq2_50UgY=)\n- [tokyo-brain.clinic](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVAw2wQujhfSktz0FGQZkZbILgzqjLKTA-LQc1Atvm0VJHBO0A4ietfk-Fe16A3LcHb6w8aC6AK50MMr6mwhmBTWh6RLrCQ0XUQrzHUSIr_C6hzW-OjhpocZ16Hugn1aelkuvWGhyXc7sOcp9_0eaVfOlg)\n- [prtimes.jp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA3vBUb6wlZoX5AvzryHR7q9QcUuHUmhf5mS0z7-V0ioFSEuWggOiHFB1NAmXcBM5__Sh69n-lGIJdyPx5jgxLuiVilrDet-GgN_ABw1pHIvOyx-vyB9LYkHaslDWlLOUJrcIt2pi0kZeX7zzPR04m_6BPKIA=)\n",
+      "status": "Active",
+      "derive": [
+        "N_62"
+      ],
+      "depth": 3,
+      "verifyScore": 100,
+      "dataYear": "",
+      "dataInstitution": "",
+      "atomicChecks": 99
+    }
+  ],
+  "mesh": [
+    {
+      "from": "N_1",
+      "to": "N_21",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_2",
+      "to": "N_21",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_3",
+      "to": "N_21",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_4",
+      "to": "N_21",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_5",
+      "to": "N_21",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_6",
+      "to": "N_21",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_9",
+      "to": "N_21",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_10",
+      "to": "N_21",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_18",
+      "to": "N_21",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_7",
+      "to": "N_22",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_8",
+      "to": "N_22",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_14",
+      "to": "N_22",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_17",
+      "to": "N_22",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_20",
+      "to": "N_22",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_11",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_12",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_13",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_15",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_16",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_19",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Establishment"
+    },
+    {
+      "from": "N_24",
+      "to": "N_22",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_25",
+      "to": "N_22",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_26",
+      "to": "N_22",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_27",
+      "to": "N_21",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_28",
+      "to": "N_21",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_29",
+      "to": "N_21",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_30",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_31",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_32",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_33",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_34",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_35",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_36",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_37",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_38",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_39",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_40",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_41",
+      "to": "N_21",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_42",
+      "to": "N_21",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_43",
+      "to": "N_22",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_44",
+      "to": "N_22",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_45",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_46",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_47",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_48",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_49",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_50",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_51",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_52",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_53",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_54",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_55",
+      "to": "N_22",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_56",
+      "to": "N_22",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_57",
+      "to": "N_22",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_58",
+      "to": "N_22",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_59",
+      "to": "N_21",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_60",
+      "to": "N_21",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_61",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_62",
+      "to": "N_23",
+      "type": "Support",
+      "logic": "Triangulation"
+    },
+    {
+      "from": "N_63",
+      "to": "N_39",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_64",
+      "to": "N_39",
+      "type": "Support",
+      "logic": "Structure"
+    },
+    {
+      "from": "N_65",
+      "to": "N_41",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_66",
+      "to": "N_41",
+      "type": "Support",
+      "logic": "Structure"
+    },
+    {
+      "from": "N_67",
+      "to": "N_42",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_68",
+      "to": "N_42",
+      "type": "Support",
+      "logic": "Structure"
+    },
+    {
+      "from": "N_69",
+      "to": "N_45",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_70",
+      "to": "N_45",
+      "type": "Support",
+      "logic": "Structure"
+    },
+    {
+      "from": "N_71",
+      "to": "N_46",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_72",
+      "to": "N_46",
+      "type": "Support",
+      "logic": "Structure"
+    },
+    {
+      "from": "N_73",
+      "to": "N_42",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_74",
+      "to": "N_42",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_75",
+      "to": "N_39",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_76",
+      "to": "N_39",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_77",
+      "to": "N_46",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_78",
+      "to": "N_46",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_43",
+      "to": "N_42",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_74",
+      "to": "N_46",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_79",
+      "to": "N_74",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_80",
+      "to": "N_74",
+      "type": "Support",
+      "logic": "Structure"
+    },
+    {
+      "from": "N_81",
+      "to": "N_78",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_82",
+      "to": "N_78",
+      "type": "Support",
+      "logic": "Structure"
+    },
+    {
+      "from": "N_83",
+      "to": "N_74",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "N_84",
+      "to": "N_74",
+      "type": "Support",
+      "logic": "V-Structure"
+    },
+    {
+      "from": "V_EQAL",
+      "to": "N_47",
+      "type": "Grounding",
+      "logic": "Keyword"
+    },
+    {
+      "from": "V_EFFI",
+      "to": "N_40",
+      "type": "Grounding",
+      "logic": "Keyword"
+    },
+    {
+      "from": "V_IDEN",
+      "to": "N_65",
+      "type": "Grounding",
+      "logic": "Keyword"
+    },
+    {
+      "from": "V_IDEN",
+      "to": "N_69",
+      "type": "Grounding",
+      "logic": "Keyword"
+    },
+    {
+      "from": "V_IDEN",
+      "to": "N_74",
+      "type": "Grounding",
+      "logic": "Keyword"
+    },
+    {
+      "from": "V_IDEN",
+      "to": "N_75",
+      "type": "Grounding",
+      "logic": "Keyword"
+    },
+    {
+      "from": "V_IDEN",
+      "to": "N_78",
+      "type": "Grounding",
+      "logic": "Keyword"
+    },
+    {
+      "from": "V_IDEN",
+      "to": "N_81",
+      "type": "Grounding",
+      "logic": "Keyword"
+    },
+    {
+      "from": "V_IDEN",
+      "to": "N_83",
+      "type": "Grounding",
+      "logic": "Keyword"
+    },
+    {
+      "from": "V_IDEN",
+      "to": "N_84",
+      "type": "Grounding",
+      "logic": "Keyword"
+    },
+    {
+      "from": "V_HOPE",
+      "to": "N_78",
+      "type": "Grounding",
+      "logic": "Keyword"
+    },
+    {
+      "from": "V_JUST",
+      "to": "N_48",
+      "type": "Support",
+      "logic": "Grounding"
+    },
+    {
+      "from": "V_JUST",
+      "to": "N_47",
+      "type": "Support",
+      "logic": "Grounding"
+    },
+    {
+      "from": "V_WLTH",
+      "to": "N_75",
+      "type": "Support",
+      "logic": "Grounding"
+    },
+    {
+      "from": "V_IDEN",
+      "to": "N_43",
+      "type": "Support",
+      "logic": "Grounding"
+    },
+    {
+      "from": "V_DIGN",
+      "to": "N_69",
+      "type": "Support",
+      "logic": "Grounding"
+    },
+    {
+      "from": "V_EFFI",
+      "to": "N_44",
+      "type": "Support",
+      "logic": "Grounding"
+    },
+    {
+      "from": "V_SUST",
+      "to": "N_76",
+      "type": "Support",
+      "logic": "Grounding"
+    },
+    {
+      "from": "V_DIGN",
+      "to": "N_65",
+      "type": "Support",
+      "logic": "Grounding"
+    },
+    {
+      "from": "V_PROG",
+      "to": "N_81",
+      "type": "Support",
+      "logic": "Grounding"
+    },
+    {
+      "from": "V_DIGN",
+      "to": "N_84",
+      "type": "Support",
+      "logic": "Grounding"
+    },
+    {
+      "from": "V_DIGN",
+      "to": "N_83",
+      "type": "Support",
+      "logic": "Grounding"
+    },
+    {
+      "from": "V_SUST",
+      "to": "V_WLTH",
+      "type": "Topology",
+      "logic": "Cosmology"
+    },
+    {
+      "from": "V_EFFI",
+      "to": "V_WLTH",
+      "type": "Topology",
+      "logic": "Cosmology"
+    },
+    {
+      "from": "V_HOPE",
+      "to": "V_PROG",
+      "type": "Topology",
+      "logic": "Cosmology"
+    },
+    {
+      "from": "V_IDEN",
+      "to": "V_DIGN",
+      "type": "Topology",
+      "logic": "Cosmology"
+    },
+    {
+      "from": "V_EFFI",
+      "to": "N_21",
+      "type": "Grounding",
+      "logic": "Semantic Grounding"
+    },
+    {
+      "from": "V_SAFE",
+      "to": "N_21",
+      "type": "Grounding",
+      "logic": "Semantic Grounding"
+    },
+    {
+      "from": "V_TRST",
+      "to": "N_22",
+      "type": "Grounding",
+      "logic": "Semantic Grounding"
+    },
+    {
+      "from": "V_SAFE",
+      "to": "N_22",
+      "type": "Grounding",
+      "logic": "Semantic Grounding"
+    },
+    {
+      "from": "V_EQAL",
+      "to": "N_23",
+      "type": "Grounding",
+      "logic": "Semantic Grounding"
+    },
+    {
+      "from": "V_EFFI",
+      "to": "N_23",
+      "type": "Grounding",
+      "logic": "Semantic Grounding"
+    },
+    {
+      "from": "N_FC_1",
+      "to": "N_59",
+      "type": "Support",
+      "logic": "Evidence"
+    },
+    {
+      "from": "N_FC_2",
+      "to": "N_58",
+      "type": "Support",
+      "logic": "Evidence"
+    },
+    {
+      "from": "N_FC_3",
+      "to": "N_55",
+      "type": "Support",
+      "logic": "Evidence"
+    },
+    {
+      "from": "N_FC_4",
+      "to": "N_57",
+      "type": "Support",
+      "logic": "Evidence"
+    },
+    {
+      "from": "N_FC_5",
+      "to": "N_56",
+      "type": "Support",
+      "logic": "Evidence"
+    },
+    {
+      "from": "N_FC_6",
+      "to": "N_49",
+      "type": "Support",
+      "logic": "Evidence"
+    },
+    {
+      "from": "N_FC_7",
+      "to": "N_32",
+      "type": "Support",
+      "logic": "Evidence"
+    },
+    {
+      "from": "N_FC_8",
+      "to": "N_50",
+      "type": "Support",
+      "logic": "Evidence"
+    },
+    {
+      "from": "N_FC_9",
+      "to": "N_52",
+      "type": "Support",
+      "logic": "Evidence"
+    },
+    {
+      "from": "N_FC_10",
+      "to": "N_61",
+      "type": "Support",
+      "logic": "Evidence"
+    },
+    {
+      "from": "N_FC_11",
+      "to": "N_62",
+      "type": "Support",
+      "logic": "Evidence"
+    }
+  ],
+  "topologyAnalysis": {
+    "comparisons": [
+      {
+        "claim1": {
+          "id": "N_21",
+          "label": "環境と指示の改善"
+        },
+        "claim2": {
+          "id": "N_22",
+          "label": "心理的安全性構築"
+        },
+        "commonStars": [
+          "V_EFFI",
+          "N_43",
+          "V_IDEN"
+        ],
+        "factualDivergences": [
+          "N_59",
+          "N_55",
+          "N_56",
+          "N_57",
+          "N_58"
+        ],
+        "divergencePoints": [
+          {
+            "nodeId": "V_EFFI",
+            "nodeLabel": "効率/合理",
+            "nodeType": "UV",
+            "interpretation1": {
+              "targetId": "N_21",
+              "label": "環境と指示の改善",
+              "relation": "Grounding"
+            },
+            "interpretation2": {
+              "targetId": "N_44",
+              "label": "能力活用",
+              "relation": "Support"
+            },
+            "singularity_score": 35
+          },
+          {
+            "nodeId": "N_43",
+            "nodeLabel": "多様性の尊重",
+            "nodeType": "V",
+            "interpretation1": {
+              "targetId": "N_42",
+              "label": "能力発揮",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "N_22",
+              "label": "心理的安全性構築",
+              "relation": "Support"
+            },
+            "singularity_score": 35
+          }
+        ]
+      },
+      {
+        "claim1": {
+          "id": "N_21",
+          "label": "環境と指示の改善"
+        },
+        "claim2": {
+          "id": "N_23",
+          "label": "特性配慮と成果両立"
+        },
+        "commonStars": [
+          "V_EFFI",
+          "N_74",
+          "V_IDEN",
+          "V_DIGN",
+          "N_79",
+          "N_83",
+          "N_84"
+        ],
+        "factualDivergences": [
+          "N_59",
+          "N_32",
+          "N_49",
+          "N_50",
+          "N_52",
+          "N_61",
+          "N_62"
+        ],
+        "divergencePoints": [
+          {
+            "nodeId": "V_EFFI",
+            "nodeLabel": "効率/合理",
+            "nodeType": "UV",
+            "interpretation1": {
+              "targetId": "N_21",
+              "label": "環境と指示の改善",
+              "relation": "Grounding"
+            },
+            "interpretation2": {
+              "targetId": "N_40",
+              "label": "効率性",
+              "relation": "Grounding"
+            },
+            "singularity_score": 35
+          },
+          {
+            "nodeId": "N_74",
+            "nodeLabel": "個人の潜在能力の尊重と重視",
+            "nodeType": "V",
+            "interpretation1": {
+              "targetId": "N_42",
+              "label": "能力発揮",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "N_46",
+              "label": "従業員の成長",
+              "relation": "Support"
+            },
+            "singularity_score": 60
+          },
+          {
+            "nodeId": "V_IDEN",
+            "nodeLabel": "独自性/個",
+            "nodeType": "UV",
+            "interpretation1": {
+              "targetId": "N_43",
+              "label": "多様性の尊重",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "N_74",
+              "label": "個人の潜在能力の尊重と重視",
+              "relation": "Grounding"
+            },
+            "singularity_score": 60
+          },
+          {
+            "nodeId": "V_DIGN",
+            "nodeLabel": "尊厳/誇り",
+            "nodeType": "UV",
+            "interpretation1": {
+              "targetId": "N_65",
+              "label": "個人のウェルビーイングの重要性の重視",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "N_69",
+              "label": "個人の自律性の尊重と重要性の重視",
+              "relation": "Support"
+            },
+            "singularity_score": 60
+          }
+        ]
+      },
+      {
+        "claim1": {
+          "id": "N_22",
+          "label": "心理的安全性構築"
+        },
+        "claim2": {
+          "id": "N_23",
+          "label": "特性配慮と成果両立"
+        },
+        "commonStars": [
+          "V_IDEN",
+          "V_EFFI"
+        ],
+        "factualDivergences": [
+          "N_55",
+          "N_56",
+          "N_57",
+          "N_58",
+          "N_32",
+          "N_49",
+          "N_50",
+          "N_52",
+          "N_61",
+          "N_62"
+        ],
+        "divergencePoints": [
+          {
+            "nodeId": "V_IDEN",
+            "nodeLabel": "独自性/個",
+            "nodeType": "UV",
+            "interpretation1": {
+              "targetId": "N_43",
+              "label": "多様性の尊重",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "N_74",
+              "label": "個人の潜在能力の尊重と重視",
+              "relation": "Grounding"
+            },
+            "singularity_score": 60
+          },
+          {
+            "nodeId": "V_EFFI",
+            "nodeLabel": "効率/合理",
+            "nodeType": "UV",
+            "interpretation1": {
+              "targetId": "N_44",
+              "label": "能力活用",
+              "relation": "Support"
+            },
+            "interpretation2": {
+              "targetId": "N_40",
+              "label": "効率性",
+              "relation": "Grounding"
+            },
+            "singularity_score": 60
+          }
+        ]
+      }
+    ],
+    "commonGrounds": [
+      {
+        "id": "V_EFFI",
+        "label": "効率/合理",
+        "type": "UV",
+        "content": "効率/合理の追求"
+      },
+      {
+        "id": "N_43",
+        "label": "多様性の尊重",
+        "type": "V",
+        "content": "多様性の尊重の重視。 / 多様な特性の尊重の重視。"
+      },
+      {
+        "id": "V_IDEN",
+        "label": "独自性/個",
+        "type": "UV",
+        "content": "独自性/個の追求"
+      },
+      {
+        "id": "N_74",
+        "label": "個人の潜在能力の尊重と重視",
+        "type": "V",
+        "content": "潜在能力の尊重の重視。 / 潜在能力の重視。"
+      },
+      {
+        "id": "V_DIGN",
+        "label": "尊厳/誇り",
+        "type": "UV",
+        "content": "尊厳/誇りの追求"
+      },
+      {
+        "id": "N_79",
+        "label": "個々人の固有の価値と権利を尊重...",
+        "type": "V",
+        "content": "個々人の固有の価値と権利を尊重することの重視。"
+      },
+      {
+        "id": "N_83",
+        "label": "個人の固有の価値の尊重の重視",
+        "type": "V",
+        "content": "個人の価値尊重の重視。"
+      },
+      {
+        "id": "N_84",
+        "label": "個人の基本的な権利の尊重の重視",
+        "type": "V",
+        "content": "個人の権利尊重の重視。"
+      }
+    ],
+    "divergencePoints": [
+      {
+        "id": "SING_1",
+        "nodeId": "V_EFFI",
+        "score": 35,
+        "context": "環境と指示の改善 と 心理的安全性構築 の対立点: 効率/合理 の解釈の相違（環境と指示の改善 vs 能力活用）"
+      },
+      {
+        "id": "SING_2",
+        "nodeId": "N_43",
+        "score": 35,
+        "context": "環境と指示の改善 と 心理的安全性構築 の対立点: 多様性の尊重 の解釈の相違（能力発揮 vs 心理的安全性構築）"
+      },
+      {
+        "id": "SING_3",
+        "nodeId": "V_EFFI",
+        "score": 35,
+        "context": "環境と指示の改善 と 特性配慮と成果両立 の対立点: 効率/合理 の解釈の相違（環境と指示の改善 vs 効率性）"
+      },
+      {
+        "id": "SING_4",
+        "nodeId": "N_74",
+        "score": 60,
+        "context": "環境と指示の改善 と 特性配慮と成果両立 の対立点: 個人の潜在能力の尊重と重視 の解釈の相違（能力発揮 vs 従業員の成長）"
+      },
+      {
+        "id": "SING_5",
+        "nodeId": "V_IDEN",
+        "score": 60,
+        "context": "環境と指示の改善 と 特性配慮と成果両立 の対立点: 独自性/個 の解釈の相違（多様性の尊重 vs 個人の潜在能力の尊重と重視）"
+      },
+      {
+        "id": "SING_6",
+        "nodeId": "V_DIGN",
+        "score": 60,
+        "context": "環境と指示の改善 と 特性配慮と成果両立 の対立点: 尊厳/誇り の解釈の相違（個人のウェルビーイングの重要性の重視 vs 個人の自律性の尊重と重要性の重視）"
+      },
+      {
+        "id": "SING_7",
+        "nodeId": "V_IDEN",
+        "score": 60,
+        "context": "心理的安全性構築 と 特性配慮と成果両立 の対立点: 独自性/個 の解釈の相違（多様性の尊重 vs 個人の潜在能力の尊重と重視）"
+      },
+      {
+        "id": "SING_8",
+        "nodeId": "V_EFFI",
+        "score": 60,
+        "context": "心理的安全性構築 と 特性配慮と成果両立 の対立点: 効率/合理 の解釈の相違（能力活用 vs 効率性）"
+      }
+    ],
+    "allCommonIds": [
+      "V_EFFI",
+      "N_43",
+      "V_IDEN",
+      "N_74",
+      "V_DIGN",
+      "N_79",
+      "N_83",
+      "N_84"
+    ],
+    "allSingularityIds": [
+      "N_59",
+      "N_55",
+      "N_56",
+      "N_57",
+      "N_58",
+      "N_32",
+      "N_49",
+      "N_50",
+      "N_52",
+      "N_61",
+      "N_62"
+    ],
+    "timestamp": "2026-03-16T14:02:19.335Z"
+  },
+  "briefingSheet": "## ブリーフィング・シート（要件定義書）\n\n### 1. 現在の状況と前提ファクト\n\n現代の職場環境は、ADHD/ASD傾向やメンタルヘルス不調からの復職者など、多様な特性を持つ従業員と中間管理職が共存する中で、複数の複雑な課題に直面しています。\n\n**【従業員側の状況】**\n*   **特性による困難:** ADHD/ASD特性を持つ従業員は、不注意等により職場での困難を抱えやすく、特性により生産性が低下し、メンタル不調が悪化しやすい傾向にあります。\n*   **自己開示の障壁:** 見えない障害を持つ従業員は、体調不良や特性の開示による不利益を恐れる不安を抱えており、心理的安全性が低い職場ではその困難が増します。この自己開示の困難が、必要な合理的配慮の提供を妨げています。\n*   **配慮不足の影響:** 結果として配慮が不足すると、従業員のパフォーマンス低下や離職を招くリスクがあります。\n*   **認知度の低さ:** 職場のニューロダイバーシティ（脳の多様性）に対する認知度は依然として低い状況です。\n\n**【中間管理職側の状況】**\n*   **板挟みの立場:** 中間管理職は上司から目標達成を強く求められる一方で、部下の育成と配慮を担うという事実があり、上司と部下の間で板挟みとなる状況にあります。\n*   **多大な負担:** 多岐にわたる業務を抱え、重い責任を負っているため、部下の育成や個別配慮に対して負担を感じています。\n\n**【組織全体の状況】**\n*   **コスト懸念:** 特定の従業員への合理的配慮は、隠れた社会的コストを生む可能性があるという懸念が存在します。\n*   **共通の目標:** 組織は生産性向上による経済的成果の最大化を目指しており、同時に多様な特性を持つ従業員が共存し、能力を発揮できる職場環境を構築することへの責任感と意欲を持っています。\n*   **個人の価値:** 個人の心身の健康は生活の質と幸福感を高め、能力発揮は尊厳と自己肯定感を高め、個の尊重を促進します。また、従業員の主体性の重視は個人の自律を育み、潜在能力の発揮は組織の成長とイノベーションを促進するという事実が認識されています。\n\n### 2. 最大の価値対立\n\n現在の状況における最大の価値対立は、「**組織全体の生産性・効率性・公平性**」と「**個人の心身の健康・多様性の尊重・能力発揮**」の間に存在します。\n\n*   **「組織全体の生産性・効率性・公平性」の重視:**\n    *   企業は組織目標達成への責任感と、生産性向上による経済的成果の最大化を重視しています（V: 生産性, V: 効率性, V: 経済的豊かさ, E: 多様な特性を持つ部下との共存環境における組織目標達成への責任感と、現状の課題に対する危機感）。\n    *   同時に、特定の部下への配慮が他の従業員に不公平感を生じさせることへの懸念から、公平性・公正性を重視する傾向があります（V: 公平性, V: 公正性, E: 特定の部下への配慮が他の従業員に不公平感を生じさせることへの懸念）。\n    *   中間管理職は、上司からの目標達成圧力と多岐にわたる業務負荷の中で、この価値観を強く意識せざるを得ない状況です。\n\n*   **「個人の心身の健康・多様性の尊重・能力発揮」の重視:**\n    *   従業員は自身の心身の健康、能力発揮、主体性、成長、そして潜在能力の尊重を求めています（V: 心身の健康, V: 能力発揮, V: 多様性の尊重, V: 従業員の主体性, V: 従業員の成長, V: 潜在能力の尊重）。\n    *   企業もまた、多様な特性を持つ従業員が共存し、能力を発揮できる職場環境を構築することへの責任感と意欲を持っています（E: 多様な特性を持つ従業員が共存し...）。\n    *   しかし、特性を持つ従業員は自己開示の不安や配慮不足による困難に直面しており、この価値観の実現が阻害されています。\n\nこの対立の最前線に立つのが中間管理職であり、彼らは組織目標達成と部下への個別配慮、そしてチーム内の公平性維持という、相反する要求の間で板挟みとなり、多大な負担を抱えています。\n\n**【共通基盤】**\n両陣営に共通する価値観は、「**個人の能力発揮と成長を通じた組織の持続的発展**」です。\n*   組織は、個人の潜在能力を信じ、その発揮を促すことが、組織の成長とイノベーションを促進するという事実を認識しています（F: 個人の潜在能力発揮と組織成長の重視）。\n*   個人は、能力発揮が自身の尊厳と自己肯定感を高め、新たな知識やスキル習得が潜在能力の最大限発揮に繋がると考えています（F: 能力発揮による尊厳・自己肯定感と個の尊重, F: 知識・スキル習得による潜在能力の最大限発揮）。\nこの共通基盤を足がかりに、現状の事実認識の齟齬を解消し、建設的な合意形成を目指します。\n\n### 3. 必須要件\n\n今後のソリューション構築において、最低限クリアしなければならない条件とトレードオフの境界線は以下の通りです。\n\n**【事実認識の齟齬解消と共通基盤の強化】**\n1.  **合理的配慮の価値再定義:** 「特定の従業員への合理的配慮は、隠れた社会的コストを生む可能性がある」という認識に対し、配慮不足が招く従業員の生産性低下や離職といった「より大きな長期的なコスト」を明確に提示し、合理的配慮が組織の持続的発展への「戦略的投資」であるという認識を醸成すること。\n2.  **ニューロダイバーシティ認知度向上:** 職場のニューロダイバーシティ認知度を向上させ、多様な特性への理解を深めることで、不公平感の根源となる無理解を解消し、共通基盤である「個人の能力発揮」を促進する土壌を築くこと。\n\n**【個人の能力発揮とウェルビーイング最大化】**\n3.  **特性に応じた環境・指示の改善:** 情報過多な会議の改善、具体的で背景を伴う指示、シングルタスクの推奨、通知管理、静かな作業環境の提供、業務マニュアルの整備、明確なコミュニケーションを徹底し、多様な特性を持つ従業員が能力を発揮しやすい環境を整備すること。\n4.  **心理的安全性の高い文化醸成と自己開示支援:** 従業員が体調不良や困り事を安心して開示できる心理的安全性の高い文化を醸成し、1on1の質問設計や建設的なフィードバックを通じて、自己開示のハードルを下げ、必要な配慮を適切に受けられる仕組みを構築すること。\n5.  **従業員の主体性と自律の促進:** 従業員が自身の特性を理解し、主体的に働き方を調整できるようなエンパワーメントを促し、個人の自律性を尊重すること。\n\n**【中間管理職のエンパワーメントと負担軽減】**\n6.  **特性理解と両立支援トレーニング:** 中間管理職が部下の特性を理解し、個別の配慮とチーム全体の生産性・公平性を両立させるための具体的なスキルとツールのトレーニングを提供すること。\n7.  **進捗把握と主体性引き出しの仕組み:** 管理職が部下の主体性を引き出しつつ、進捗を早期に把握できる仕組みを構築し、適切なサポートと介入を可能にすること。\n8.  **組織的なサポート体制と業務負荷の適正化:** 中間管理職が抱える業務負荷と責任を適切に評価し、専門家によるサポートや情報共有の仕組みを強化することで、彼らが孤立せず、上司と部下の板挟み状態を解消する支援体制を構築すること。\n\n**【公平性の再定義と透明性の確保】**\n9.  **「公平性」の多角的理解:** 「公平性」を「機会の平等」だけでなく、「結果の平等」や「ニーズに応じた配分の適切性」という多角的な視点から再定義し、個別配慮が不公平ではないという理解を組織全体で醸成すること。\n10. **配慮ガイドラインの策定と透明性:** 特定の部下への配慮が不公平感を生まずに済むようなガイドラインを策定し、配慮のプロセスや基準の透明性を高めることで、不公平感の根源となる「見えない部分」を解消すること。\n\n**【トレードオフの境界線】**\n*   **短期的な効率性 vs 長期的な組織の持続可能性:** 短期的な効率性やコスト増を許容し、従業員の定着、生産性向上、イノベーション創出といった長期的な組織の持続可能性への投資として位置づける。\n*   **個別配慮の柔軟性 vs 組織の統一性・公平性:** 個別配慮の柔軟性を確保しつつも、組織全体としての統一的なガイドラインや原則を設け、過度な属人化や不公平感の発生を防ぐバランスを見出す。\n*   **中間管理職の裁量 vs 組織の支援体制:** 中間管理職に一定の裁量を与える一方で、彼らが孤立しないよう、専門家によるサポートや情報共有の仕組みを強化し、組織全体で責任を分担する。"
+}

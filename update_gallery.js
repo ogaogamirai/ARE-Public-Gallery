@@ -22,7 +22,7 @@ function processThemes() {
         // AREの出力ファイル名パターンに基づいて自動リネーム
         files.forEach(file => {
             // すでにリネーム済みの標準ファイルはスキップ
-            const standardNames = ['graph.html', 'data.json', 'meta.json', 'agenda.html', 'agenda.md', 'standard.html', 'standard.md', 'learning.html', 'learning.md'];
+            const standardNames = ['graph.html', 'data.json', 'meta.json', 'agenda.html', 'agenda.md', 'standard.html', 'standard.md', 'learning.html', 'learning.md', 'resonance.html', 'resonance.md'];
             if (standardNames.includes(file)) return;
 
             let newName = null;
@@ -36,6 +36,8 @@ function processThemes() {
             else if (lowerFile.includes('standard') && file.endsWith('.md')) newName = 'standard.md';
             else if (lowerFile.includes('learning') && file.endsWith('.html')) newName = 'learning.html';
             else if (lowerFile.includes('learning') && file.endsWith('.md')) newName = 'learning.md';
+            else if (lowerFile.includes('resonance') && file.endsWith('.html')) newName = 'resonance.html';
+            else if (lowerFile.includes('resonance') && file.endsWith('.md')) newName = 'resonance.md';
 
             // リネーム実行
             if (newName) {
@@ -74,7 +76,8 @@ function processThemes() {
             reports: {
                 agenda: { html: check('agenda.html'), md: check('agenda.md') },
                 standard: { html: check('standard.html'), md: check('standard.md') },
-                learning: { html: check('learning.html'), md: check('learning.md') }
+                learning: { html: check('learning.html'), md: check('learning.md') },
+                resonance: { html: check('resonance.html'), md: check('resonance.md') }
             }
         });
     });
@@ -139,6 +142,15 @@ function updateIndex(galleryItems) {
                             <div class="flex gap-1">
                                 ${item.reports.learning.html ? `<a href="themes/${item.id}/learning.html" target="_blank" class="px-2 py-1 bg-white text-purple-600 rounded border border-purple-200 text-[10px] font-bold hover:bg-purple-50">HTML</a>` : ''}
                                 ${item.reports.learning.md ? `<a href="themes/${item.id}/learning.md" target="_blank" class="px-2 py-1 bg-white text-gray-500 rounded border border-gray-200 text-[10px] hover:bg-gray-50">MD</a>` : ''}
+                            </div>
+                        </div>` : ''}
+
+                        ${item.reports.resonance.html || item.reports.resonance.md ? `
+                        <div class="flex items-center justify-between bg-rose-50/50 p-2 rounded-lg border border-rose-100">
+                            <span class="text-xs font-bold text-rose-800"><i class="fas fa-hands-helping mr-1"></i> Resonance</span>
+                            <div class="flex gap-1">
+                                ${item.reports.resonance.html ? `<a href="themes/${item.id}/resonance.html" target="_blank" class="px-2 py-1 bg-white text-rose-600 rounded border border-rose-200 text-[10px] font-bold hover:bg-rose-50">HTML</a>` : ''}
+                                ${item.reports.resonance.md ? `<a href="themes/${item.id}/resonance.md" target="_blank" class="px-2 py-1 bg-white text-gray-500 rounded border border-gray-200 text-[10px] hover:bg-gray-50">MD</a>` : ''}
                             </div>
                         </div>` : ''}
                     </div>
