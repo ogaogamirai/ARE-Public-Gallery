@@ -2446,7 +2446,8 @@
       "checkCount": 99,
       "depth": 10,
       "Source_IDs": "",
-      "Target_IDs": "V_DIGN, N_20, N_40, N_447, N_42"
+      "Target_IDs": "V_DIGN, N_20, N_40, N_447, N_42",
+      "derive": []
     },
     {
       "id": "V_DIGN",
@@ -2457,7 +2458,8 @@
       "checkCount": 99,
       "depth": 10,
       "Source_IDs": "V_IDEN",
-      "Target_IDs": "N_544"
+      "Target_IDs": "N_544",
+      "derive": []
     },
     {
       "id": "N_62",
@@ -5165,7 +5167,8 @@
       "checkCount": 99,
       "depth": 10,
       "Source_IDs": "V_TRST",
-      "Target_IDs": "N_94, N_266, N_36, N_145"
+      "Target_IDs": "N_94, N_266, N_36, N_145",
+      "derive": []
     },
     {
       "id": "N_154",
@@ -7878,7 +7881,8 @@
       "checkCount": 99,
       "depth": 10,
       "Source_IDs": "",
-      "Target_IDs": "N_455, N_456"
+      "Target_IDs": "N_455, N_456",
+      "derive": []
     },
     {
       "id": "N_237",
@@ -10177,11 +10181,12 @@
       "type": "UV",
       "label": "希望/可能性",
       "content": "希望/可能性の追求",
-      "status": "Active",
+      "status": "Archived",
       "checkCount": 99,
       "depth": 10,
       "Source_IDs": "",
-      "Target_IDs": ""
+      "Target_IDs": "",
+      "derive": []
     },
     {
       "id": "N_306",
@@ -15265,7 +15270,8 @@
       "checkCount": 99,
       "depth": 10,
       "Source_IDs": "V_SAFE",
-      "Target_IDs": "N_440, V_EQAL"
+      "Target_IDs": "N_440, V_EQAL",
+      "derive": []
     },
     {
       "id": "N_479",
@@ -20936,7 +20942,8 @@
       "checkCount": 99,
       "depth": 10,
       "Source_IDs": "",
-      "Target_IDs": "N_360, V_SAFE, V_LOVE, N_542"
+      "Target_IDs": "N_360, V_SAFE, V_LOVE, N_542",
+      "derive": []
     },
     {
       "id": "V_SAFE",
@@ -20947,7 +20954,8 @@
       "checkCount": 99,
       "depth": 10,
       "Source_IDs": "V_LIFE",
-      "Target_IDs": "N_476, N_367, N_406, N_428, V_TRST"
+      "Target_IDs": "N_476, N_367, N_406, N_428, V_TRST",
+      "derive": []
     },
     {
       "id": "V_LOVE",
@@ -20958,7 +20966,8 @@
       "checkCount": 99,
       "depth": 10,
       "Source_IDs": "V_LIFE",
-      "Target_IDs": "N_649"
+      "Target_IDs": "N_649",
+      "derive": []
     },
     {
       "id": "N_669",
